@@ -1,0 +1,50 @@
+.banner {
+  display: flex;
+  flex-direction: row;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+
+.banner .left-column {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.banner .right-column {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.banner .right-column h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.25rem;
+  color: #9cc4dc;
+  padding-right: 15%;
+}
+
+.banner .right-column p {
+  font-size: 0.75rem;
+  color: #fff;
+  padding-right: 20%;
+}
+
+.banner .right-column .buttons {
+  display: flex;
+  gap: 1rem;
+  margin-top: 10px;
+}
+
+.banner .right-column .buttons .primary-button {
+  padding-left: 4rem;
+  padding-right: 4rem;
+}
+
+.banner .right-column .buttons .secondary-button {
+  padding-left: 4rem;
+  padding-right: 4rem;
+}

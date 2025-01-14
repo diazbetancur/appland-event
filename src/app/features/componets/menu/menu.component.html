@@ -1,0 +1,27 @@
+<div class="top-bar">
+  <div>
+    <span>📞 {{ config.i18n.phone }} </span> |
+    <span
+      >📧
+      <a href="mailto:bzelaya@lexincorp.com">{{ config.i18n.mail }}</a></span
+    >
+  </div>
+</div>
+<nav>
+  <div class="logo">
+    <img class="img" src="assets/images/logo-congreso.png" alt />
+  </div>
+  <div class="hamburger">☰</div>
+  <ul>
+    <li
+      *ngFor="let item of config.i18n.menuItems"
+      (click)="scrollTo(item.target)"
+      onkeypress=""
+    >
+      {{ item.title }}
+    </li>
+  </ul>
+  <div class="button-buy">
+    <button class="primary-button">Comprar Entradas</button>
+  </div>
+</nav>

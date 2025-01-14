@@ -1,0 +1,90 @@
+.card-description {
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 2%;
+}
+
+.card-description.even {
+  background-color: #e0e0e0;
+  border: 0px solid;
+}
+
+.card-description.odd {
+  background-color: none;
+  border: 1px solid;
+  border-color: #e0e0e0;
+}
+
+p {
+  font-size: 0.9rem;
+  color: var(--color-gray);
+}
+
+span {
+  font-size: 0.6rem;
+  color: var(--color-gray);
+}
+
+.calendary {
+  margin-top: 2%;
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 3%;
+}
+
+.primary-button {
+  margin-top: 1%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.button-space {
+  display: flex;
+  justify-content: right;
+}
+
+.container {
+  padding: 2%;
+}
+
+.day,
+.place {
+  width: 300px;
+  height: 100px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.row {
+  display: flex;
+  gap: 1%;
+  flex-direction: row;
+}
+
+.event-description {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.day-number {
+  font-size: 1rem;
+  color: var(--primary-color);
+  font-weight: bolder;
+  opacity: 1 !important;
+  position: relative;
+}
+
+.day-date {
+  font-size: 1rem;
+  color: var(--color-blue);
+  font-weight: bolder;
+  opacity: 1 !important;
+  position: relative;
+}

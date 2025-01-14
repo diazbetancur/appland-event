@@ -1,0 +1,40 @@
+<div class="container">
+  <div class="row">
+    <div class="calendary">
+      <div
+        class="day"
+        style="background-image: url('assets/images/calendar.svg')"
+      >
+        <div class="day-number">{{ eventDaty.day }}</div>
+        <div class="day-date">{{ eventDaty.date }}</div>
+      </div>
+      <div
+        class="place"
+        style="background-image: url('assets/images/ubication.svg')"
+      >
+        <div class="day-number">{{ eventDaty.place }}</div>
+      </div>
+    </div>
+    <div class="event-description">
+      <div *ngFor="let event of visibleEvents; let i = index">
+        <div
+          class="card-description"
+          [ngClass]="{ even: i % 2 === 0, odd: i % 2 !== 0 }"
+        >
+          <p>{{ event.description }}</p>
+          <span>🕒 {{ event.time }}</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="button-space">
+    <button
+      *ngIf="eventDaty.event.length > itemsToShow"
+      (click)="showMore()"
+      class="primary-button"
+    >
+      {{ showingAll ? "VER MENOS DETALLES" : "VER MÁS DETALLES" }}
+    </button>
+  </div>
+</div>

@@ -1,0 +1,16 @@
+<div id="schedule" class="container">
+  <div class="container-general">
+    <div class="text">
+      <div class="titleBlue">
+        {{ config.i18n.title }}
+      </div>
+      <div class="info">
+        {{ config.i18n.infoData }}
+      </div>
+      <div *ngFor="let item of events">
+        <app-eventday [eventDaty]="item"></app-eventday>
+      </div>
+    </div>
+  </div>
+  <div class="line"></div>
+</div>
