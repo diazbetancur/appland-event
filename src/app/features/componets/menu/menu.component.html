@@ -1,6 +1,12 @@
 <div class="top-bar">
   <div>
-    <span>📞 {{ config.i18n.phone }} </span> |
+    <span
+      >📞
+      <a [href]="whatsappLink" target="_blank" rel="noopener noreferrer">
+        {{ config.i18n.phone }}
+      </a>
+    </span>
+    |
     <span
       >📧
       <a href="mailto:bzelaya@lexincorp.com">{{ config.i18n.mail }}</a></span

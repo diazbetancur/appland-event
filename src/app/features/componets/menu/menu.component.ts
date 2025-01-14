@@ -15,4 +15,10 @@ export class MenuComponent {
       element.scrollIntoView({ behavior: 'smooth' });
     }
   }
+
+  get whatsappLink(): string {
+    return `https://wa.me/${this.config.i18n.phone
+      .replace(' ', '')
+      .replace('-', '')}`;
+  }
 }
