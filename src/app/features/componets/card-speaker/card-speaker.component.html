@@ -1,0 +1,19 @@
+<div
+  class="image-container"
+  (mouseenter)="onMouseEnter()"
+  (mouseleave)="onMouseLeave()"
+>
+  <img
+    [src]="speaker.pathPhoto || 'assets/images/speakers/speakerDefualt.png'"
+    alt
+    class="image"
+    [class.hovered]="isHovered"
+  />
+  <div *ngIf="isHovered && speaker.name" class="text-overlay">
+    {{ speaker.name }}
+  </div>
+  <div *ngIf="isHovered && speaker.from" class="text-overlay-bottom">
+    <img [src]="getFlag(speaker.from)" alt="Flag" width="20" height="15" />
+    {{ speaker.from }}
+  </div>
+</div>

@@ -35,3 +35,57 @@
 .line {
   height: 0px;
 }
+
+.photo-carousel {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.carousel-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1%;
+  width: 940px;
+  /* Ancho total de las 3 imágenes con el gap */
+  overflow: hidden;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  gap: 1%;
+  margin-top: 1%;
+  opacity: 1;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.carousel-image {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 15px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.carousel-button {
+  background-color: transparent;
+  border: none;
+  font-size: 2rem;
+  cursor: pointer;
+  color: #333;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 10;
+}
+
+.carousel-button.left {
+  left: -40px;
+}
+
+.carousel-button.right {
+  right: -40px;
+}

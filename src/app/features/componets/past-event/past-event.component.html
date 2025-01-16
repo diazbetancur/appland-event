@@ -17,5 +17,17 @@
       </div>
     </div>
   </div>
+  <div class="photo-carousel">
+    <div class="carousel-container">
+      <div class="row" *ngFor="let row of visibleGroups">
+        <img
+          *ngFor="let photo of row"
+          [src]="photo"
+          alt="Photo"
+          class="carousel-image"
+        />
+      </div>
+    </div>
+  </div>
   <div class="line"></div>
 </div>

@@ -20,3 +20,28 @@
   width: 100%;
   padding: 1%;
 }
+
+.speakers-carousel {
+  overflow: hidden;
+  width: auto;
+  padding-left: 12%;
+  padding-right: 12%;
+}
+
+.carousel-container {
+  width: 100%;
+  overflow: hidden;
+  margin: 0 auto;
+}
+
+.carousel-wrapper {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+}
+
+.carousel-slide {
+  min-width: 250px;
+  flex-shrink: 0;
+  display: flex;
+  justify-content: center;
+}

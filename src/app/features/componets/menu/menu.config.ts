@@ -1,7 +1,7 @@
 export const MenuConfig = Object.freeze({
   i18n: {
-    mail: 'bzelaya@lexincorp.com',
-    phone: '+504 2242-6490',
+    mail: 'info@ciahonduras.com',
+    phone: '+504 2242-6490 al 99',
     menuItems: [
       {
         title: 'Inicio',
