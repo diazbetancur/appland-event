@@ -2,23 +2,48 @@
   font-size: 0.75rem;
   color: var(--primary-color);
   font-weight: bold;
+
+  @media (max-width: 768px) {
+    font-size: 0.65rem;
+  }
+
+  @media (max-width: 480px) {
+    font-size: 0.6rem;
+  }
 }
 
 .titleBlue {
   font-size: 1.5rem;
   color: var(--color-blue);
   font-weight: bold;
+
+  @media (max-width: 768px) {
+    font-size: 1.25rem;
+  }
+
+  @media (max-width: 480px) {
+    font-size: 1rem;
+  }
 }
 
 .info {
   font-size: 0.75rem;
   color: var(--color-gray);
+
+  @media (max-width: 768px) {
+    font-size: 0.65rem;
+  }
+
+  @media (max-width: 480px) {
+    font-size: 0.6rem;
+  }
 }
 
 .text {
   margin-top: 5%;
   text-align: center;
   width: 100%;
+  padding: 0 5%;
 }
 
 
@@ -27,7 +52,7 @@
   position: relative;
   overflow: hidden;
   margin: 0 auto;
-  margin-top: 5%;
+  padding: 0 5%;
 }
 
 .carousel-wrapper {
@@ -105,13 +130,48 @@
   background: white;
 }
 
+@media (max-width: 1024px) {
+  .carousel-container {
+    width: 85%;
+  }
+
+  .text {
+    font-size: 1rem;
+  }
+
+  .titleBlue {
+    font-size: 1.25rem;
+  }
+
+  .info {
+    font-size: 0.9rem;
+  }
+}
+
 @media (max-width: 768px) {
+  .carousel-container {
+    width: 90%;
+  }
+
+  .text {
+    font-size: 0.9rem;
+  }
+
+  .titleBlue {
+    font-size: 1.1rem;
+  }
+
+  .info {
+    font-size: 0.8rem;
+  }
+
   .carousel-arrow {
     padding: 4px 8px;
+    font-size: 0.9rem;
   }
 
   .carousel-dot {
-    width: 8px;
-    height: 8px;
+    width: 6px;
+    height: 6px;
   }
 }

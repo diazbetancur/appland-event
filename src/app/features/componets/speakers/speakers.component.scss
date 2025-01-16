@@ -2,30 +2,71 @@
   font-size: 0.75rem;
   color: var(--primary-color);
   font-weight: bold;
+
+  @media (max-width: 768px) {
+    font-size: 0.65rem;
+  }
+
+  @media (max-width: 480px) {
+    font-size: 0.6rem;
+  }
 }
 
 .titleBlue {
   font-size: 1.5rem;
   color: var(--color-blue);
   font-weight: bold;
+
+  @media (max-width: 768px) {
+    font-size: 1.25rem;
+  }
+
+  @media (max-width: 480px) {
+    font-size: 1rem;
+  }
 }
 
 .info {
   font-size: 0.75rem;
   color: var(--color-gray);
+
+  @media (max-width: 768px) {
+    font-size: 0.65rem;
+  }
+
+  @media (max-width: 480px) {
+    font-size: 0.6rem;
+  }
 }
 
 .text {
   margin-top: 5%;
   width: 100%;
   padding: 1%;
+  text-align: center;
+
+  @media (max-width: 768px) {
+    padding: 2%;
+  }
+
+  @media (max-width: 480px) {
+    padding: 5%;
+  }
 }
 
 .speakers-carousel {
   overflow: hidden;
   width: auto;
-  padding-left: 12%;
-  padding-right: 12%;
+  padding: 0 6%;
+
+  @media (max-width: 768px) {
+    padding: 0 2%;
+  }
+
+  @media (max-width: 480px) {
+    padding: 0 17%;
+  }
+
 }
 
 .carousel-container {

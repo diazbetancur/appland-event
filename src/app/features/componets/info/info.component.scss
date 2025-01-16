@@ -1,22 +1,37 @@
 .container {
   display: flex;
   flex-direction: column;
-  padding-left: 12%;
-  padding-right: 12%;
+  padding: 5% 12%;
   align-items: center;
   margin-top: 5%;
   background-color: #f16643;
-  padding-top: 5%;
-  padding-bottom: 5%;
+
+  @media (max-width: 768px) {
+    padding: 5% 7%;
+  }
+
+  @media (max-width: 480px) {
+    padding: 5% 5%;
+  }
 }
 
 p {
   font-size: 2rem;
   font-weight: bold;
-  padding-left: 20%;
-  padding-right: 20%;
   margin: 1px;
   color: #fff;
+
+  @media (max-width: 768px) {
+    font-size: 1.25rem;
+    padding-left: 4%;
+    padding-right: 4%;
+  }
+
+  @media (max-width: 480px) {
+    font-size: 0.5rem;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
 }
 
 span {
@@ -25,6 +40,17 @@ span {
   margin-top: 1%;
   text-align: center;
   color: #fff;
+
+  @media (max-width: 768px) {
+    font-size: 0.65rem;
+    width: 60%;
+  }
+
+  @media (max-width: 480px) {
+    font-size: 0.6rem;
+    width: 80%;
+  }
+
 }
 
 .button {
@@ -38,8 +64,18 @@ span {
   background: white;
   transition: transform 0.3s;
   margin-top: 2%;
-}
 
-.button button:hover {
-  transform: scale(1.05);
+  &:hover {
+    transform: scale(1.05);
+  }
+
+  @media (max-width: 768px) {
+    padding: 0.6rem 1.5rem;
+    font-size: 0.55rem;
+  }
+
+  @media (max-width: 480px) {
+    padding: 0.5rem 1.25rem;
+    font-size: 0.5rem;
+  }
 }

@@ -1,5 +1,6 @@
  .body {
    background-color: #fff;
+   min-height: 100vh;
  }
 
  .fixed-header {
@@ -9,4 +10,10 @@
    width: 100%;
    z-index: 1000;
    transition: background-color 0.3s ease;
+ }
+
+ * {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
  }

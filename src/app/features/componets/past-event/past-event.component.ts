@@ -18,13 +18,25 @@ export class PastEventComponent implements OnInit, OnDestroy {
     this.photos = this.config.pathImages;
     this.updateVisibleGroups();
     this.startAutoSlide();
+    window.addEventListener('resize', this.updateVisibleGroups.bind(this));
   }
   ngOnDestroy() {
     this.stopAutoSlide();
+    window.removeEventListener('resize', this.updateVisibleGroups.bind(this));
   }
 
   updateVisibleGroups() {
-    const groupSize = 6;
+    const screenWidth = window.innerWidth;
+    let groupSize: number;
+
+    if (screenWidth <= 480) {
+      groupSize = 1; // Móviles
+    } else if (screenWidth <= 768) {
+      groupSize = 3; // Tablets
+    } else {
+      groupSize = 6; // Escritorios
+    }
+
     const start = this.currentIndex * groupSize;
     const end = start + groupSize;
     const slicedPhotos = this.photos.slice(start, end);

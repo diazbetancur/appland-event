@@ -20,3 +20,9 @@
   font-size: 0.75rem;
   color: var(--color-gray);
 }
+
+.general-container {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
