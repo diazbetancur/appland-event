@@ -14,7 +14,9 @@
     <p>{{ config.i18n.infoData }}</p>
     <div class="buttons">
       <button class="primary-button">Comprar Entradas</button>
-      <button class="secondary-button">Ver Agenda</button>
+      <button class="secondary-button" (click)="scrollTo('schedule')">
+        Ver Agenda
+      </button>
     </div>
   </div>
 </div>
