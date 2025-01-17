@@ -42,8 +42,12 @@ nav ul li {
     display: none;
   }
 
-  nav .hamburger {
-    display: block;
+  .top-bar {
+    display: none;
+  }
+
+  .top-bar-small-screens {
+    display: flex;
   }
 }
 
@@ -55,7 +59,8 @@ nav ul li {
   width: 250px;
 }
 
-.top-bar {
+.top-bar,
+.top-bar-small-screens {
   background-color: rgba(0, 0, 0, 0.4);
   color: white;
   padding: 0.5rem 1rem;
@@ -66,8 +71,13 @@ nav ul li {
   padding-right: 15%;
 }
 
-.top-bar a {
+.top-bar a,
+.top-bar-small-screens a {
   color: white;
   text-decoration: none;
   margin-left: 0.5rem;
+}
+
+.top-bar-small-screens {
+  flex-direction: column;
 }

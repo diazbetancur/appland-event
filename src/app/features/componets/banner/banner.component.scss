@@ -3,21 +3,21 @@
   flex-direction: row;
   background-size: cover;
   background-position: center;
-
+  animation: BgAnimation 30s infinite;
+  height: 70vh;
 }
 
-.banner .left-column {
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-
+.banner .left-column,
 .banner .right-column {
   flex: 1;
   display: flex;
   flex-direction: column;
   justify-content: center;
+  padding: 2%;
+}
+
+.banner .left-column {
+  justify-content: flex-end;
 }
 
 .banner .right-column h1 {
@@ -47,4 +47,97 @@
 .banner .right-column .buttons .secondary-button {
   padding-left: 4rem;
   padding-right: 4rem;
+}
+
+@media (max-width: 768px) {
+  .banner {
+    flex-direction: column;
+    height: auto;
+  }
+
+  .banner .left-column,
+  .banner .right-column {
+    flex: none;
+    align-items: center;
+    padding: 2%;
+  }
+
+  .banner .left-column {
+    order: 2;
+  }
+
+  .banner .right-column {
+    order: 1;
+    margin-top: 25%;
+  }
+
+  .banner .right-column h1 {
+    font-size: 2rem;
+    padding-right: 0;
+    text-align: center;
+  }
+
+  .banner .right-column p {
+    font-size: 0.9rem;
+    padding-right: 0;
+    text-align: center;
+  }
+
+  .banner .right-column .buttons {
+    flex-direction: column;
+    gap: 0.5rem;
+    margin-top: 1rem;
+  }
+
+  .banner .right-column .buttons .primary-button,
+  .banner .right-column .buttons .secondary-button {
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
+}
+
+@keyframes BgAnimation {
+  0% {
+    background-image: url('/assets/images/pastEvents/15.JPG');
+  }
+
+  10% {
+    background-image: url('/assets/images/pastEvents/19.JPG');
+  }
+
+  20% {
+    background-image: url('/assets/images/pastEvents/11.JPG');
+  }
+
+  30% {
+    background-image: url('/assets/images/pastEvents/22.JPG');
+  }
+
+  40% {
+    background-image: url('/assets/images/pastEvents/9.1.JPG');
+  }
+
+  50% {
+    background-image: url('/assets/images/pastEvents/20230919111619_IMG_9204.JPG');
+  }
+
+  60% {
+    background-image: url('/assets/images/pastEvents/20230919162333_IMG_9307.JPG');
+  }
+
+  70% {
+    background-image: url('/assets/images/pastEvents/20230919202009_IMG_9364.JPG');
+  }
+
+  80% {
+    background-image: url('/assets/images/pastEvents/20230919165148_IMG_9312.JPG');
+  }
+
+  90% {
+    background-image: url('/assets/images/pastEvents/20230919144649_IMG_9275.JPG');
+  }
+
+  100% {
+    background-image: url('/assets/images/pastEvents/20230919100848_IMG_9169.JPG');
+  }
 }

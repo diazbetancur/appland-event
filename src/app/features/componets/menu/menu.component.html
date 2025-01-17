@@ -1,18 +1,22 @@
-<div class="top-bar">
+<div *ngIf="!isSmallScreen" class="top-bar">
   <div>
-    <span
-      >📞 {{ config.i18n.phone }}
-      <!-- <a [href]="whatsappLink" target="_blank" rel="noopener noreferrer">
-        {{ config.i18n.phone }}
-      </a> -->
+    <span>📞 {{ config.i18n.phone }}</span> |
+    <span>
+      📧 <a href="mailto:bzelaya@lexincorp.com">{{ config.i18n.mail }}</a>
     </span>
-    |
-    <span
-      >📧
-      <a href="mailto:bzelaya@lexincorp.com">{{ config.i18n.mail }}</a></span
-    >
   </div>
 </div>
+
+<div *ngIf="isSmallScreen" class="top-bar-small-screens">
+  <div>
+    <span>📞 {{ config.i18n.phone }}</span>
+    <br />
+    <span>
+      📧 <a href="mailto:bzelaya@lexincorp.com">{{ config.i18n.mail }}</a>
+    </span>
+  </div>
+</div>
+
 <nav>
   <div class="logo">
     <img class="img" src="assets/images/logo-congreso.png" alt />

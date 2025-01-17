@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, HostListener } from '@angular/core';
 import { MenuConfig } from './menu.config';
 
 @Component({
@@ -8,6 +8,20 @@ import { MenuConfig } from './menu.config';
 })
 export class MenuComponent {
   public config = MenuConfig;
+  isSmallScreen = false;
+
+  constructor() {
+    this.checkScreenSize();
+  }
+
+  @HostListener('window:resize', [])
+  onResize() {
+    this.checkScreenSize();
+  }
+
+  private checkScreenSize() {
+    this.isSmallScreen = window.innerWidth <= 768;
+  }
 
   scrollTo(target: string): void {
     const element = document.getElementById(target);
