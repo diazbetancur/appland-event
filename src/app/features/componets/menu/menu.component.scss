@@ -23,6 +23,9 @@ nav .menu.open {
 nav .hamburger {
   display: none;
   cursor: pointer;
+  font-size: 1.5rem;
+  margin-left: auto;
+  padding: 0.5rem;
 }
 
 nav ul {
@@ -40,6 +43,22 @@ nav ul li {
 @media (max-width: 768px) {
   nav ul {
     display: none;
+    flex-direction: column;
+    gap: 0.5rem;
+    background-color: #444;
+    position: absolute;
+    top: 60px;
+    right: 10px;
+    border-radius: 5px;
+    padding: 1rem;
+  }
+
+  nav ul.open {
+    display: flex;
+  }
+
+  nav .hamburger {
+    display: block;
   }
 
   .top-bar {
@@ -48,6 +67,10 @@ nav ul li {
 
   .top-bar-small-screens {
     display: flex;
+  }
+
+  .button-buy {
+    display: none;
   }
 }
 

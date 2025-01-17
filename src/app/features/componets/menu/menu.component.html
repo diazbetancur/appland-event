@@ -21,12 +21,11 @@
   <div class="logo">
     <img class="img" src="assets/images/logo-congreso.png" alt />
   </div>
-  <div class="hamburger">☰</div>
-  <ul>
+  <div class="hamburger" (click)="toggleMenu()">☰</div>
+  <ul [ngClass]="{ open: isMenuOpen }">
     <li
       *ngFor="let item of config.i18n.menuItems"
-      (click)="scrollTo(item.target)"
-      onkeypress=""
+      (click)="scrollTo(item.target); toggleMenu()"
     >
       {{ item.title }}
     </li>

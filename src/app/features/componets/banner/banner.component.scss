@@ -58,8 +58,7 @@
   .banner .left-column,
   .banner .right-column {
     flex: none;
-    align-items: center;
-    padding: 2%;
+    padding: 2% 4%;
   }
 
   .banner .left-column {
@@ -91,8 +90,8 @@
 
   .banner .right-column .buttons .primary-button,
   .banner .right-column .buttons .secondary-button {
-    padding-left: 3rem;
-    padding-right: 3rem;
+    padding-left: 6rem;
+    padding-right: 6rem;
   }
 }
 

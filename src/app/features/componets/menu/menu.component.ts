@@ -9,7 +9,11 @@ import { MenuConfig } from './menu.config';
 export class MenuComponent {
   public config = MenuConfig;
   isSmallScreen = false;
+  isMenuOpen: boolean = false;
 
+  toggleMenu() {
+    this.isMenuOpen = !this.isMenuOpen;
+  }
   constructor() {
     this.checkScreenSize();
   }
