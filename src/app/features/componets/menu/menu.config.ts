@@ -19,10 +19,10 @@ export const MenuConfig = Object.freeze({
         title: 'Patrocinadores',
         target: 'sponsors',
       },
-      {
-        title: 'Contacto',
-        target: 'contact',
-      },
     ],
+  },
+  borrar: {
+    title: 'Contacto',
+    target: 'contact',
   },
 });
