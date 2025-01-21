@@ -69,7 +69,7 @@ ut laoreet dolore magna aliquam erat volutpat.`,
     {
       name: 'Antonio Bravo',
       from: 'España',
-      pathPhoto: '',
+      pathPhoto: 'assets/images/speakers/ANTONIO-BRAVO.jpg',
     },
     {
       name: 'Kristlel Batista',
@@ -79,7 +79,7 @@ ut laoreet dolore magna aliquam erat volutpat.`,
     {
       name: 'Cecila Flores Rueda',
       from: 'México',
-      pathPhoto: '',
+      pathPhoto: 'assets/images/speakers/Cecilia-Flores.png',
     },
     {
       name: 'Simón Navarro',
@@ -99,12 +99,12 @@ ut laoreet dolore magna aliquam erat volutpat.`,
     {
       name: 'Huascar Ezcurra',
       from: 'Perú',
-      pathPhoto: '',
+      pathPhoto: 'huascar_ezcurra.jpg',
     },
     {
       name: 'Margie Jaime',
       from: 'Panamá',
-      pathPhoto: '',
+      pathPhoto: 'assets/images/speakers/margie_lys_jaime.jpg',
     },
     {
       name: 'Rafael Gil Nievas',
@@ -138,7 +138,7 @@ ut laoreet dolore magna aliquam erat volutpat.`,
     },
     {
       name: 'Juan Pablo Philippi',
-      pathPhoto: '',
+      pathPhoto: 'assets/images/speakers/Juan_Pablo.JPG',
       from: 'Chile',
     },
     {
@@ -164,7 +164,7 @@ ut laoreet dolore magna aliquam erat volutpat.`,
     {
       name: 'Chalo Skineer Kle',
       from: 'Guatemala',
-      pathPhoto: '',
+      pathPhoto: 'assets/images/speakers/ALFREDO-SKINNER.png',
     },
     {
       name: 'Luis Maljik - CCA CCIC',
@@ -194,7 +194,7 @@ ut laoreet dolore magna aliquam erat volutpat.`,
     {
       name: 'Maria Angelica Burgos',
       from: 'Colombia',
-      pathPhoto: '',
+      pathPhoto: 'assets/images/speakers/Maria-Angelica-Burgos.png',
     },
     {
       name: 'Milton Argueta',
@@ -229,7 +229,7 @@ ut laoreet dolore magna aliquam erat volutpat.`,
     {
       name: 'Rafael Cox',
       from: 'Puerto Rico',
-      pathPhoto: '',
+      pathPhoto: 'assets/images/speakers/RAFAEL_COX.jpg',
     },
     {
       name: 'Gónzalo Rodríguez',
