@@ -1,26 +1,16 @@
 import { Component, EventEmitter, Input, Output } from '@angular/core';
-import { Speaker } from '../../../entities/speaker';
 
 @Component({
-  selector: 'app-card-speaker',
-  templateUrl: './card-speaker.component.html',
-  styleUrl: './card-speaker.component.scss',
+  selector: 'app-speaker-bio',
+  templateUrl: './speaker-bio.component.html',
+  styleUrl: './speaker-bio.component.scss',
 })
-export class CardSpeakerComponent {
-  @Input() speaker: Speaker = {} as Speaker;
-  @Output() speakerClick = new EventEmitter<Speaker>();
-  isHovered: boolean = false;
+export class SpeakerBioComponent {
+  @Input() speaker: any; // Información del ponente
+  @Output() close = new EventEmitter<void>();
 
-  onMouseEnter() {
-    this.isHovered = true;
-  }
-
-  onMouseLeave() {
-    this.isHovered = false;
-  }
-
-  onClick() {
-    this.speakerClick.emit(this.speaker);
+  closeModal() {
+    this.close.emit(); // Notifica al componente padre para cerrar el modal
   }
 
   public getFlag(country: string) {

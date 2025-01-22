@@ -87,4 +87,14 @@ export class SpeakersComponent implements OnInit, OnDestroy {
       this.translateValue = -this.slideWidth * slideIndex;
     }
   }
+
+  selectedSpeaker: any = null;
+
+  openModal(speaker: any) {
+    this.selectedSpeaker = speaker;
+  }
+
+  closeModal() {
+    this.selectedSpeaker = null;
+  }
 }

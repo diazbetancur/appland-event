@@ -26,9 +26,18 @@
         [style.transform]="'translateX(' + translateValue + 'px)'"
       >
         <div *ngFor="let speaker of speakers" class="carousel-slide">
-          <app-card-speaker [speaker]="speaker"></app-card-speaker>
+          <app-card-speaker
+            [speaker]="speaker"
+            (speakerClick)="openModal($event)"
+          ></app-card-speaker>
         </div>
       </div>
     </div>
   </div>
 </div>
+
+<app-speaker-bio
+  *ngIf="selectedSpeaker"
+  [speaker]="selectedSpeaker"
+  (close)="closeModal()"
+></app-speaker-bio>

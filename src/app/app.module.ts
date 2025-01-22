@@ -15,6 +15,7 @@ import { ScheduleComponent } from './features/componets/schedule/schedule.compon
 import { PastEventComponent } from './features/componets/past-event/past-event.component';
 import { EventdayComponent } from './features/componets/eventday/eventday.component';
 import { CardSpeakerComponent } from './features/componets/card-speaker/card-speaker.component';
+import { SpeakerBioComponent } from './features/componets/speaker-bio/speaker-bio.component';
 
 @NgModule({
   declarations: [
@@ -31,6 +32,7 @@ import { CardSpeakerComponent } from './features/componets/card-speaker/card-spe
     PastEventComponent,
     EventdayComponent,
     CardSpeakerComponent,
+    SpeakerBioComponent,
   ],
   imports: [BrowserModule, AppRoutingModule],
   providers: [],
