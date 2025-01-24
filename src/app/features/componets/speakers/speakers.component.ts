@@ -53,28 +53,6 @@ export class SpeakersComponent implements OnInit, OnDestroy {
     }
   }
 
-  onMouseDown(event: MouseEvent) {
-    clearInterval(this.interval);
-    this.isDragging = true;
-    this.startX = event.clientX;
-    this.currentTranslate = this.translateValue;
-  }
-
-  onMouseMove(event: MouseEvent) {
-    if (this.isDragging) {
-      const dragDistance = event.clientX - this.startX;
-      this.translateValue = this.currentTranslate + dragDistance;
-    }
-  }
-
-  onMouseUp() {
-    if (this.isDragging) {
-      this.isDragging = false;
-      this.snapToSlide();
-      this.startCarousel();
-    }
-  }
-
   snapToSlide() {
     const slideIndex = Math.round(this.translateValue / -this.slideWidth);
     const maxSlides = this.speakers.length - this.visibleSlides;
@@ -96,5 +74,11 @@ export class SpeakersComponent implements OnInit, OnDestroy {
 
   closeModal() {
     this.selectedSpeaker = null;
+  }
+
+  movePrevious() {
+    if (this.translateValue < 0) {
+      this.translateValue += this.slideWidth;
+    }
   }
 }
