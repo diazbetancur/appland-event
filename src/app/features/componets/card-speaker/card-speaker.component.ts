@@ -11,14 +11,6 @@ export class CardSpeakerComponent {
   @Output() speakerClick = new EventEmitter<Speaker>();
   isHovered: boolean = false;
 
-  onMouseEnter() {
-    this.isHovered = true;
-  }
-
-  onMouseLeave() {
-    this.isHovered = false;
-  }
-
   onClick() {
     this.speakerClick.emit(this.speaker);
   }

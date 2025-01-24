@@ -15,7 +15,7 @@ ut laoreet dolore magna aliquam erat volutpat.`,
     {
       name: 'Eliana Baraldi',
       from: 'Brasil',
-      pathPhoto: 'assets/images/speakers/Eliana-Baraldi.jpg',
+      pathPhoto: 'assets/images/speakers/Eliana-Baraldi.png',
       bio: `Socia fundadora de Eliana Baraldi Advogados en São Paulo, Brasil (2018)
 Maestría en Derecho Internacional por la Universidad de São Paulo-USP
 30 años de experiencia como abogada y árbitro en arbitraje nacional/internacional y litigios judiciales corporativos. Autora de publicaciones nacionales e internacionales relacionadas con el arbitraje
@@ -27,7 +27,7 @@ Professora invitada de la Universidad de Salamanca, España; Auburn University, 
     {
       name: 'Wuandy Vargas',
       from: 'Perú',
-      pathPhoto: 'assets/images/speakers/Wuandy-Vargas.jpeg',
+      pathPhoto: 'assets/images/speakers/Wuandy-Vargas.png',
       bio: `Wuandy Vargas Guevara es abogada peruana, árbitro nacional e internacional y adjudicadora,
 con amplia experiencia en resolución de disputas en los sectores de construcción, gestión de
 proyectos, contratación pública, contratos NEC y contratos FIDIC. Cuenta con una maestría en
@@ -50,7 +50,7 @@ Resolution Board Foundation (DRBF) y el Club Español e Iberoamericano de Arbitr
     {
       name: 'Fernando Marcondes',
       from: 'Brasil',
-      pathPhoto: 'assets/images/speakers/Fernandi-Marcondes.jpg',
+      pathPhoto: 'assets/images/speakers/Fernandi-Marcondes.png',
       bio: ``,
     },
     {
@@ -80,7 +80,7 @@ Resolution Board Foundation (DRBF) y el Club Español e Iberoamericano de Arbitr
     {
       name: 'Christa Mueller',
       from: 'México',
-      pathPhoto: 'assets/images/speakers/Christa-Mueller.jpg',
+      pathPhoto: 'assets/images/speakers/Christa-Mueller.png',
       bio: `Christa cuenta con más de dos décadas de experiencia en litigio comercial y administrativo y arbitraje comercial.
 En 2016 se independizo y desde 2018 actúa exclusivamente como árbitro primordialmente en los sectores de energía, oil & gas e infraestructura.
 Christa ha sido honrada con el reconocimiento de Chambers & Partners dentro de la lista de “Árbitros más Solicitados” Banda 1 en México en 2024, destacando su habilidad y pericia en este campo.
@@ -96,7 +96,7 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
     {
       name: 'Jaqueline López',
       from: 'España',
-      pathPhoto: 'assets/images/speakers/Jaqueline-lopez.jpeg',
+      pathPhoto: 'assets/images/speakers/Jaqueline-lopez.png',
       bio: ``,
     },
     {
@@ -108,7 +108,7 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
     {
       name: 'Antonio Bravo',
       from: 'España',
-      pathPhoto: 'assets/images/speakers/ANTONIO-BRAVO.jpg',
+      pathPhoto: 'assets/images/speakers/ANTONIO-BRAVO.png',
       bio: ``,
     },
     {
@@ -144,13 +144,13 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
     {
       name: 'Huascar Ezcurra',
       from: 'Perú',
-      pathPhoto: 'assets/images/speakers/huascar_ezcurra.jpg',
+      pathPhoto: 'assets/images/speakers/huascar_ezcurra.png',
       bio: ``,
     },
     {
       name: 'Margie Jaime',
       from: 'Panamá',
-      pathPhoto: 'assets/images/speakers/margie_lys_jaime.jpg',
+      pathPhoto: 'assets/images/speakers/margie_lys_jaime.png',
       bio: ``,
     },
     {
@@ -191,7 +191,7 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
     },
     {
       name: 'Juan Pablo Philippi',
-      pathPhoto: 'assets/images/speakers/Juan_Pablo.JPG',
+      pathPhoto: 'assets/images/speakers/Juan_Pablo.png',
       from: 'Chile',
       bio: ``,
     },
@@ -240,7 +240,7 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
     {
       name: 'Carolina Silva',
       from: 'Colombia',
-      pathPhoto: 'assets/images/speakers/Carolina-Silva.jpeg',
+      pathPhoto: 'assets/images/speakers/Carolina-Silva.png',
       bio: `Arbitro Nacional e Internacional. Experta en derecho comercial y Construcción bajo la modalidad de Asociaciones Publico Privadas. Secretaria técnica de la Ley de Arbitraje Internacional Ley 1563 de 2012. Miembro de la Comisión de Arbitraje y ADR de la CCI Colombia y Fundadora del Pot-cast denominado “5 minutos para hablar de Arbitraje “.
 
 
@@ -304,7 +304,7 @@ Hace parte de la lista de Árbitros Internacionales en  ICDR, Arbitro Internacio
     {
       name: 'Rafael Cox',
       from: 'Puerto Rico',
-      pathPhoto: 'assets/images/speakers/RAFAEL_COX.jpg',
+      pathPhoto: 'assets/images/speakers/RAFAEL_COX.png',
       bio: ``,
     },
     {
