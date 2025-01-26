@@ -54,10 +54,66 @@ Resolution Board Foundation (DRBF) y el Club Español e Iberoamericano de Arbitr
       bio: ``,
     },
     {
-      name: 'Eric Britton',
+      name: 'Erick Britton',
       from: 'Panamá',
-      pathPhoto: '',
-      bio: ``,
+      pathPhoto: 'assets/images/speakers/Erick_Briton.png',
+      bio: `Eric Britton
+Partner
+PANAMA
+T. +507.388.4800
+F. +507.388.4801
+E. britton@brig.com.pa
+Experiencia
+Socio a cargo del Departamento de Litigios y Arbitrajes de BRIG. Participa activamente
+de la práctica del litigio y arbitraje comercial a nivel local e internacional. Ha actuado
+como abogado de parte y como árbitro en múltiples procesos en base a las reglas de
+centros de arbitraje como el de la Cámara de Comercio de Panamá, Cámara de la
+Construcción de Panamá, Cámara de Comercio Internacional (ICC), UNCITRAL y
+CIADI.
+En materia de arbitraje ha participado en disputas principalmente en materia de
+construcción, suministro, energía, contratos de concesiones públicas, compra venta,
+distribución, banca y finanzas, entre otros. En materia de construcción participa de
+manera activa en Mesas de Resolución de Conflictos (“Dispute Boards”).
+Igualmente, ha participado activamente en la redacción, negociación y revisión de
+acuerdos contractuales en diversas áreas comerciales y con frecuencia asesora a
+clientes extranjeros en el establecimiento de sus inversiones en Panamá.
+Eric Britton fue Presidente del Consejo Directivo del Centro de Arbitraje de la Cámara
+Panameña de la Construcción (CAPAC). Es Representante de país ante el Dispute
+Resolution Board Foundation (DRBF). Es invitado a participar como orador
+frecuentemente a nivel nacional e internacional en temas de arbitraje comercial y
+derecho de la construcción.
+
+Licencias
+Admitido por la Corte Suprema de Justicia de Panamá
+
+Admitido por el Consejo Superior de la Judicatura de Colombia.
+
+Educación
+2014 – Cambridge University – UK.
+Estudios de Especialización en Derecho de la Construcción.
+2007-2008 – Universidad Externado de Colombia.
+Estudios de Especialización en Derecho Contractual
+1998 – Cornell University y Universidad de Paris I, Sorbonne. Paris, Francia.
+Estudios de Litigio y Arbitraje Internacional
+1998 – Instituto Egeo de Derecho del Mar y Derecho Marítimo. Rhodos, Grecia.
+Estudios Avanzados de Arbitraje Marítimo
+1997 – Tulane University. New Orleans, USA.
+Maestría en Derecho Marítimo y estudios de Arbitraje Comercial.
+1996 – ULACIT. Ciudad de Panamá.
+Licenciatura en Derecho y Ciencias Políticas.
+Primer Puesto de Honor.
+
+Asociaciones Profesionales y Membresías
+Miembro del Colegio Nacional de Abogados de Panamá
+Vice- Presidente de la Asociación Panameña de Derecho de la Construcción
+Miembro de la Cámara de Comercio de Panamá
+Director del Consejo Directivo del Centro de Arbitraje de la Cámara Panameña de la
+Construcción
+Miembro de la Asociación Latinoamericana de Arbitraje - ALARB
+Miembro del Grupo Latinoamericano de Arbitraje de la ICC
+
+Idiomas
+Español e Inglés`,
     },
     {
       name: 'Gustavo Solorzano',
@@ -138,8 +194,21 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
     {
       name: 'David Orta',
       from: 'Miami',
-      pathPhoto: '',
-      bio: ``,
+      pathPhoto: 'assets/images/speakers/David_Orta.png',
+      bio: `David Orta es el Director de la Práctica de Arbitraje Internacional de América Latina y Estados
+Unidos de América. Las guías jurídicas Chambers Global y Chambers Latin América indican
+que sus clientes lo describen como &quot;un abogado tenaz con vasta experiencia que inspira
+verdadera confianza y con una capacidad excepcional de ver todos los ángulos.” También
+informan que David es merecedor de elogios por su dedicación y “por ir más allá con tal de
+conseguir el mejor resultado&quot;.
+David es un litigante y abogado de arbitraje internacional con más de 25 años de experiencia
+representando con éxito a clientes en arbitrajes internacionales complejos (incluyendo arbitrajes
+inversionista-Estado y arbitrajes comerciales internacionales). Asimismo, representa a clientes en
+litigios comerciales multinacionales complejos. Los casos y clientes de David abarcan la
+mayoría de los continentes, incluyendo América del Norte, América Central, América del Sur,
+Europa, Asia, África y Australia. Su experiencia abarca muchos sectores, incluyendo: energía,
+petróleo y gas, transporte, infraestructura, construcción, plantas de energía, telecomunicaciones,
+minería y disputas con relación a fusiones o adquisiciones de empresas.`,
     },
     {
       name: 'Huascar Ezcurra',
@@ -168,8 +237,14 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
     {
       name: 'Ana M. Ordoñez',
       from: 'Colombia',
-      pathPhoto: '',
-      bio: ``,
+      pathPhoto: 'assets/images/speakers/Ana_Maria_Ordonez.png',
+      bio: `Árbitro y Counsel en Martínez, Quintero, Mendoza, Laguado &amp; De La Rosa. Ex
+directora de Defensa Jurídica Internacional en la Agencia Nacional de Defensa
+Jurídica del Estado de Colombia, donde estructuró y consolidó un modelo de defensa
+efectivo en 22 arbitrajes de inversión. Lideró las negociaciones con inversionistas
+durante el período obligatorio de negociación, e integró la delegación colombiana que
+participa en el Grupo 3 de Trabajo de la Comisión de Naciones Unidas para el Derecho
+MercantiI Internacional.`,
     },
     {
       name: 'Maire Uran',
@@ -180,8 +255,24 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
     {
       name: 'Carlos Concepción',
       from: 'EE.UU.',
-      pathPhoto: '',
-      bio: ``,
+      pathPhoto: 'assets/images/speakers/Sean-Anderson.png',
+      bio: `Carlos is the Managing Partner of Concepcion Global PLLC, a law firm
+with offices in Miami Florida and Madrid Spain. Carlos is Board
+Certified in International Litigation and Arbitration and is a Fellow of
+the Chartered Institute of Arbitrators and the College of Commercial
+Arbitrators. He has more than 35 years of experience in international
+commercial and investor-state disputes, especially in the intersection
+between common and civil law jurisdictions.
+Carlos serves as counsel and international arbitrator in a wide range of
+international litigation and arbitration matters. His practice focuses on
+disputes involving financial services, design and construction, and
+distribution and supply chain controversies involving parties from
+multiple jurisdictions.
+As an arbitrator, Carlos focuses on institutional proceedings involving
+international commercial disputes, and investment-treaty matters
+administered by ICSID. Carlos has worked with all the leading
+arbitration organizations and has conducted proceedings in Spanish
+and English.`,
     },
     {
       name: 'Sean Anderson',
@@ -310,8 +401,20 @@ Hace parte de la lista de Árbitros Internacionales en  ICDR, Arbitro Internacio
     {
       name: 'Gónzalo Rodríguez',
       from: 'EE.UU.',
-      pathPhoto: '',
-      bio: ``,
+      pathPhoto: 'assets/images/speakers/Gonzalo_Rodriguez.png',
+      bio: `Abogado formado en derecho continental y anglosajón basado en Nueva York, Senior Counsel de la
+firma Hogan Lovells. Cuenta con amplia experiencia en la representación de clientes en arbitrajes
+comerciales y de inversión, así como en grandes transacciones comerciales internacionales durante
+más de 30 años, mayormente en asuntos relacionados con América Latina. También ha actuado
+como árbitro en arbitrajes internacionales y nacionales. En su práctica diversa ha manejado asuntos
+relacionados con contratos de desarrollo de infraestructura y construcción, asociaciones público-
+privadas, fusiones y adquisiciones, joint ventures, financiación de proyectos y contratos de
+distribución. Ha representado mayormente a clientes de los sectores de la energía, petróleo y gas,
+infraestructura, minería, alimentos y consumo masivo. Es árbitro del panel de árbitros del International
+Centre for Dispute Resolution de la American Arbitration Association (AAA), así como del panel de
+árbitros comerciales de la AAA, también es Fellow del Chartered Institute of Arbitrators (FCiArb) y
+participa regularmente como expositor en conferencias y talleres sobre arbitraje y contratación
+internacional.`,
     },
   ],
 });
