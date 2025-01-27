@@ -55,6 +55,8 @@
   display: flex;
   gap: 1rem;
   margin-top: 10px;
+  z-index: 1001;
+  padding-bottom: 10px;
 }
 
 .banner .right-column .buttons .primary-button {
@@ -128,7 +130,7 @@
   }
 
   20% {
-    background-image: url('/assets/images/pastEvents/11.JPG');
+    background-image: url('/assets/images/pastEvents/23.jfif');
   }
 
   30% {
@@ -140,11 +142,12 @@
   }
 
   50% {
-    background-image: url('/assets/images/pastEvents/20230919111619_IMG_9204.JPG');
+    background-image: url('/assets/images/pastEvents/20230919120943_IMG_9227.JPG');
   }
 
   60% {
-    background-image: url('/assets/images/pastEvents/20230919162333_IMG_9307.JPG');
+    // Cambiar
+    background-image: url('/assets/images/pastEvents/20230918151359_IMG_9050.JPG');
   }
 
   70% {
@@ -160,6 +163,6 @@
   }
 
   100% {
-    background-image: url('/assets/images/pastEvents/20230919100848_IMG_9169.JPG');
+    background-image: url('/assets/images/pastEvents/18.JPG');
   }
 }
