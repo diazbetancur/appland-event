@@ -206,6 +206,12 @@ Secretario General del Club Español e Iberoamericano del Arbitraje entre 2017 y
       bio: ``,
     },
     {
+      name: 'Franchesca Cifuentes',
+      from: 'Colombia',
+      pathPhoto: 'assets/images/speakers/Francesca_Cifuentes.png',
+      bio: `Es árbitro nacional e internacional con amplia experiencia en derecho comercial, administrativo y constitucional. Es abogada de la Universidad de los Andes con estudios avanzados en Paris II Panthéon-Assas y Paris III Sorbonne Nouvelle. Como profesora y conferencista, se especializa en arbitraje de inversión y comercial internacional, abordando temas innovadores como la inteligencia artificial en el arbitraje. Es autora del libro Arbitraje Nacional Colombiano y de varios artículos académicos sobre arbitraje y derecho internacional. `,
+    },
+    {
       name: 'David Orta',
       from: 'Miami',
       pathPhoto: 'assets/images/speakers/David_Orta.png',
