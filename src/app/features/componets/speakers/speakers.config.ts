@@ -42,6 +42,12 @@ organizaciones internacionales como el Chartered Institute of Arbitrators (CIArb
 Resolution Board Foundation (DRBF) y el Club Español e Iberoamericano de Arbitraje (CEIA).`,
     },
     {
+      name: 'Adriana Vargas',
+      from: 'Costa Rica',
+      pathPhoto: 'assets/images/speakers/Adriana_Vargas.png',
+      bio: `Adriana Vargas es la Directora de Litigio y Arbitraje en Lexincorp Costa Rica. Posee una sólida trayectoria en arbitrajes comerciales y de construcción, así como en litigio. Tras obtener su Maestría en Derecho (LL.M.) en Columbia Law School, se incorporó a la oficina de Nueva York de una de las firmas legales más prestigiosas de los Estados Unidos. Durante este tiempo, manejó casos ante el NYC Commission on Human Rights y el NY State Division of Human Rights, y participó activamente en audiencias judiciales y administrativas, incluyendo procedimientos ante la Corte Federal.`,
+    },
+    {
       name: 'Katherine Gonzalez',
       from: 'Panamá',
       pathPhoto: '',
@@ -51,7 +57,7 @@ Resolution Board Foundation (DRBF) y el Club Español e Iberoamericano de Arbitr
       name: 'Fernando Marcondes',
       from: 'Brasil',
       pathPhoto: 'assets/images/speakers/Fernandi-Marcondes.png',
-      bio: ``,
+      bio: `Fernando Marcondes es abogado desde 1988, árbitro desde 2001 y miembro de Dispute Boards desde 2009. Actúa exclusivamente en el área de Construcción e Infraestructura. Es el fundador del Instituto Brasileño de Derecho de la Construcción, donde hoy ejerce la función de consejero vitalicio. Fue el representante del Brasil ante la DRBF por 7 años hasta 2024 y es presidente de honor del capítulo brasileño del Club Español e Iberoamericano del Arbitraje.`,
     },
     {
       name: 'Erick Britton',
@@ -153,7 +159,7 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
       name: 'Jaqueline López',
       from: 'España',
       pathPhoto: 'assets/images/speakers/Jaqueline-lopez.png',
-      bio: ``,
+      bio: `Jacqueline López Wismer es abogada alemana y española, árbitro y cofundadora del boutique-law firm Kniprath Lopez Attorneys en Berlín y Barcelona con el enfoque a resolución de litigios internacionales; hizo un máster en Derecho International de los Negocios en Esade, Barcelona, y tiene el título Fellow of the Chartered Institute of Arbitrators (FCIArb). Es presidenta del capítulo Alemania y Austria del Club Español e Iberoamericano del Arbitraje (CEIA), Madrid. Ha sido nombrada Delegada de ICC España en la ICC Commission on Arbitration and ADR para el mandado 2024-2027.`,
     },
     {
       name: 'Javier Iscar',
@@ -186,6 +192,14 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
       bio: ``,
     },
     {
+      name: 'Seguimindo Navarro',
+      from: 'España',
+      pathPhoto: '',
+      bio: `abogado español que vive en Melilla. Actúa de forma exclusiva como árbitro. Socio en inARB. Involucrado en procedimientos administrados por instituciones internacionales de primer nivel en asuntos sobre construcción, ingeniería, energía, telecomunicaciones, seguros, entretenimiento, producción de bienes y M&A.
+Diplomado en arbitraje por el Chartered Institute of Arbitrators y la Swiss Arbitration Academy, experto en Contratos con el Estado en Perú, Master por la Universidad Carlos III de Madrid, Experto en Retórica y Argumentación Jurídica por la Universidad Complutense de Madrid, y Licenciado en Derecho, con diploma en administración de empresas, por la Universidad Pontificia de Comillas.
+Secretario General del Club Español e Iberoamericano del Arbitraje entre 2017 y 2020, y sigue formando parte de su Junta Directiva.”`,
+    },
+    {
       name: 'Amaia Rivas',
       from: 'España',
       pathPhoto: '',
@@ -214,7 +228,7 @@ minería y disputas con relación a fusiones o adquisiciones de empresas.`,
       name: 'Huascar Ezcurra',
       from: 'Perú',
       pathPhoto: 'assets/images/speakers/huascar_ezcurra.png',
-      bio: ``,
+      bio: `Huáscar es Máster en Derecho por la Universidad de Yale y abogado por la Pontificia Universidad Católica del Perú. Es Socio del área de Solución de Controversias desde 2001, en el despacho Bullard Falla Ezcurra +. Tiene experiencia en las áreas de Litigio Arbitral Local e Internacional en sectores como Oil & Gas, Energía, Infraestructura, Construcción, Telecomunicaciones, convenios de accionistas y disputas contractuales. Asimismo, patrocina inversionistas en controversias internacionales de Arbitraje de Inversiones y ha sido reconocido como Band 1 por 16 años consecutivos en la categoría “Dispute Resolution: Arbitration” de Chambers & Partners. Dicta el curso de Arbitraje Comercial y de Inversiones en la Pontificia Universidad Católica del Perú, y el curso de Análisis Económico del Derecho en la Universidad ESEN en el Salvador.`,
     },
     {
       name: 'Margie Jaime',
@@ -255,7 +269,7 @@ MercantiI Internacional.`,
     {
       name: 'Carlos Concepción',
       from: 'EE.UU.',
-      pathPhoto: 'assets/images/speakers/Sean-Anderson.png',
+      pathPhoto: '',
       bio: `Carlos is the Managing Partner of Concepcion Global PLLC, a law firm
 with offices in Miami Florida and Madrid Spain. Carlos is Board
 Certified in International Litigation and Arbitration and is a Fellow of
@@ -284,7 +298,7 @@ and English.`,
       name: 'Juan Pablo Philippi',
       pathPhoto: 'assets/images/speakers/Juan_Pablo.png',
       from: 'Chile',
-      bio: ``,
+      bio: `Juan Pablo es socio de FK Economics y tiene más de 10 años liderando el desarrollo de FK Economics en Iberoamérica. Centra su práctica en la elaboración de estudios económicos y dictámenes periciales en materias de daños y financieros. Ha sido reconocido por varios años por prestigiosas publicaciones como Lexology y Leaders League.`,
     },
     {
       name: 'Carlos Ortega',
@@ -301,7 +315,7 @@ and English.`,
     {
       name: 'Felipe Nazar',
       from: 'EE.UU.',
-      pathPhoto: '',
+      pathPhoto: 'assets/images/speakers/Felipe_nazar.png',
       bio: ``,
     },
     {
@@ -320,7 +334,9 @@ and English.`,
       name: 'Luis Maljik - CCA CCIC',
       from: 'Honduras',
       pathPhoto: 'assets/images/speakers/Luis-Maljik.png',
-      bio: ``,
+      bio: `Abogado. Master en Derecho Procesal Civil. Master en Propiedad Intelectual y Derecho de las Nuevas Tecnologías.
+Fue Juez de la República por 11 años y es autor de diversas publicaciones en el área de Derecho Procesal.
+Actualmente ejerce como Director del Centro de Conciliación y Arbitraje de la Cámara de Comercio e Industrias de Cortés y como Profesor de Derecho en la Universidad Tecnológica Centroamericana (UNITEC).`,
     },
     {
       name: 'Liliana Sanchez',
@@ -332,7 +348,10 @@ and English.`,
       name: 'Carolina Silva',
       from: 'Colombia',
       pathPhoto: 'assets/images/speakers/Carolina-Silva.png',
-      bio: `Arbitro Nacional e Internacional. Experta en derecho comercial y Construcción bajo la modalidad de Asociaciones Publico Privadas. Secretaria técnica de la Ley de Arbitraje Internacional Ley 1563 de 2012. Miembro de la Comisión de Arbitraje y ADR de la CCI Colombia y Fundadora del Pot-cast denominado “5 minutos para hablar de Arbitraje “.
+      bio: `Carolina Silva, Arbitro Nacional e Internacional. Experta en derecho comercial y Construcción bajo la modalidad de Asociaciones Publico Privadas. Secretaria técnica de la Ley de Arbitraje Internacional Ley 1563 de 2012. Miembro de la Comisión de Arbitraje y ADR de la CCI Colombia y Fundadora del Pot-cast denominado “5 minutos para hablar de Arbitraje “.
+
+Hace parte de la lista de Árbitros Internacionales en  ICDR, Arbitro Internacional de la Cámara de Comercio de Lima - Perú, Arbitro internacional de la Cámara de Comercio de Tegucigalpa, Arbitro Internacional de la Cámara de Comercio de Cali y Cámara de Comercio de Cartagena. Arbitro Nacional Lista “A” Cámara de Comercio de Bogotá en la especialidad de Derecho Comercial y Construcción.   Miembro del Club Español e Iberoamericano de Arbitraje en la Comisión de Dispute Boards. Miembro de la Comisión de Arbitraje y ADR CCI Colombia. Profesor Docente en Arbitraje Nacional e Internacional.
+ “.
 
 
 
@@ -345,10 +364,19 @@ Hace parte de la lista de Árbitros Internacionales en  ICDR, Arbitro Internacio
       bio: ``,
     },
     {
-      name: 'Hector naya',
+      name: 'Hector Anaya',
       from: 'México',
-      pathPhoto: '',
-      bio: ``,
+      pathPhoto: 'assets/images/speakers/HECTOR_ANAYA.png',
+      bio: `Héctor Anaya Mondragón es abogado especializado en litigio y arbitraje, con admisión en México y España. Es socio fundador de Gritwood Dispute Resolution, S.C., una firma con sede en la Ciudad de México especializada en arbitraje y litigio.
+Con más de 20 años de práctica profesional, Héctor se enfoca en arbitraje, litigio administrativo, litigios transfronterizos y protección de inversiones extranjeras. Ha representado a clientes de diversas industrias, como construcción, infraestructura, energía, transporte y seguros. Asimismo, Héctor se despeña como árbitro en arbitrajes nacionales e internacionales.
+Héctor obtuvo su título de abogado en la Universidad Panamericana en 2004 y una Maestría en Derecho y Negocios de Bucerius Law School en 2009. Además, es abogado por revalidación en España desde 2010 y posee un doctorado de la Universidad Johann Wolfgang Goethe desde 2014.
+`,
+    },
+    {
+      name: 'María Pradilla',
+      from: 'EE.UU.',
+      pathPhoto: 'assets/images/speakers/maria-padilla.png',
+      bio: `Maria Pradilla Picas enfoca su práctica en el arbitraje y litigio de disputas comerciales y de inversión complejas, con énfasis particular en América Latina. Ha representado a clientes en tratados de inversión y procedimientos de arbitraje comercial bajo las normas de la UNCITRAL (Comisión de las Naciones Unidas para el Derecho en materia de Comercio Exterior), el ICSID (Centro Internacional de Solución de Controversias Relativas a Inversiones) y la ICC (Cámara Internacional de Comercio).`,
     },
     {
       name: 'Maria Angelica Burgos',
@@ -384,13 +412,13 @@ Hace parte de la lista de Árbitros Internacionales en  ICDR, Arbitro Internacio
       name: 'Horacio Grigera',
       from: 'EE.UU.',
       pathPhoto: '',
-      bio: ``,
+      bio: `Huáscar es Máster en Derecho por la Universidad de Yale y abogado por la Pontificia Universidad Católica del Perú. Es Socio del área de Solución de Controversias desde 2001, en el despacho Bullard Falla Ezcurra +. Tiene experiencia en las áreas de Litigio Arbitral Local e Internacional en sectores como Oil & Gas, Energía, Infraestructura, Construcción, Telecomunicaciones, convenios de accionistas y disputas contractuales. Asimismo, patrocina inversionistas en controversias internacionales de Arbitraje de Inversiones y ha sido reconocido como Band 1 por 16 años consecutivos en la categoría “Dispute Resolution: Arbitration” de Chambers & Partners. Dicta el curso de Arbitraje Comercial y de Inversiones en la Pontificia Universidad Católica del Perú, y el curso de Análisis Económico del Derecho en la Universidad ESEN en el Salvador.`,
     },
     {
       name: 'José María Alonso',
       from: 'España',
-      pathPhoto: '',
-      bio: ``,
+      pathPhoto: 'assets/images/speakers/Jose-maria.png',
+      bio: `José María Alonso es Presidente de CIAM-CIAR y socio director de Alonso & Díez-Hochleitner Abogados. Ha sido Socio Director en J&A Garrigues y Baker McKenzie en Madrid, así como Decano del Ilustre Colegio de Abogados de Madrid. Su trayectoria incluye más de 40 años en el derecho, con especial enfoque en la resolución de disputas. Además, es Presidente de honor del CEIA, vocal de la Junta de gobierno de la Mutualidad de la Abogacía, y miembro de su Comisión Ejecutiva. Ha actuado como árbitro en más de 300 procedimientos arbitrales tanto en España como a nivel global`,
     },
     {
       name: 'Rafael Cox',
@@ -415,6 +443,16 @@ Centre for Dispute Resolution de la American Arbitration Association (AAA), así
 árbitros comerciales de la AAA, también es Fellow del Chartered Institute of Arbitrators (FCiArb) y
 participa regularmente como expositor en conferencias y talleres sobre arbitraje y contratación
 internacional.`,
+    },
+    {
+      name: 'Fanny Rodriguez',
+      from: 'Honduras',
+      pathPhoto: 'assets/images/speakers/Fanny_Rodriguez.png',
+      bio: `Fanny está a cargo del Departamento de Litigios y Arbitraje de Arias en Honduras; asi
+mismo, dirige el Departamento Laboral, área de práctica en la que tiene una amplia trayectoria.
+Es coordinadora del Departamento Administrativo y Migratorio de la firma. Tiene vasta experiencia en contratación pública y procedimientos administrativos, incluyendo tramitación de impugnaciones en instancia administrativa.
+Asimismo, tiene amplia experiencia en la asesoría corporativa y comercial, con enfoque en materia de distribución, representación y agencia, así como relaciones comerciales vinculadas.
+`,
     },
   ],
 });

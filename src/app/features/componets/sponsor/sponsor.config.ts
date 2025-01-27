@@ -7,16 +7,34 @@ ut laoreet dolore magna aliquam erat volutpat.`,
   },
   pathImages: [
     {
-      src: 'assets/images/CEIA-logo.png',
+      src: 'assets/images/sponsor/arias.png',
       alt: '',
+      type: 'Plata',
+    },
+    {
+      src: 'assets/images/sponsor/ecija.png',
+      alt: '',
+      type: 'Plata',
+    },
+    {
+      src: 'assets/images/sponsor/IA.png',
+      alt: '',
+      type: 'Plata',
+    },
+    {
+      src: 'assets/images/sponsor/PAC.png',
+      alt: '',
+      type: 'Plata',
     },
     {
       src: 'assets/images/CEIA-Logo_hon.png',
       alt: '',
+      type: '',
     },
     {
       src: 'assets/images/CIAM-CIAR-Logo.png',
       alt: '',
+      type: '',
     },
   ],
 });
