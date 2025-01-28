@@ -62,6 +62,7 @@
 .banner .right-column .buttons .primary-button {
   padding-left: 4rem;
   padding-right: 4rem;
+  display: none;
 }
 
 .banner .right-column .buttons .secondary-button {
@@ -146,8 +147,7 @@
   }
 
   60% {
-    // Cambiar
-    background-image: url('/assets/images/pastEvents/20230918151359_IMG_9050.JPG');
+    background-image: url('/assets/images/pastEvents/15.JPG');
   }
 
   70% {
