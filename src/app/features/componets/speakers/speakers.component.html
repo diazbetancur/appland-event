@@ -23,7 +23,6 @@
       >
         <div *ngFor="let speaker of speakers" class="carousel-slide">
           <app-card-speaker
-            *ngIf="speaker.pathPhoto != ''"
             [speaker]="speaker"
             (speakerClick)="openModal($event)"
           ></app-card-speaker>

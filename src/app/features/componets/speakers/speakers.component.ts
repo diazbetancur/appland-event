@@ -22,7 +22,9 @@ export class SpeakersComponent implements OnInit, OnDestroy {
   currentTranslate = 0;
 
   constructor() {
-    this.speakers = this.config.speakers;
+    this.speakers = this.config.speakers.filter((speaker) =>
+      speaker.pathPhoto.includes('image')
+    );
   }
 
   ngOnInit() {
