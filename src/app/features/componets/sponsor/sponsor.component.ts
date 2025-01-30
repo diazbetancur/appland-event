@@ -14,7 +14,7 @@ export class SponsorComponent {
   autoPlayInterval: any;
   progressInterval: any;
   progressWidth = 0;
-  readonly INTERVAL_TIME = 1341235000; // 5 segundos
+  readonly INTERVAL_TIME = 5000; // 5 segundos
   readonly PROGRESS_UPDATE_INTERVAL = 50; // 50ms para actualización suave
 
   ngOnInit() {

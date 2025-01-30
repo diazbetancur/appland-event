@@ -1,4 +1,8 @@
-<div class="image-container" (click)="onClick()">
+<div
+  class="image-container"
+  (click)="onClick()"
+  *ngIf="speaker.pathPhoto != ''"
+>
   <img
     [src]="speaker.pathPhoto || 'assets/images/speakers/speakerDefualt.png'"
     alt
