@@ -460,5 +460,42 @@ Es coordinadora del Departamento Administrativo y Migratorio de la firma. Tiene 
 Asimismo, tiene amplia experiencia en la asesoría corporativa y comercial, con enfoque en materia de distribución, representación y agencia, así como relaciones comerciales vinculadas.
 `,
     },
+    {
+      name: 'Sandro Espinoza',
+      from: 'Perú',
+      pathPhoto: 'assets/images/speakers/sandro-espinoza.png',
+      bio: `Abogado por la Pontificia Universidad Católica del Perú, con más de 15 años
+de experiencia en temas de arbitraje y construcción. Ejerce práctica exclusiva
+como árbitro. Ha participado en más de 30 arbitrajes relacionados a
+concesiones de megaproyectos de infraestructura, desde la perspectiva pública
+y privada, así como árbitro. Tiene estudios de post grado en arbitraje comercial
+internacional en American University, en regulación de servicios públicos en la
+Universidad Politécnica de Cataluña y en la maestría de Educación por la
+UDEP. Es director de la Escuela de Arbitraje ARBANZA.
+`,
+    },
+    {
+      name: 'Alejandro Caceres',
+      from: 'Perú',
+      pathPhoto: 'assets/images/speakers/Alejandro_Caceres.png',
+      bio: `Alejandro es un Abogado con orientación en derecho empresarial y con
+experiencia especialmente en asuntos de naturaleza mercantil, y sector
+regulado. Ha asesorado a empresas nacionales e internacionales en distintas
+materias especialmente: métodos alternos de solución de controversias
+(conciliación y arbitraje), asuntos corporativos de múltiples naturalezas
+destacando en fusiones y adquisiciones, procesos de debida diligencia, y
+financiamiento de proyectos con banca nacional y extranjera.
+Además tiene experiencia en gestión de procesos administrativos en materias
+como ser: migración y extranjería; calificación de proyectos turísticos para
+incorporación al régimen establecido en la Ley de Fomento al Turismo;
+licenciamiento ambiental y control y seguimientos de proyectos con impacto
+ambiental; procesos de denuncia ante la Dirección General de Protección al
+Consumidor; exoneraciones del Impuesto sobre la Renta; obtención de
+personalidad jurídica de organizaciones no gubernamentales de desarrollo
+(ONGD); derecho de propiedad ( contratos de compraventa, permuta, donación
+de bienes inmuebles, y constitución de regimen de propiedad en condominio);
+entre otros.
+`,
+    },
   ],
 });
