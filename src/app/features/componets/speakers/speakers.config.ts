@@ -231,12 +231,6 @@ petróleo y gas, transporte, infraestructura, construcción, plantas de energía
 minería y disputas con relación a fusiones o adquisiciones de empresas.`,
     },
     {
-      name: 'Huascar Ezcurra',
-      from: 'Perú',
-      pathPhoto: 'assets/images/speakers/huascar_ezcurra.png',
-      bio: `Huáscar es Máster en Derecho por la Universidad de Yale y abogado por la Pontificia Universidad Católica del Perú. Es Socio del área de Solución de Controversias desde 2001, en el despacho Bullard Falla Ezcurra +. Tiene experiencia en las áreas de Litigio Arbitral Local e Internacional en sectores como Oil & Gas, Energía, Infraestructura, Construcción, Telecomunicaciones, convenios de accionistas y disputas contractuales. Asimismo, patrocina inversionistas en controversias internacionales de Arbitraje de Inversiones y ha sido reconocido como Band 1 por 16 años consecutivos en la categoría “Dispute Resolution: Arbitration” de Chambers & Partners. Dicta el curso de Arbitraje Comercial y de Inversiones en la Pontificia Universidad Católica del Perú, y el curso de Análisis Económico del Derecho en la Universidad ESEN en el Salvador.`,
-    },
-    {
       name: 'Margie Jaime',
       from: 'Panamá',
       pathPhoto: 'assets/images/speakers/margie_lys_jaime.png',
@@ -331,13 +325,13 @@ and English.`,
       bio: ``,
     },
     {
-      name: 'Chalo Skineer Kle',
+      name: 'Alfredo Skineer Klee',
       from: 'Guatemala',
       pathPhoto: 'assets/images/speakers/ALFREDO-SKINNER.png',
       bio: ``,
     },
     {
-      name: 'Luis Maljik - CCA CCIC',
+      name: 'Luis Maljik',
       from: 'Honduras',
       pathPhoto: 'assets/images/speakers/Luis-Maljik.png',
       bio: `Abogado. Master en Derecho Procesal Civil. Master en Propiedad Intelectual y Derecho de las Nuevas Tecnologías.
