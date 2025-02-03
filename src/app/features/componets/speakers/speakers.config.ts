@@ -497,5 +497,16 @@ de bienes inmuebles, y constitución de regimen de propiedad en condominio);
 entre otros.
 `,
     },
+    {
+      name: 'Kenneth Juan Figueroa',
+      from: 'Perú',
+      pathPhoto: 'assets/images/speakers/Figueroa_Kenneth.png',
+      bio: `Kenneth Juan Figueroa es socio de estudio internacional Foley Hoag y miembro de su Departamento de Litigios & Arbitrajes Internacionales, donde lidera la Práctica de Latino América.  Kenneth se centra en disputas internacionales, particularmente en arbitraje comercial e inversionista-Estado, y representa a clientes privados y estatales, así como a Estados, ante tribunales federales de los Estados Unidos y tribunales arbitrales internacionales, incluidos los establecidos bajo los auspicios del CIADI, la CCI, la CNUDMI y el CIRD, entre otros.
+
+Kenneth ha sido reconocido consecutivamente como uno de los "100 Mejores Abogados" de América Latina por Latinvex: Latin America Business News & Análisis y ha sido catalogado entre los 20 mejores en arbitraje internacional. Ha sido reconocido como “Individuo Líder” (Leading Individual) por Legal 500-LatAm y ha sido destacado en Chambers & Partners.
+
+Actualmente representa a la República de Honduras en varios casos ante el CIADI incluyendo el arbitraje iniciado por el Grupo Próspera.  Sus otros clientes incluyen, y han incluido, al Perú, Ecuador, Panamá, República Dominicana, Venezuela, y Chile, entre otros.
+`,
+    },
   ],
 });
