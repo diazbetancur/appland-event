@@ -6,7 +6,7 @@ export const SponsorConfig = Object.freeze({
   },
   pathImages: [
     {
-      src: 'assets/images/sponsor/platinum.png',
+      src: 'assets/images/sponsor/PLATINUM.png',
       alt: '',
       type: 'PLATINUM',
     },
@@ -16,7 +16,7 @@ export const SponsorConfig = Object.freeze({
       type: 'PLATINUM',
     },
     {
-      src: 'assets/images/sponsor/oroN.png',
+      src: 'assets/images/sponsor/ORO.png',
       alt: '',
       type: 'ORO',
     },
@@ -36,7 +36,7 @@ export const SponsorConfig = Object.freeze({
       type: 'ORO',
     },
     {
-      src: 'assets/images/sponsor/plata.png',
+      src: 'assets/images/sponsor/PLATA.png',
       alt: '',
       type: 'PLATA',
     },
@@ -86,7 +86,7 @@ export const SponsorConfig = Object.freeze({
       type: 'PLATA',
     },
     {
-      src: 'assets/images/sponsor/bronze.png',
+      src: 'assets/images/sponsor/BRONCE.png',
       alt: '',
       type: 'BRONCE',
     },
@@ -116,7 +116,7 @@ export const SponsorConfig = Object.freeze({
       type: 'BRONCE',
     },
     {
-      src: 'assets/images/sponsor/soporte.png',
+      src: 'assets/images/sponsor/APOYO.png',
       alt: '',
       type: 'APOYO INSTITUCIONAL',
     },
