@@ -16,7 +16,7 @@ export const SponsorConfig = Object.freeze({
       type: 'PLATINUM',
     },
     {
-      src: 'assets/images/sponsor/oro.png',
+      src: 'assets/images/sponsor/oroN.png',
       alt: '',
       type: 'ORO',
     },
