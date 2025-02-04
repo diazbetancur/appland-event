@@ -2,10 +2,43 @@ export const SpeakersConfig = Object.freeze({
   i18n: {
     description: 'CONFERENCISTAS DEL EVENTO',
     title: 'CONOCE A NUESTROS CONFERENCISTAS',
-    infoData: `Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt
-ut laoreet dolore magna aliquam erat volutpat.`,
+    infoData: `Descubre a los expertos y líderes inspiradores que compartirán sus conocimientos y experiencias en el CIAH 2025. Nuestros conferencistas son referentes en sus campos, y sus charlas prometen ser una fuente de inspiración y aprendizaje para todos los asistentes.`,
   },
   speakers: [
+    {
+      name: 'BENITO ARTURO ZELAYA',
+      from: 'Honduras',
+      pathPhoto: 'assets/images/speakers/Benito_Zelaya.png',
+      bio: `Socio Director de la firma LEXINCORP HONDURAS, sus principales areas de
+practica son Derecho Corporativo, Litigios y Arbitraje, Benito ha participado en
+diversos arbitrajes de disputas complejas de alto valor relacionadas con proyectos
+de construcción e infraestructura, Proyectos de Energía, Regimenes de
+Condominio, Contrato de Obra Publica entre otros. Benito es Magister LLM, en
+derecho de Empresa de la Universidad Catolica de Chile, Master en Arbitraje
+Comercial y de Inversiones de la Universidad de Alcalá, Master en Dirección
+Empresarial, posee Especializaciones en Derecho Procesal civil, Mediación y
+Arbitraje de la Universidad de Salamanca, y Negocios Internacionales por la
+universidad de Georgetown, es Doctorando en Derecho por la Universidad de
+San Carlos de Guatemala, asi mismo se ha Formado en Arbitraje Comercial
+Arbitraje de Inversión, Arbitraje de Infraestructura, Contratos Fidic, APP, Pida
+Avanzado Training para Arbitros y el curso de Master Class para Litigantes de la
+CCI. Se ha formado en reglas CIADI, ICC, CIAC, AAA, Uncitral, por instituciones
+con acreditación para ello, en diferentes países como Honduras, Costa Rica, El
+Salvador, Colombia, Perú, Panamá, España y U.S.A, es Conferencista y panelista
+recurrente desde hace mas de quince años en diferentes foros nacionales e
+internacionales, ha participado como co autor del libro solución de Disputas en
+Contratos de Construcción en Latinoamerica, aportando el articulo “El Arbitraje
+en Proyectos de infraestructura en Honduras”,esta enlistado como Arbitro en
+mas de una docena de centros de arbitraje nacionales e internacionales, fue
+miembro de la Corte de Arbitraje de Camara de Comercio Internacional en
+representación de Honduras, fue delegado representando a Honduras en la
+comisión de arbitraje de CCI. Es fundador y presidente del Capitulo Hondureño
+del Club Español e Iberoamericano de Arbitraje, miembro de Alarb, LIA, Aldec,
+DRBF, entre otros. Ha participado como Dispute Board en diversos proyectos en
+la región Centroamericana, así mismo ha asesorado a instituciones publicas y
+empresas privadas en la estructuración de contratos fidic y estructuración de
+variones y reclamos.`,
+    },
     {
       name: 'Christian Diaz',
       from: 'Costa Rica',

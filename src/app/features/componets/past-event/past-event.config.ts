@@ -3,8 +3,7 @@ export const EventPastConfig = Object.freeze({
     description: 'GALERÍA DE EVENTOS',
     titleBlue: 'REVIVE NUESTROS ',
     titleOrange: 'EVENTOS PASADOS',
-    infoData: `Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt
-ut laoreet dolore magna aliquam erat volutpat.`,
+    infoData: `Sumérgete en los momentos más destacados de nuestras ediciones anteriores. En esta galería, podrás revivir la energía, las emociones y los logros que han marcado la historia del CIAH, y que nos inspiran a seguir creciendo año tras año.`,
   },
   pathImages: [
     'assets/images/pastEvents/20230919095323_IMG_9144.JPG',

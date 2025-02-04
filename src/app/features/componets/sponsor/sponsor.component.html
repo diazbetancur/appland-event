@@ -25,12 +25,14 @@
         *ngFor="let image of config.pathImages; let i = index"
         class="carousel-slide"
       >
-        <img [src]="image.src" [alt]="image.alt" class="carousel-image" />
-        <div class="type">
-          <img [src]="image.srcType" alt>
-          <!-- <div class="footer-text">
-            {{ image.type }}
-          </div> -->
+        <img
+          [src]="image.src"
+          alt
+          class="carousel-image"
+          *ngIf="image.src != ''"
+        />
+        <div class="type" *ngIf="image.src == ''">
+          <h1 class="h-type">{{ image.type }}</h1>
         </div>
       </div>
     </div>

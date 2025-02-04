@@ -1,8 +1,7 @@
 export const ScheduleConfig = Object.freeze({
   i18n: {
-    title: 'SIGUE LOS HORARIOS DEL EVENTO',
-    infoData: `Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt
-ut laoreet dolore magna aliquam erat volutpat.`,
+    title: 'HORARIOS DEL EVENTO (AGENDA):',
+    infoData: `Planifica tu experiencia con nuestra agenda detallada. Aquí encontrarás toda la información sobre las actividades, charlas y sesiones programadas, para que no te pierdas ningún momento clave de este increíble encuentro.`,
   },
   events: [
     {
