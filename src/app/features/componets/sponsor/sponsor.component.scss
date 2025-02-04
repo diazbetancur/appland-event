@@ -51,10 +51,10 @@
 }
 
 .carousel-container {
-  width: 50%;
+  width: 55%;
   position: relative;
   overflow: hidden;
-  margin: 0% auto;
+  margin: 1% auto;
   padding: 0 5%;
 }
 
@@ -67,7 +67,7 @@
 
 .carousel-slide {
   min-width: 100%;
-  height: 60%;
+  height: 70%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -76,7 +76,7 @@
 }
 
 .carousel-image {
-  max-width: 80%;
+  max-width: 50%;
   max-height: 90%;
   object-fit: contain;
   display: block;
