@@ -89,32 +89,32 @@ export const SponsorConfig = Object.freeze({
     {
       src: '',
       alt: '',
-      type: 'BRONZE',
+      type: 'BRONCE',
     },
     {
       src: 'assets/images/sponsor/GRA.png',
       alt: '',
-      type: 'BRONZE',
+      type: 'BRONCE',
     },
     {
       src: 'assets/images/sponsor/jimenez.png',
       alt: '',
-      type: 'BRONZE',
+      type: 'BRONCE',
     },
     {
       src: 'assets/images/sponsor/avanz.png',
       alt: '',
-      type: 'BRONZE',
+      type: 'BRONCE',
     },
     {
       src: 'assets/images/sponsor/cox.png',
       alt: '',
-      type: 'BRONZE',
+      type: 'BRONCE',
     },
     {
       src: 'assets/images/sponsor/hca.png',
       alt: '',
-      type: 'BRONZE',
+      type: 'BRONCE',
     },
     {
       src: '',
