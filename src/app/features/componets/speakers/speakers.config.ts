@@ -6,40 +6,6 @@ export const SpeakersConfig = Object.freeze({
   },
   speakers: [
     {
-      name: 'BENITO ARTURO ZELAYA',
-      from: 'Honduras',
-      pathPhoto: 'assets/images/speakers/Benito_Zelaya.png',
-      bio: `Socio Director de la firma LEXINCORP HONDURAS, sus principales areas de
-practica son Derecho Corporativo, Litigios y Arbitraje, Benito ha participado en
-diversos arbitrajes de disputas complejas de alto valor relacionadas con proyectos
-de construcción e infraestructura, Proyectos de Energía, Regimenes de
-Condominio, Contrato de Obra Publica entre otros. Benito es Magister LLM, en
-derecho de Empresa de la Universidad Catolica de Chile, Master en Arbitraje
-Comercial y de Inversiones de la Universidad de Alcalá, Master en Dirección
-Empresarial, posee Especializaciones en Derecho Procesal civil, Mediación y
-Arbitraje de la Universidad de Salamanca, y Negocios Internacionales por la
-universidad de Georgetown, es Doctorando en Derecho por la Universidad de
-San Carlos de Guatemala, asi mismo se ha Formado en Arbitraje Comercial
-Arbitraje de Inversión, Arbitraje de Infraestructura, Contratos Fidic, APP, Pida
-Avanzado Training para Arbitros y el curso de Master Class para Litigantes de la
-CCI. Se ha formado en reglas CIADI, ICC, CIAC, AAA, Uncitral, por instituciones
-con acreditación para ello, en diferentes países como Honduras, Costa Rica, El
-Salvador, Colombia, Perú, Panamá, España y U.S.A, es Conferencista y panelista
-recurrente desde hace mas de quince años en diferentes foros nacionales e
-internacionales, ha participado como co autor del libro solución de Disputas en
-Contratos de Construcción en Latinoamerica, aportando el articulo “El Arbitraje
-en Proyectos de infraestructura en Honduras”,esta enlistado como Arbitro en
-mas de una docena de centros de arbitraje nacionales e internacionales, fue
-miembro de la Corte de Arbitraje de Camara de Comercio Internacional en
-representación de Honduras, fue delegado representando a Honduras en la
-comisión de arbitraje de CCI. Es fundador y presidente del Capitulo Hondureño
-del Club Español e Iberoamericano de Arbitraje, miembro de Alarb, LIA, Aldec,
-DRBF, entre otros. Ha participado como Dispute Board en diversos proyectos en
-la región Centroamericana, así mismo ha asesorado a instituciones publicas y
-empresas privadas en la estructuración de contratos fidic y estructuración de
-variones y reclamos.`,
-    },
-    {
       name: 'Christian Diaz',
       from: 'Costa Rica',
       pathPhoto: '',
@@ -73,6 +39,40 @@ en Construcción JRD/DAB, una iniciativa que promueve la visualización de mujer
 métodos de resolución de conflictos en el sector construcción. También, forma parte de
 organizaciones internacionales como el Chartered Institute of Arbitrators (CIArb), la Dispute
 Resolution Board Foundation (DRBF) y el Club Español e Iberoamericano de Arbitraje (CEIA).`,
+    },
+    {
+      name: 'BENITO ZELAYA',
+      from: 'Honduras',
+      pathPhoto: 'assets/images/speakers/Benito_Zelaya.png',
+      bio: `Socio Director de la firma LEXINCORP HONDURAS, sus principales areas de
+practica son Derecho Corporativo, Litigios y Arbitraje, Benito ha participado en
+diversos arbitrajes de disputas complejas de alto valor relacionadas con proyectos
+de construcción e infraestructura, Proyectos de Energía, Regimenes de
+Condominio, Contrato de Obra Publica entre otros. Benito es Magister LLM, en
+derecho de Empresa de la Universidad Catolica de Chile, Master en Arbitraje
+Comercial y de Inversiones de la Universidad de Alcalá, Master en Dirección
+Empresarial, posee Especializaciones en Derecho Procesal civil, Mediación y
+Arbitraje de la Universidad de Salamanca, y Negocios Internacionales por la
+universidad de Georgetown, es Doctorando en Derecho por la Universidad de
+San Carlos de Guatemala, asi mismo se ha Formado en Arbitraje Comercial
+Arbitraje de Inversión, Arbitraje de Infraestructura, Contratos Fidic, APP, Pida
+Avanzado Training para Arbitros y el curso de Master Class para Litigantes de la
+CCI. Se ha formado en reglas CIADI, ICC, CIAC, AAA, Uncitral, por instituciones
+con acreditación para ello, en diferentes países como Honduras, Costa Rica, El
+Salvador, Colombia, Perú, Panamá, España y U.S.A, es Conferencista y panelista
+recurrente desde hace mas de quince años en diferentes foros nacionales e
+internacionales, ha participado como co autor del libro solución de Disputas en
+Contratos de Construcción en Latinoamerica, aportando el articulo “El Arbitraje
+en Proyectos de infraestructura en Honduras”,esta enlistado como Arbitro en
+mas de una docena de centros de arbitraje nacionales e internacionales, fue
+miembro de la Corte de Arbitraje de Camara de Comercio Internacional en
+representación de Honduras, fue delegado representando a Honduras en la
+comisión de arbitraje de CCI. Es fundador y presidente del Capitulo Hondureño
+del Club Español e Iberoamericano de Arbitraje, miembro de Alarb, LIA, Aldec,
+DRBF, entre otros. Ha participado como Dispute Board en diversos proyectos en
+la región Centroamericana, así mismo ha asesorado a instituciones publicas y
+empresas privadas en la estructuración de contratos fidic y estructuración de
+variones y reclamos.`,
     },
     {
       name: 'Adriana Vargas',
@@ -213,7 +213,7 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
       bio: ``,
     },
     {
-      name: 'Cecila Flores Rueda',
+      name: 'Cecila Flores',
       from: 'México',
       pathPhoto: 'assets/images/speakers/Cecilia-Flores.png',
       bio: ``,
@@ -270,7 +270,7 @@ minería y disputas con relación a fusiones o adquisiciones de empresas.`,
       bio: ``,
     },
     {
-      name: 'Rafael Gil Nievas',
+      name: 'Rafael Gil',
       from: 'España',
       pathPhoto: '',
       bio: ``,
@@ -325,10 +325,20 @@ and English.`,
       name: 'Sean Anderson',
       from: 'EE.UU.',
       pathPhoto: 'assets/images/speakers/Sean-Anderson.png',
-      bio: ``,
+      bio: `Sean Anderson es el Jefe de América Latina en Mintz Group y lidera la oficina de
+Ciudad de México. Sean es experto en litigios y disputas de alto riesgo,
+investigaciones de rastreo de activos y diligencia debida en la región. Entre sus
+proyectos recientes, destaca la recuperación de cientos de millones de dólares en
+laudos arbitrales y de costas en Estados Unidos y América Latina. También ha
+encabezado investigaciones de alto riesgo sobre denuncias de corrupción y sobornos
+que involucran a grandes empresas en América Central, revelando complejas
+estructuras offshore utilizadas para desviar fondos a través del Caribe. Además, Sean
+ha dirigido exhaustivas investigaciones de diligencia debida sobre empresas con
+contratos con importantes entidades estatales y ha analizado el origen de fondos de
+individuos de alto patrimonio, ayudando a bancos a mitigar riesgos de sanciones.`,
     },
     {
-      name: 'Juan Pablo Philippi',
+      name: 'Juan Philippi',
       pathPhoto: 'assets/images/speakers/Juan_Pablo.png',
       from: 'Chile',
       bio: `Juan Pablo es socio de FK Economics y tiene más de 10 años liderando el desarrollo de FK Economics en Iberoamérica. Centra su práctica en la elaboración de estudios económicos y dictámenes periciales en materias de daños y financieros. Ha sido reconocido por varios años por prestigiosas publicaciones como Lexology y Leaders League.`,
@@ -352,13 +362,13 @@ and English.`,
       bio: ``,
     },
     {
-      name: 'Juan Carlos Montañola',
+      name: 'Juan Montañola',
       from: 'Honduras',
       pathPhoto: '',
       bio: ``,
     },
     {
-      name: 'Alfredo Skineer Klee',
+      name: 'Alfredo Skineer',
       from: 'Guatemala',
       pathPhoto: 'assets/images/speakers/ALFREDO-SKINNER.png',
       bio: ``,
@@ -412,7 +422,7 @@ Héctor obtuvo su título de abogado en la Universidad Panamericana en 2004 y un
       bio: `Maria Pradilla Picas enfoca su práctica en el arbitraje y litigio de disputas comerciales y de inversión complejas, con énfasis particular en América Latina. Ha representado a clientes en tratados de inversión y procedimientos de arbitraje comercial bajo las normas de la UNCITRAL (Comisión de las Naciones Unidas para el Derecho en materia de Comercio Exterior), el ICSID (Centro Internacional de Solución de Controversias Relativas a Inversiones) y la ICC (Cámara Internacional de Comercio).`,
     },
     {
-      name: 'Maria Angelica Burgos',
+      name: 'Maria Burgos',
       from: 'Colombia',
       pathPhoto: 'assets/images/speakers/Maria-Angelica-Burgos.png',
       bio: ``,
@@ -430,13 +440,13 @@ Héctor obtuvo su título de abogado en la Universidad Panamericana en 2004 y un
       bio: ``,
     },
     {
-      name: 'María José Menendes',
+      name: 'María Menendes',
       from: 'España',
       pathPhoto: '',
       bio: ``,
     },
     {
-      name: 'Ana María Muñoz',
+      name: 'Ana M. Muñoz',
       from: 'Colombia',
       pathPhoto: '',
       bio: ``,
@@ -448,7 +458,7 @@ Héctor obtuvo su título de abogado en la Universidad Panamericana en 2004 y un
       bio: `Huáscar es Máster en Derecho por la Universidad de Yale y abogado por la Pontificia Universidad Católica del Perú. Es Socio del área de Solución de Controversias desde 2001, en el despacho Bullard Falla Ezcurra +. Tiene experiencia en las áreas de Litigio Arbitral Local e Internacional en sectores como Oil & Gas, Energía, Infraestructura, Construcción, Telecomunicaciones, convenios de accionistas y disputas contractuales. Asimismo, patrocina inversionistas en controversias internacionales de Arbitraje de Inversiones y ha sido reconocido como Band 1 por 16 años consecutivos en la categoría “Dispute Resolution: Arbitration” de Chambers & Partners. Dicta el curso de Arbitraje Comercial y de Inversiones en la Pontificia Universidad Católica del Perú, y el curso de Análisis Económico del Derecho en la Universidad ESEN en el Salvador.`,
     },
     {
-      name: 'José María Alonso',
+      name: 'José Alonso',
       from: 'España',
       pathPhoto: 'assets/images/speakers/Jose-maria.png',
       bio: `José María Alonso es Presidente de CIAM-CIAR y socio director de Alonso & Díez-Hochleitner Abogados. Ha sido Socio Director en J&A Garrigues y Baker McKenzie en Madrid, así como Decano del Ilustre Colegio de Abogados de Madrid. Su trayectoria incluye más de 40 años en el derecho, con especial enfoque en la resolución de disputas. Además, es Presidente de honor del CEIA, vocal de la Junta de gobierno de la Mutualidad de la Abogacía, y miembro de su Comisión Ejecutiva. Ha actuado como árbitro en más de 300 procedimientos arbitrales tanto en España como a nivel global`,
@@ -525,7 +535,85 @@ entre otros.
 `,
     },
     {
-      name: 'Kenneth Juan Figueroa',
+      name: 'ALBERTO FERNÁNDEZ',
+      from: 'Costa Rica',
+      pathPhoto: 'assets/images/speakers/alberto_fernandez.png',
+      bio: `ALBERTO FERNÁNDEZ LÓPEZ es Abogado graduado de la Universidad de Costa
+Rica y Máster en Administración de Negocios con énfasis en Negocios Internacionales
+de la National University de San Diego, California.
+Socio de la firma BTA LEGAL, con más de 35 años de experiencia profesional
+particularmente en el área de derecho de construcción y solución alterna de conflictos
+(arbitraje, mediación y Dispute Board).
+Es árbitro de los principales centros de arbitraje de Costa Rica, El Salvador, Panamá,
+Honduras, Venezuela y Perú, así como miembro del Panel Arbitral de la Comisión
+Interamericana de Arbitraje Comercial (CIAC), el Centro Iberoamericano de Arbitraje
+Comercial (CIAR) y recientemente del Centro Internacional de Arreglo de Diferencias
+Relativas a Inversiones (CIADI) del Banco Mundial.
+Miembro activo del Club Español e Iberoamericano del Arbitraje, de la ICC Capítulo
+Costa Rica, de la Comisión de Derecho Civil y Mercantil del Colegio de Abogados, de
+la DRBF y ALDEC
+Ha sido árbitro internacional en casos administrados por la ICC París, CFIA Costa Rica
+CAM Costa Rica, CAMARASAL El Salvador, así como abogado de parte en arbitrajes
+internacionales bajo reglas ICC y ICDR y adjudicador en un dispute board
+internacional administrado por ICC.
+Fue reconocido por la plataforma internacional Arbitrator Intelligence como Arbitro
+Internacional del año 2020 y las calificadoras legales Chambers and Partners y Whos
+Who Legal lo ubican como uno de los árbitros más buscados en la región
+centroamericana. Es autor de diversos artículos publicados sobre arbitraje comercial
+internacional en revistas especializadas..
+`,
+    },
+    {
+      name: 'Joseph Vergara',
+      from: 'Miami',
+      pathPhoto: 'assets/images/speakers/Joseph_vergara.png',
+      bio: `Joseph Vergara es un Managing Director en Ankura, basado en Miami, Florida,
+conocido por su participación como perito en arbitrajes internacionales ante diversos
+foros. Con más de 20 años de experiencia en la industria de la construcción, se
+especializa en el análisis de costos y retrasos en proyectos, y ha gestionado
+reclamaciones en proyectos internacionales y en América Latina y EE. UU. Su
+experiencia abarca proyectos de infraestructura, incluyendo vial y energética, así como
+obras comerciales y residenciales de gran escala.
+`,
+    },
+    {
+      name: 'Arturo Castillo',
+      from: 'Mexixco',
+      pathPhoto: 'assets/images/speakers/arturo_castillo.png',
+      bio: `Arturo del Castillo es Managing Director de Kroll, con sede en México, donde lidera
+la práctica de Investigaciones Forenses. Con más de 20 años de experiencia
+asesorando a clientes de múltiples industrias en asuntos sensibles, Arturo tiene una
+amplia experiencia internacional en la preparación de informes periciales en el
+contexto de investigaciones forenses, así como procedimientos judiciales por daños
+patrimoniales. Arturo ha prestado testimonio como perito en juicios penales en México,
+Colombia y en paneles de arbitraje internacional. Ha asesorado a empresas globales
+de la lista Fortune 500 en investigaciones de fraude, FCPA y asuntos de debida
+diligencia. Arturo también se ha especializado en el diseño e implementación de
+Programas de Cumplimiento. Arturo ha asesorado a varias empresas en la evaluación
+de riesgos de Compliance, diseño de controles internos y apoyo para implementar
+políticas y procedimientos de Compliance. Arturo ha sido orador destacado en
+numerosos seminarios y talleres. Arturo ha publicado varios libros y artículos en
+revistas especializadas. Su reciente publicación, "The Promises and Perils of Co", en
+coautoría con David Arellano, fue publicada por De Gruyter, en 2023. Arturo produce,
+junto a Brian Weihs, el programa de televisión online "Hablemos de Compliance".
+`,
+    },
+    {
+      name: 'Christian Díaz',
+      from: 'Costa Rica',
+      pathPhoto: 'assets/images/speakers/Cristian_diaz.png',
+      bio: `Christian Díaz Barcia. Es socio Fundador de CONEXA Partners en Costa Rica. Cuenta
+con un Post Grado en Arbitraje Comercial Internacional por Queen Mary London
+University, y es graduado del ICC Latin America Arbitration Academy. Cuenta con
+capacitación en FIDIC y Dispute Boards. Es mediador, miembro de Dispute Boards y
+Arbitro en los principales Centros de Arbitraje de Costa Rica, Peru y Centroamérica.
+Ha sido Consultor Externo del BID en Costa Rica, “Country Representative” en Costa
+Rica y Director de la Region 4 de la “Dispute Resolution Board Foundation”. Es
+Presidente de la Asociación Latinoamericana de Derecho de Construcción ALDEC.
+`,
+    },
+    {
+      name: 'Kenneth Figueroa',
       from: 'Perú',
       pathPhoto: 'assets/images/speakers/Figueroa_Kenneth.png',
       bio: `Kenneth Juan Figueroa es socio de estudio internacional Foley Hoag y miembro de su Departamento de Litigios & Arbitrajes Internacionales, donde lidera la Práctica de Latino América.  Kenneth se centra en disputas internacionales, particularmente en arbitraje comercial e inversionista-Estado, y representa a clientes privados y estatales, así como a Estados, ante tribunales federales de los Estados Unidos y tribunales arbitrales internacionales, incluidos los establecidos bajo los auspicios del CIADI, la CCI, la CNUDMI y el CIRD, entre otros.
@@ -533,6 +621,73 @@ entre otros.
 Kenneth ha sido reconocido consecutivamente como uno de los "100 Mejores Abogados" de América Latina por Latinvex: Latin America Business News & Análisis y ha sido catalogado entre los 20 mejores en arbitraje internacional. Ha sido reconocido como “Individuo Líder” (Leading Individual) por Legal 500-LatAm y ha sido destacado en Chambers & Partners.
 
 Actualmente representa a la República de Honduras en varios casos ante el CIADI incluyendo el arbitraje iniciado por el Grupo Próspera.  Sus otros clientes incluyen, y han incluido, al Perú, Ecuador, Panamá, República Dominicana, Venezuela, y Chile, entre otros.
+`,
+    },
+    {
+      name: 'Mairée Uran',
+      from: 'Colombia',
+      pathPhoto: 'assets/images/speakers/mariee_uran.png',
+      bio: `Mairée Uran Bidegain es árbitro independiente y experta en derecho internacional
+público y resolución de disputas. De nacionalidad colombiana, uruguaya y francesa, a largo de su
+carrera Mairée se ha desempeñado en diversos roles en el ámbito de resolución de disputas,
+incluyendo como árbitro, abogada de parte y secretaria de tribunales, comités de anulación y
+comisiones de conciliación.
+Entre el 2018 y el 2023, trabajó para el gabinete del Subsecretario de Relaciones
+Económicas Internacionales de la República de Chile asesorando al Subsecretario en materia de
+inversión extranjera, derecho internacional y resolución de disputas. Entre el 2018 y el 2022 fue
+también la Coordinadora del Programa de Defensa en Arbitrajes de Inversión Extranjera de
+dicho Estado, posición en la que lideró la defensa y representación de Chile en sus arbitrajes de
+inversión, y encabezó la delegación chilena en las negociaciones multilaterales ante el Grupo III
+de UNCITRAL y las reformas a las Reglas y Reglamentos del Centro Internacional de Arreglo
+de Diferencias Relativas a Inversiones (CIADI). Participó además en la negociación de acuerdos
+comerciales y el diseño de políticas de prevención de disputas.
+Entre 2011 y 2018, en su calidad de jefa de equipo y consejera jurídica senior CIADI,
+supervisó la administración de más de 60 casos, incluyendo arbitrajes y anulaciones, y fungió
+como secretaria de tribunales, comités ad hoc y comisiones de conciliación en decenas de
+procedimientos. Entre 2006 y 2011, Mairée además se desempeñó como asociada del equipo de
+arbitraje internacional de White &amp; Case LLP, en Washington, D.C.
+Ha sido profesora adjunta en American University, Washington College of Law y en
+Georgetown University Law Center. Es coeditora del libro, Building International Investment
+Law: The First 50 years of ICSID, entre otras publicaciones, y participa regularmente como
+conferencista en seminarios y congresos especializados. Se graduó de la universidad Panthéon-
+Assas, Paris II y realizó una maestría en derecho internacional económico en la universidad de
+
+MAIRÉE URAN BIDEGAIN
+
+Los Misioneros 2237, Comuna de Providencia, Santiago de Chile / +56 9 44226663
+
+mub@uran-bidegain.com / www.uran-bidegain.com
+
+Paris I, Panthéon-Sorbonne y un LL.M. en la Universidad de Pensilvania. Está licenciada para
+ejercer la profesión en Nueva York.
+`,
+    },
+    {
+      name: 'Reynaldo Herrera',
+      from: 'Salvador',
+      pathPhoto: 'assets/images/speakers/reynaldo.png',
+      bio: `Socio fundador de HERRERA CHAVARRIA ABOGADOS, San Salvador, El Salvador. Licenciado en
+Ciencias Jurídicas por la Universidad José Matías Delgado de El Salvador, tiene un Post Grado
+Internacional en Derecho Empresarial por la Escuela Superior de Economía y Administración de
+Empresas (ESEADE) de Argentina, actualmente cursando Maestría en Derecho de los Negocios en
+ADEN University.
+Aceptado para integrar la lista de árbitros ante la Comisión Interamericana de Arbitraje Comercial
+(CIAC), la Comisión de Resolución de Conflictos de la Cámara de Industria de Guatemala (CRECIG) y
+el Centro de Mediación y Arbitraje de la Cámara de Comercio e Industria de El Salvador (CMA), en
+la China International Economic and Trade Arbitration Commission (CIETAC) y en el Centro de
+Arbitraje y Resolución de Disputas CARD – ANKAWA INTL.
+Aceptado para integrar la lista de adjudicadores ante el Centro de Arbitraje y Resolución de
+Disputas CARD – ANKAWA INTL.
+Presidente Honorario del Club Español del Arbitraje Capítulo Salvadoreño y Miembro de la
+Comisión de Dispute Boards del CEIA.
+Miembro de la Dispute Resolution Board Foundation (DRBF) desde 2020.
+Su práctica arbitral inicio en el año 2010 al asumir el cargo de director Centro de Mediación y
+Arbitraje de la Cámara de Comercio e Industria de El Salvador (CMA) hasta el año 2018, desde este
+último hasta la fecha ha actuado en más de 10 arbitrajes comerciales y de construcción como
+árbitro presidente.
+Su práctica como adjudicador inicia en el año 2020 como miembro único permanente (DAAB) de la
+comisión de resolución de conflictos en contrato de construcción modelo FIDIC para el diseño y la
+construcción del Hospital de Nejapa en San Salvador.
 `,
     },
   ],
