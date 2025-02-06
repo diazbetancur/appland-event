@@ -223,8 +223,8 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
       from: 'España',
       pathPhoto: 'assets/images/speakers/Seguimundo_Navarro.png',
       bio: `abogado español que vive en Melilla. Actúa de forma exclusiva como árbitro. Socio en inARB. Involucrado en procedimientos administrados por instituciones internacionales de primer nivel en asuntos sobre construcción, ingeniería, energía, telecomunicaciones, seguros, entretenimiento, producción de bienes y M&A.
-Diplomado en arbitraje por el Chartered Institute of Arbitrators y la Swiss Arbitration Academy, experto en Contratos con el Estado en Perú, Master por la Universidad Carlos III de Madrid, Experto en Retórica y Argumentación Jurídica por la Universidad Complutense de Madrid, y Licenciado en Derecho, con diploma en administración de empresas, por la Universidad Pontificia de Comillas.
-Secretario General del Club Español e Iberoamericano del Arbitraje entre 2017 y 2020, y sigue formando parte de su Junta Directiva.”`,
+      Diplomado en arbitraje por el Chartered Institute of Arbitrators y la Swiss Arbitration Academy, experto en Contratos con el Estado en Perú, Master por la Universidad Carlos III de Madrid, Experto en Retórica y Argumentación Jurídica por la Universidad Complutense de Madrid, y Licenciado en Derecho, con diploma en administración de empresas, por la Universidad Pontificia de Comillas.
+      Secretario General del Club Español e Iberoamericano del Arbitraje entre 2017 y 2020, y sigue formando parte de su Junta Directiva.”`,
     },
     {
       name: 'Amaia Rivas',
@@ -243,19 +243,19 @@ Secretario General del Club Español e Iberoamericano del Arbitraje entre 2017 y
       from: 'Miami',
       pathPhoto: 'assets/images/speakers/David_Orta.png',
       bio: `David Orta es el Director de la Práctica de Arbitraje Internacional de América Latina y Estados
-Unidos de América. Las guías jurídicas Chambers Global y Chambers Latin América indican
-que sus clientes lo describen como &quot;un abogado tenaz con vasta experiencia que inspira
-verdadera confianza y con una capacidad excepcional de ver todos los ángulos.” También
-informan que David es merecedor de elogios por su dedicación y “por ir más allá con tal de
-conseguir el mejor resultado&quot;.
-David es un litigante y abogado de arbitraje internacional con más de 25 años de experiencia
-representando con éxito a clientes en arbitrajes internacionales complejos (incluyendo arbitrajes
-inversionista-Estado y arbitrajes comerciales internacionales). Asimismo, representa a clientes en
-litigios comerciales multinacionales complejos. Los casos y clientes de David abarcan la
-mayoría de los continentes, incluyendo América del Norte, América Central, América del Sur,
-Europa, Asia, África y Australia. Su experiencia abarca muchos sectores, incluyendo: energía,
-petróleo y gas, transporte, infraestructura, construcción, plantas de energía, telecomunicaciones,
-minería y disputas con relación a fusiones o adquisiciones de empresas.`,
+      Unidos de América. Las guías jurídicas Chambers Global y Chambers Latin América indican
+      que sus clientes lo describen como &quot;un abogado tenaz con vasta experiencia que inspira
+      verdadera confianza y con una capacidad excepcional de ver todos los ángulos.” También
+      informan que David es merecedor de elogios por su dedicación y “por ir más allá con tal de
+      conseguir el mejor resultado&quot;.
+      David es un litigante y abogado de arbitraje internacional con más de 25 años de experiencia
+      representando con éxito a clientes en arbitrajes internacionales complejos (incluyendo arbitrajes
+      inversionista-Estado y arbitrajes comerciales internacionales). Asimismo, representa a clientes en
+      litigios comerciales multinacionales complejos. Los casos y clientes de David abarcan la
+      mayoría de los continentes, incluyendo América del Norte, América Central, América del Sur,
+      Europa, Asia, África y Australia. Su experiencia abarca muchos sectores, incluyendo: energía,
+      petróleo y gas, transporte, infraestructura, construcción, plantas de energía, telecomunicaciones,
+      minería y disputas con relación a fusiones o adquisiciones de empresas.`,
     },
     {
       name: 'Margie Jaime',
@@ -280,12 +280,12 @@ minería y disputas con relación a fusiones o adquisiciones de empresas.`,
       from: 'Colombia',
       pathPhoto: 'assets/images/speakers/Ana_Maria_Ordonez.png',
       bio: `Árbitro y Counsel en Martínez, Quintero, Mendoza, Laguado &amp; De La Rosa. Ex
-directora de Defensa Jurídica Internacional en la Agencia Nacional de Defensa
-Jurídica del Estado de Colombia, donde estructuró y consolidó un modelo de defensa
-efectivo en 22 arbitrajes de inversión. Lideró las negociaciones con inversionistas
-durante el período obligatorio de negociación, e integró la delegación colombiana que
-participa en el Grupo 3 de Trabajo de la Comisión de Naciones Unidas para el Derecho
-MercantiI Internacional.`,
+      directora de Defensa Jurídica Internacional en la Agencia Nacional de Defensa
+      Jurídica del Estado de Colombia, donde estructuró y consolidó un modelo de defensa
+      efectivo en 22 arbitrajes de inversión. Lideró las negociaciones con inversionistas
+      durante el período obligatorio de negociación, e integró la delegación colombiana que
+      participa en el Grupo 3 de Trabajo de la Comisión de Naciones Unidas para el Derecho
+      MercantiI Internacional.`,
     },
     {
       name: 'Maire Uran',
@@ -298,38 +298,38 @@ MercantiI Internacional.`,
       from: 'EE.UU.',
       pathPhoto: '',
       bio: `Carlos is the Managing Partner of Concepcion Global PLLC, a law firm
-with offices in Miami Florida and Madrid Spain. Carlos is Board
-Certified in International Litigation and Arbitration and is a Fellow of
-the Chartered Institute of Arbitrators and the College of Commercial
-Arbitrators. He has more than 35 years of experience in international
-commercial and investor-state disputes, especially in the intersection
-between common and civil law jurisdictions.
-Carlos serves as counsel and international arbitrator in a wide range of
-international litigation and arbitration matters. His practice focuses on
-disputes involving financial services, design and construction, and
-distribution and supply chain controversies involving parties from
-multiple jurisdictions.
-As an arbitrator, Carlos focuses on institutional proceedings involving
-international commercial disputes, and investment-treaty matters
-administered by ICSID. Carlos has worked with all the leading
-arbitration organizations and has conducted proceedings in Spanish
-and English.`,
+      with offices in Miami Florida and Madrid Spain. Carlos is Board
+      Certified in International Litigation and Arbitration and is a Fellow of
+      the Chartered Institute of Arbitrators and the College of Commercial
+      Arbitrators. He has more than 35 years of experience in international
+      commercial and investor-state disputes, especially in the intersection
+      between common and civil law jurisdictions.
+      Carlos serves as counsel and international arbitrator in a wide range of
+      international litigation and arbitration matters. His practice focuses on
+      disputes involving financial services, design and construction, and
+      distribution and supply chain controversies involving parties from
+      multiple jurisdictions.
+      As an arbitrator, Carlos focuses on institutional proceedings involving
+      international commercial disputes, and investment-treaty matters
+      administered by ICSID. Carlos has worked with all the leading
+      arbitration organizations and has conducted proceedings in Spanish
+      and English.`,
     },
     {
       name: 'Sean Anderson',
       from: 'EE.UU.',
       pathPhoto: 'assets/images/speakers/Sean-Anderson.png',
       bio: `Sean Anderson es el Jefe de América Latina en Mintz Group y lidera la oficina de
-Ciudad de México. Sean es experto en litigios y disputas de alto riesgo,
-investigaciones de rastreo de activos y diligencia debida en la región. Entre sus
-proyectos recientes, destaca la recuperación de cientos de millones de dólares en
-laudos arbitrales y de costas en Estados Unidos y América Latina. También ha
-encabezado investigaciones de alto riesgo sobre denuncias de corrupción y sobornos
-que involucran a grandes empresas en América Central, revelando complejas
-estructuras offshore utilizadas para desviar fondos a través del Caribe. Además, Sean
-ha dirigido exhaustivas investigaciones de diligencia debida sobre empresas con
-contratos con importantes entidades estatales y ha analizado el origen de fondos de
-individuos de alto patrimonio, ayudando a bancos a mitigar riesgos de sanciones.`,
+      Ciudad de México. Sean es experto en litigios y disputas de alto riesgo,
+      investigaciones de rastreo de activos y diligencia debida en la región. Entre sus
+      proyectos recientes, destaca la recuperación de cientos de millones de dólares en
+      laudos arbitrales y de costas en Estados Unidos y América Latina. También ha
+      encabezado investigaciones de alto riesgo sobre denuncias de corrupción y sobornos
+      que involucran a grandes empresas en América Central, revelando complejas
+      estructuras offshore utilizadas para desviar fondos a través del Caribe. Además, Sean
+      ha dirigido exhaustivas investigaciones de diligencia debida sobre empresas con
+      contratos con importantes entidades estatales y ha analizado el origen de fondos de
+      individuos de alto patrimonio, ayudando a bancos a mitigar riesgos de sanciones.`,
     },
     {
       name: 'Juan Philippi',
@@ -372,8 +372,8 @@ individuos de alto patrimonio, ayudando a bancos a mitigar riesgos de sanciones.
       from: 'Honduras',
       pathPhoto: 'assets/images/speakers/Luis-Maljik.png',
       bio: `Abogado. Master en Derecho Procesal Civil. Master en Propiedad Intelectual y Derecho de las Nuevas Tecnologías.
-Fue Juez de la República por 11 años y es autor de diversas publicaciones en el área de Derecho Procesal.
-Actualmente ejerce como Director del Centro de Conciliación y Arbitraje de la Cámara de Comercio e Industrias de Cortés y como Profesor de Derecho en la Universidad Tecnológica Centroamericana (UNITEC).`,
+      Fue Juez de la República por 11 años y es autor de diversas publicaciones en el área de Derecho Procesal.
+      Actualmente ejerce como Director del Centro de Conciliación y Arbitraje de la Cámara de Comercio e Industrias de Cortés y como Profesor de Derecho en la Universidad Tecnológica Centroamericana (UNITEC).`,
     },
     {
       name: 'Liliana Sanchez',
@@ -387,12 +387,10 @@ Actualmente ejerce como Director del Centro de Conciliación y Arbitraje de la C
       pathPhoto: 'assets/images/speakers/Carolina-Silva.png',
       bio: `Carolina Silva, Arbitro Nacional e Internacional. Experta en derecho comercial y Construcción bajo la modalidad de Asociaciones Publico Privadas. Secretaria técnica de la Ley de Arbitraje Internacional Ley 1563 de 2012. Miembro de la Comisión de Arbitraje y ADR de la CCI Colombia y Fundadora del Pot-cast denominado “5 minutos para hablar de Arbitraje “.
 
-Hace parte de la lista de Árbitros Internacionales en  ICDR, Arbitro Internacional de la Cámara de Comercio de Lima - Perú, Arbitro internacional de la Cámara de Comercio de Tegucigalpa, Arbitro Internacional de la Cámara de Comercio de Cali y Cámara de Comercio de Cartagena. Arbitro Nacional Lista “A” Cámara de Comercio de Bogotá en la especialidad de Derecho Comercial y Construcción.   Miembro del Club Español e Iberoamericano de Arbitraje en la Comisión de Dispute Boards. Miembro de la Comisión de Arbitraje y ADR CCI Colombia. Profesor Docente en Arbitraje Nacional e Internacional.
- “.
+      Hace parte de la lista de Árbitros Internacionales en  ICDR, Arbitro Internacional de la Cámara de Comercio de Lima - Perú, Arbitro internacional de la Cámara de Comercio de Tegucigalpa, Arbitro Internacional de la Cámara de Comercio de Cali y Cámara de Comercio de Cartagena. Arbitro Nacional Lista “A” Cámara de Comercio de Bogotá en la especialidad de Derecho Comercial y Construcción.   Miembro del Club Español e Iberoamericano de Arbitraje en la Comisión de Dispute Boards. Miembro de la Comisión de Arbitraje y ADR CCI Colombia. Profesor Docente en Arbitraje Nacional e Internacional.
+      “.
 
-
-
-Hace parte de la lista de Árbitros Internacionales en  ICDR, Arbitro Internacional de la Cámara de Comercio de Lima - Perú, Arbitro internacional de la Cámara de Comercio de Tegucigalpa, Arbitro Internacional de la Cámara de Comercio de Cali y Cámara de Comercio de Cartagena. Arbitro Nacional Lista “A” Cámara de Comercio de Bogotá en la especialidad de Derecho Comercial y Construcción.   Miembro del Club Español e Iberoamericano de Arbitraje en la Comisión de Dispute Boards. Miembro de la Comisión de Arbitraje y ADR CCI Colombia. Profesor Docente en Arbitraje Nacional e Internacional. `,
+      Hace parte de la lista de Árbitros Internacionales en  ICDR, Arbitro Internacional de la Cámara de Comercio de Lima - Perú, Arbitro internacional de la Cámara de Comercio de Tegucigalpa, Arbitro Internacional de la Cámara de Comercio de Cali y Cámara de Comercio de Cartagena. Arbitro Nacional Lista “A” Cámara de Comercio de Bogotá en la especialidad de Derecho Comercial y Construcción.   Miembro del Club Español e Iberoamericano de Arbitraje en la Comisión de Dispute Boards. Miembro de la Comisión de Arbitraje y ADR CCI Colombia. Profesor Docente en Arbitraje Nacional e Internacional. `,
     },
     {
       name: 'Marcos Peña',
@@ -400,21 +398,21 @@ Hace parte de la lista de Árbitros Internacionales en  ICDR, Arbitro Internacio
       pathPhoto: 'assets/images/speakers/Marcos_Pena.png',
       bio: `Marcos Peña es socio fundador de la firma de abogados Jiménez Peña en Santo Domingo, República Dominicana, donde lidera los departamentos de Solución de Controversias y Regulación Económica.  En su práctica profesional el licenciado Peña se concentra especialmente en resolución alternativa de conflictos y litigios, arbitraje internacional, gobierno, así como regulación económica, incluyendo telecomunicaciones y energía.
 
-Fue miembro del consejo de directores del Instituto de Protección al Consumidor (ProConsumidor), nombrado por la comunidad de empresas de servicios. Así mismo, fue miembro del Bufete Directivo del Centro de Resolución Alternativa de Controversias de la Cámara de Comercio y Producción de Santo Domingo. Además, fue miembro del consejo directivo del Instituto Dominicano de las Telecomunicaciones (INDOTEL) y del consejo directivo de la Bolsa de Valores de la República Dominicana. Participó como miembro de la Corte de Arbitraje de la CCI, representando República Dominicana.
+      Fue miembro del consejo de directores del Instituto de Protección al Consumidor (ProConsumidor), nombrado por la comunidad de empresas de servicios. Así mismo, fue miembro del Bufete Directivo del Centro de Resolución Alternativa de Controversias de la Cámara de Comercio y Producción de Santo Domingo. Además, fue miembro del consejo directivo del Instituto Dominicano de las Telecomunicaciones (INDOTEL) y del consejo directivo de la Bolsa de Valores de la República Dominicana. Participó como miembro de la Corte de Arbitraje de la CCI, representando República Dominicana.
 
-Actualmente, es presidente de la comisión de arbitraje y ADR del Comité Nacional de la CCI, además de miembro del Consejo de Directores de Excel Puesto de Bolsa en República Dominicana.
+      Actualmente, es presidente de la comisión de arbitraje y ADR del Comité Nacional de la CCI, además de miembro del Consejo de Directores de Excel Puesto de Bolsa en República Dominicana.
 
-Ha participado como árbitro, experto o abogado de parte, en arbitrajes institucionales administrados por la CCI, CIADI, LCIA y  ICDR, al igual que por centros de arbitraje de las cámaras de comercio de la República Dominicana. Estos casos incluyen disputas relacionadas con inversión, construcción, tecnología de la información, agencia y distribución, energía, telecomunicaciones, entre otros.
-`,
+      Ha participado como árbitro, experto o abogado de parte, en arbitrajes institucionales administrados por la CCI, CIADI, LCIA y  ICDR, al igual que por centros de arbitraje de las cámaras de comercio de la República Dominicana. Estos casos incluyen disputas relacionadas con inversión, construcción, tecnología de la información, agencia y distribución, energía, telecomunicaciones, entre otros.
+      `,
     },
     {
       name: 'Hector Anaya',
       from: 'México',
       pathPhoto: 'assets/images/speakers/HECTOR_ANAYA.png',
       bio: `Héctor Anaya Mondragón es abogado especializado en litigio y arbitraje, con admisión en México y España. Es socio fundador de Gritwood Dispute Resolution, S.C., una firma con sede en la Ciudad de México especializada en arbitraje y litigio.
-Con más de 20 años de práctica profesional, Héctor se enfoca en arbitraje, litigio administrativo, litigios transfronterizos y protección de inversiones extranjeras. Ha representado a clientes de diversas industrias, como construcción, infraestructura, energía, transporte y seguros. Asimismo, Héctor se despeña como árbitro en arbitrajes nacionales e internacionales.
-Héctor obtuvo su título de abogado en la Universidad Panamericana en 2004 y una Maestría en Derecho y Negocios de Bucerius Law School en 2009. Además, es abogado por revalidación en España desde 2010 y posee un doctorado de la Universidad Johann Wolfgang Goethe desde 2014.
-`,
+      Con más de 20 años de práctica profesional, Héctor se enfoca en arbitraje, litigio administrativo, litigios transfronterizos y protección de inversiones extranjeras. Ha representado a clientes de diversas industrias, como construcción, infraestructura, energía, transporte y seguros. Asimismo, Héctor se despeña como árbitro en arbitrajes nacionales e internacionales.
+      Héctor obtuvo su título de abogado en la Universidad Panamericana en 2004 y una Maestría en Derecho y Negocios de Bucerius Law School en 2009. Además, es abogado por revalidación en España desde 2010 y posee un doctorado de la Universidad Johann Wolfgang Goethe desde 2014.
+      `,
     },
     {
       name: 'María Pradilla',
@@ -475,153 +473,152 @@ Héctor obtuvo su título de abogado en la Universidad Panamericana en 2004 y un
       from: 'EE.UU.',
       pathPhoto: 'assets/images/speakers/Gonzalo_Rodriguez.png',
       bio: `Abogado formado en derecho continental y anglosajón basado en Nueva York, Senior Counsel de la
-firma Hogan Lovells. Cuenta con amplia experiencia en la representación de clientes en arbitrajes
-comerciales y de inversión, así como en grandes transacciones comerciales internacionales durante
-más de 30 años, mayormente en asuntos relacionados con América Latina. También ha actuado
-como árbitro en arbitrajes internacionales y nacionales. En su práctica diversa ha manejado asuntos
-relacionados con contratos de desarrollo de infraestructura y construcción, asociaciones público-
-privadas, fusiones y adquisiciones, joint ventures, financiación de proyectos y contratos de
-distribución. Ha representado mayormente a clientes de los sectores de la energía, petróleo y gas,
-infraestructura, minería, alimentos y consumo masivo. Es árbitro del panel de árbitros del International
-Centre for Dispute Resolution de la American Arbitration Association (AAA), así como del panel de
-árbitros comerciales de la AAA, también es Fellow del Chartered Institute of Arbitrators (FCiArb) y
-participa regularmente como expositor en conferencias y talleres sobre arbitraje y contratación
-internacional.`,
+      firma Hogan Lovells. Cuenta con amplia experiencia en la representación de clientes en arbitrajes
+      comerciales y de inversión, así como en grandes transacciones comerciales internacionales durante
+      más de 30 años, mayormente en asuntos relacionados con América Latina. También ha actuado
+      como árbitro en arbitrajes internacionales y nacionales. En su práctica diversa ha manejado asuntos
+      relacionados con contratos de desarrollo de infraestructura y construcción, asociaciones público-
+      privadas, fusiones y adquisiciones, joint ventures, financiación de proyectos y contratos de
+      distribución. Ha representado mayormente a clientes de los sectores de la energía, petróleo y gas,
+      infraestructura, minería, alimentos y consumo masivo. Es árbitro del panel de árbitros del International
+      Centre for Dispute Resolution de la American Arbitration Association (AAA), así como del panel de
+      árbitros comerciales de la AAA, también es Fellow del Chartered Institute of Arbitrators (FCiArb) y
+      participa regularmente como expositor en conferencias y talleres sobre arbitraje y contratación
+      internacional.`,
     },
     {
       name: 'Fanny Rodriguez',
       from: 'Honduras',
       pathPhoto: 'assets/images/speakers/Fanny_Rodriguez.png',
       bio: `Fanny está a cargo del Departamento de Litigios y Arbitraje de Arias en Honduras; asi
-mismo, dirige el Departamento Laboral, área de práctica en la que tiene una amplia trayectoria.
-Es coordinadora del Departamento Administrativo y Migratorio de la firma. Tiene vasta experiencia en contratación pública y procedimientos administrativos, incluyendo tramitación de impugnaciones en instancia administrativa.
-Asimismo, tiene amplia experiencia en la asesoría corporativa y comercial, con enfoque en materia de distribución, representación y agencia, así como relaciones comerciales vinculadas.
-`,
+      mismo, dirige el Departamento Laboral, área de práctica en la que tiene una amplia trayectoria.
+      Es coordinadora del Departamento Administrativo y Migratorio de la firma. Tiene vasta experiencia en contratación pública y procedimientos administrativos, incluyendo tramitación de impugnaciones en instancia administrativa.
+      Asimismo, tiene amplia experiencia en la asesoría corporativa y comercial, con enfoque en materia de distribución, representación y agencia, así como relaciones comerciales vinculadas.
+      `,
     },
     {
       name: 'Sandro Espinoza',
       from: 'Perú',
       pathPhoto: 'assets/images/speakers/sandro-espinoza.png',
       bio: `Abogado por la Pontificia Universidad Católica del Perú, con más de 15 años
-de experiencia en temas de arbitraje y construcción. Ejerce práctica exclusiva
-como árbitro. Ha participado en más de 30 arbitrajes relacionados a
-concesiones de megaproyectos de infraestructura, desde la perspectiva pública
-y privada, así como árbitro. Tiene estudios de post grado en arbitraje comercial
-internacional en American University, en regulación de servicios públicos en la
-Universidad Politécnica de Cataluña y en la maestría de Educación por la
-UDEP. Es director de la Escuela de Arbitraje ARBANZA.
-`,
+      de experiencia en temas de arbitraje y construcción. Ejerce práctica exclusiva
+      como árbitro. Ha participado en más de 30 arbitrajes relacionados a
+      concesiones de megaproyectos de infraestructura, desde la perspectiva pública
+      y privada, así como árbitro. Tiene estudios de post grado en arbitraje comercial
+      internacional en American University, en regulación de servicios públicos en la
+      Universidad Politécnica de Cataluña y en la maestría de Educación por la
+      UDEP. Es director de la Escuela de Arbitraje ARBANZA.
+      `,
     },
     {
       name: 'Alejandro Caceres',
       from: 'Perú',
       pathPhoto: 'assets/images/speakers/Alejandro_Caceres.png',
       bio: `Alejandro es un Abogado con orientación en derecho empresarial y con
-experiencia especialmente en asuntos de naturaleza mercantil, y sector
-regulado. Ha asesorado a empresas nacionales e internacionales en distintas
-materias especialmente: métodos alternos de solución de controversias
-(conciliación y arbitraje), asuntos corporativos de múltiples naturalezas
-destacando en fusiones y adquisiciones, procesos de debida diligencia, y
-financiamiento de proyectos con banca nacional y extranjera.
-Además tiene experiencia en gestión de procesos administrativos en materias
-como ser: migración y extranjería; calificación de proyectos turísticos para
-incorporación al régimen establecido en la Ley de Fomento al Turismo;
-licenciamiento ambiental y control y seguimientos de proyectos con impacto
-ambiental; procesos de denuncia ante la Dirección General de Protección al
-Consumidor; exoneraciones del Impuesto sobre la Renta; obtención de
-personalidad jurídica de organizaciones no gubernamentales de desarrollo
-(ONGD); derecho de propiedad ( contratos de compraventa, permuta, donación
-de bienes inmuebles, y constitución de regimen de propiedad en condominio);
-entre otros.
-`,
+      experiencia especialmente en asuntos de naturaleza mercantil, y sector
+      regulado. Ha asesorado a empresas nacionales e internacionales en distintas
+      materias especialmente: métodos alternos de solución de controversias
+      (conciliación y arbitraje), asuntos corporativos de múltiples naturalezas
+      destacando en fusiones y adquisiciones, procesos de debida diligencia, y
+      financiamiento de proyectos con banca nacional y extranjera.
+      Además tiene experiencia en gestión de procesos administrativos en materias
+      como ser: migración y extranjería; calificación de proyectos turísticos para
+      incorporación al régimen establecido en la Ley de Fomento al Turismo;
+      licenciamiento ambiental y control y seguimientos de proyectos con impacto
+      ambiental; procesos de denuncia ante la Dirección General de Protección al
+      Consumidor; exoneraciones del Impuesto sobre la Renta; obtención de
+      personalidad jurídica de organizaciones no gubernamentales de desarrollo
+      (ONGD); derecho de propiedad ( contratos de compraventa, permuta, donación
+      de bienes inmuebles, y constitución de regimen de propiedad en condominio);
+      entre otros.
+      `,
     },
     {
       name: 'ALBERTO FERNÁNDEZ',
       from: 'Costa Rica',
       pathPhoto: 'assets/images/speakers/alberto_fernandez.png',
       bio: `ALBERTO FERNÁNDEZ LÓPEZ es Abogado graduado de la Universidad de Costa
-Rica y Máster en Administración de Negocios con énfasis en Negocios Internacionales
-de la National University de San Diego, California.
-Socio de la firma BTA LEGAL, con más de 35 años de experiencia profesional
-particularmente en el área de derecho de construcción y solución alterna de conflictos
-(arbitraje, mediación y Dispute Board).
-Es árbitro de los principales centros de arbitraje de Costa Rica, El Salvador, Panamá,
-Honduras, Venezuela y Perú, así como miembro del Panel Arbitral de la Comisión
-Interamericana de Arbitraje Comercial (CIAC), el Centro Iberoamericano de Arbitraje
-Comercial (CIAR) y recientemente del Centro Internacional de Arreglo de Diferencias
-Relativas a Inversiones (CIADI) del Banco Mundial.
-Miembro activo del Club Español e Iberoamericano del Arbitraje, de la ICC Capítulo
-Costa Rica, de la Comisión de Derecho Civil y Mercantil del Colegio de Abogados, de
-la DRBF y ALDEC
-Ha sido árbitro internacional en casos administrados por la ICC París, CFIA Costa Rica
-CAM Costa Rica, CAMARASAL El Salvador, así como abogado de parte en arbitrajes
-internacionales bajo reglas ICC y ICDR y adjudicador en un dispute board
-internacional administrado por ICC.
-Fue reconocido por la plataforma internacional Arbitrator Intelligence como Arbitro
-Internacional del año 2020 y las calificadoras legales Chambers and Partners y Whos
-Who Legal lo ubican como uno de los árbitros más buscados en la región
-centroamericana. Es autor de diversos artículos publicados sobre arbitraje comercial
-internacional en revistas especializadas..
-`,
+      Rica y Máster en Administración de Negocios con énfasis en Negocios Internacionales
+      de la National University de San Diego, California.
+      Socio de la firma BTA LEGAL, con más de 35 años de experiencia profesional
+      particularmente en el área de derecho de construcción y solución alterna de conflictos
+      (arbitraje, mediación y Dispute Board).
+      Es árbitro de los principales centros de arbitraje de Costa Rica, El Salvador, Panamá,
+      Honduras, Venezuela y Perú, así como miembro del Panel Arbitral de la Comisión
+      Interamericana de Arbitraje Comercial (CIAC), el Centro Iberoamericano de Arbitraje
+      Comercial (CIAR) y recientemente del Centro Internacional de Arreglo de Diferencias
+      Relativas a Inversiones (CIADI) del Banco Mundial.
+      Miembro activo del Club Español e Iberoamericano del Arbitraje, de la ICC Capítulo
+      Costa Rica, de la Comisión de Derecho Civil y Mercantil del Colegio de Abogados, de
+      la DRBF y ALDEC
+      Ha sido árbitro internacional en casos administrados por la ICC París, CFIA Costa Rica
+      CAM Costa Rica, CAMARASAL El Salvador, así como abogado de parte en arbitrajes
+      internacionales bajo reglas ICC y ICDR y adjudicador en un dispute board
+      internacional administrado por ICC.
+      Fue reconocido por la plataforma internacional Arbitrator Intelligence como Arbitro
+      Internacional del año 2020 y las calificadoras legales Chambers and Partners y Whos
+      Who Legal lo ubican como uno de los árbitros más buscados en la región
+      centroamericana. Es autor de diversos artículos publicados sobre arbitraje comercial
+      internacional en revistas especializadas..
+      `,
     },
     {
       name: 'Joseph Vergara',
       from: 'Miami',
       pathPhoto: 'assets/images/speakers/Joseph_vergara.png',
       bio: `Joseph Vergara es un Managing Director en Ankura, basado en Miami, Florida,
-conocido por su participación como perito en arbitrajes internacionales ante diversos
-foros. Con más de 20 años de experiencia en la industria de la construcción, se
-especializa en el análisis de costos y retrasos en proyectos, y ha gestionado
-reclamaciones en proyectos internacionales y en América Latina y EE. UU. Su
-experiencia abarca proyectos de infraestructura, incluyendo vial y energética, así como
-obras comerciales y residenciales de gran escala.
-`,
+      conocido por su participación como perito en arbitrajes internacionales ante diversos
+      foros. Con más de 20 años de experiencia en la industria de la construcción, se
+      especializa en el análisis de costos y retrasos en proyectos, y ha gestionado
+      reclamaciones en proyectos internacionales y en América Latina y EE. UU. Su
+      experiencia abarca proyectos de infraestructura, incluyendo vial y energética, así como
+      obras comerciales y residenciales de gran escala.
+      `,
     },
     {
       name: 'Milan Pejnovic',
       from: 'Perú',
       pathPhoto: 'assets/images/speakers/Milan_Pejnovic.png',
       bio: `Abogado por la Pontificia Universidad Católica del Perú – PUCP. Master (LL.M.) en la Universidad de Harvard.
-Managing Partner en Bullard, Falla, Ezcurra +, con 13 años de experiencia en Arbitraje Internacional Comercial y de Inversiones, viendo casos de construcción, infraestructura, seguros, minería e hidrocarburos, entre otros, administrados por instituciones como la CCI, CIADI, CCL y AMCHAM-Perú.
-Árbitro en casos administrados por la CCL y AMCHAM-Peru, así como profesor de Derecho Internacional Privado en la Pontificia Universidad Católica del Perú – PUCP.
-
-`,
+      Managing Partner en Bullard, Falla, Ezcurra +, con 13 años de experiencia en Arbitraje Internacional Comercial y de Inversiones, viendo casos de construcción, infraestructura, seguros, minería e hidrocarburos, entre otros, administrados por instituciones como la CCI, CIADI, CCL y AMCHAM-Perú.
+      Árbitro en casos administrados por la CCL y AMCHAM-Peru, así como profesor de Derecho Internacional Privado en la Pontificia Universidad Católica del Perú – PUCP.
+      `,
     },
     {
       name: 'Arturo Castillo',
       from: 'Mexixco',
       pathPhoto: 'assets/images/speakers/arturo_castillo.png',
       bio: `Arturo del Castillo es Managing Director de Kroll, con sede en México, donde lidera
-la práctica de Investigaciones Forenses. Con más de 20 años de experiencia
-asesorando a clientes de múltiples industrias en asuntos sensibles, Arturo tiene una
-amplia experiencia internacional en la preparación de informes periciales en el
-contexto de investigaciones forenses, así como procedimientos judiciales por daños
-patrimoniales. Arturo ha prestado testimonio como perito en juicios penales en México,
-Colombia y en paneles de arbitraje internacional. Ha asesorado a empresas globales
-de la lista Fortune 500 en investigaciones de fraude, FCPA y asuntos de debida
-diligencia. Arturo también se ha especializado en el diseño e implementación de
-Programas de Cumplimiento. Arturo ha asesorado a varias empresas en la evaluación
-de riesgos de Compliance, diseño de controles internos y apoyo para implementar
-políticas y procedimientos de Compliance. Arturo ha sido orador destacado en
-numerosos seminarios y talleres. Arturo ha publicado varios libros y artículos en
-revistas especializadas. Su reciente publicación, "The Promises and Perils of Co", en
-coautoría con David Arellano, fue publicada por De Gruyter, en 2023. Arturo produce,
-junto a Brian Weihs, el programa de televisión online "Hablemos de Compliance".
-`,
+      la práctica de Investigaciones Forenses. Con más de 20 años de experiencia
+      asesorando a clientes de múltiples industrias en asuntos sensibles, Arturo tiene una
+      amplia experiencia internacional en la preparación de informes periciales en el
+      contexto de investigaciones forenses, así como procedimientos judiciales por daños
+      patrimoniales. Arturo ha prestado testimonio como perito en juicios penales en México,
+      Colombia y en paneles de arbitraje internacional. Ha asesorado a empresas globales
+      de la lista Fortune 500 en investigaciones de fraude, FCPA y asuntos de debida
+      diligencia. Arturo también se ha especializado en el diseño e implementación de
+      Programas de Cumplimiento. Arturo ha asesorado a varias empresas en la evaluación
+      de riesgos de Compliance, diseño de controles internos y apoyo para implementar
+      políticas y procedimientos de Compliance. Arturo ha sido orador destacado en
+      numerosos seminarios y talleres. Arturo ha publicado varios libros y artículos en
+      revistas especializadas. Su reciente publicación, "The Promises and Perils of Co", en
+      coautoría con David Arellano, fue publicada por De Gruyter, en 2023. Arturo produce,
+      junto a Brian Weihs, el programa de televisión online "Hablemos de Compliance".
+      `,
     },
     {
       name: 'Christian Díaz',
       from: 'Costa Rica',
       pathPhoto: 'assets/images/speakers/Cristian_diaz.png',
       bio: `Christian Díaz Barcia. Es socio Fundador de CONEXA Partners en Costa Rica. Cuenta
-con un Post Grado en Arbitraje Comercial Internacional por Queen Mary London
-University, y es graduado del ICC Latin America Arbitration Academy. Cuenta con
-capacitación en FIDIC y Dispute Boards. Es mediador, miembro de Dispute Boards y
-Arbitro en los principales Centros de Arbitraje de Costa Rica, Peru y Centroamérica.
-Ha sido Consultor Externo del BID en Costa Rica, “Country Representative” en Costa
-Rica y Director de la Region 4 de la “Dispute Resolution Board Foundation”. Es
-Presidente de la Asociación Latinoamericana de Derecho de Construcción ALDEC.
-`,
+      con un Post Grado en Arbitraje Comercial Internacional por Queen Mary London
+      University, y es graduado del ICC Latin America Arbitration Academy. Cuenta con
+      capacitación en FIDIC y Dispute Boards. Es mediador, miembro de Dispute Boards y
+      Arbitro en los principales Centros de Arbitraje de Costa Rica, Peru y Centroamérica.
+      Ha sido Consultor Externo del BID en Costa Rica, “Country Representative” en Costa
+      Rica y Director de la Region 4 de la “Dispute Resolution Board Foundation”. Es
+      Presidente de la Asociación Latinoamericana de Derecho de Construcción ALDEC.
+      `,
     },
     {
       name: 'Kenneth Figueroa',
@@ -629,77 +626,77 @@ Presidente de la Asociación Latinoamericana de Derecho de Construcción ALDEC.
       pathPhoto: 'assets/images/speakers/Figueroa_Kenneth.png',
       bio: `Kenneth Juan Figueroa es socio de estudio internacional Foley Hoag y miembro de su Departamento de Litigios & Arbitrajes Internacionales, donde lidera la Práctica de Latino América.  Kenneth se centra en disputas internacionales, particularmente en arbitraje comercial e inversionista-Estado, y representa a clientes privados y estatales, así como a Estados, ante tribunales federales de los Estados Unidos y tribunales arbitrales internacionales, incluidos los establecidos bajo los auspicios del CIADI, la CCI, la CNUDMI y el CIRD, entre otros.
 
-Kenneth ha sido reconocido consecutivamente como uno de los "100 Mejores Abogados" de América Latina por Latinvex: Latin America Business News & Análisis y ha sido catalogado entre los 20 mejores en arbitraje internacional. Ha sido reconocido como “Individuo Líder” (Leading Individual) por Legal 500-LatAm y ha sido destacado en Chambers & Partners.
+      Kenneth ha sido reconocido consecutivamente como uno de los "100 Mejores Abogados" de América Latina por Latinvex: Latin America Business News & Análisis y ha sido catalogado entre los 20 mejores en arbitraje internacional. Ha sido reconocido como “Individuo Líder” (Leading Individual) por Legal 500-LatAm y ha sido destacado en Chambers & Partners.
 
-Actualmente representa a la República de Honduras en varios casos ante el CIADI incluyendo el arbitraje iniciado por el Grupo Próspera.  Sus otros clientes incluyen, y han incluido, al Perú, Ecuador, Panamá, República Dominicana, Venezuela, y Chile, entre otros.
-`,
+      Actualmente representa a la República de Honduras en varios casos ante el CIADI incluyendo el arbitraje iniciado por el Grupo Próspera.  Sus otros clientes incluyen, y han incluido, al Perú, Ecuador, Panamá, República Dominicana, Venezuela, y Chile, entre otros.
+      `,
     },
     {
       name: 'Mairée Uran',
       from: 'Colombia',
       pathPhoto: 'assets/images/speakers/mariee_uran.png',
       bio: `Mairée Uran Bidegain es árbitro independiente y experta en derecho internacional
-público y resolución de disputas. De nacionalidad colombiana, uruguaya y francesa, a largo de su
-carrera Mairée se ha desempeñado en diversos roles en el ámbito de resolución de disputas,
-incluyendo como árbitro, abogada de parte y secretaria de tribunales, comités de anulación y
-comisiones de conciliación.
-Entre el 2018 y el 2023, trabajó para el gabinete del Subsecretario de Relaciones
-Económicas Internacionales de la República de Chile asesorando al Subsecretario en materia de
-inversión extranjera, derecho internacional y resolución de disputas. Entre el 2018 y el 2022 fue
-también la Coordinadora del Programa de Defensa en Arbitrajes de Inversión Extranjera de
-dicho Estado, posición en la que lideró la defensa y representación de Chile en sus arbitrajes de
-inversión, y encabezó la delegación chilena en las negociaciones multilaterales ante el Grupo III
-de UNCITRAL y las reformas a las Reglas y Reglamentos del Centro Internacional de Arreglo
-de Diferencias Relativas a Inversiones (CIADI). Participó además en la negociación de acuerdos
-comerciales y el diseño de políticas de prevención de disputas.
-Entre 2011 y 2018, en su calidad de jefa de equipo y consejera jurídica senior CIADI,
-supervisó la administración de más de 60 casos, incluyendo arbitrajes y anulaciones, y fungió
-como secretaria de tribunales, comités ad hoc y comisiones de conciliación en decenas de
-procedimientos. Entre 2006 y 2011, Mairée además se desempeñó como asociada del equipo de
-arbitraje internacional de White &amp; Case LLP, en Washington, D.C.
-Ha sido profesora adjunta en American University, Washington College of Law y en
-Georgetown University Law Center. Es coeditora del libro, Building International Investment
-Law: The First 50 years of ICSID, entre otras publicaciones, y participa regularmente como
-conferencista en seminarios y congresos especializados. Se graduó de la universidad Panthéon-
-Assas, Paris II y realizó una maestría en derecho internacional económico en la universidad de
+      público y resolución de disputas. De nacionalidad colombiana, uruguaya y francesa, a largo de su
+      carrera Mairée se ha desempeñado en diversos roles en el ámbito de resolución de disputas,
+      incluyendo como árbitro, abogada de parte y secretaria de tribunales, comités de anulación y
+      comisiones de conciliación.
+      Entre el 2018 y el 2023, trabajó para el gabinete del Subsecretario de Relaciones
+      Económicas Internacionales de la República de Chile asesorando al Subsecretario en materia de
+      inversión extranjera, derecho internacional y resolución de disputas. Entre el 2018 y el 2022 fue
+      también la Coordinadora del Programa de Defensa en Arbitrajes de Inversión Extranjera de
+      dicho Estado, posición en la que lideró la defensa y representación de Chile en sus arbitrajes de
+      inversión, y encabezó la delegación chilena en las negociaciones multilaterales ante el Grupo III
+      de UNCITRAL y las reformas a las Reglas y Reglamentos del Centro Internacional de Arreglo
+      de Diferencias Relativas a Inversiones (CIADI). Participó además en la negociación de acuerdos
+      comerciales y el diseño de políticas de prevención de disputas.
+      Entre 2011 y 2018, en su calidad de jefa de equipo y consejera jurídica senior CIADI,
+      supervisó la administración de más de 60 casos, incluyendo arbitrajes y anulaciones, y fungió
+      como secretaria de tribunales, comités ad hoc y comisiones de conciliación en decenas de
+      procedimientos. Entre 2006 y 2011, Mairée además se desempeñó como asociada del equipo de
+      arbitraje internacional de White &amp; Case LLP, en Washington, D.C.
+      Ha sido profesora adjunta en American University, Washington College of Law y en
+      Georgetown University Law Center. Es coeditora del libro, Building International Investment
+      Law: The First 50 years of ICSID, entre otras publicaciones, y participa regularmente como
+      conferencista en seminarios y congresos especializados. Se graduó de la universidad Panthéon-
+      Assas, Paris II y realizó una maestría en derecho internacional económico en la universidad de
 
-MAIRÉE URAN BIDEGAIN
+      MAIRÉE URAN BIDEGAIN
 
-Los Misioneros 2237, Comuna de Providencia, Santiago de Chile / +56 9 44226663
+      Los Misioneros 2237, Comuna de Providencia, Santiago de Chile / +56 9 44226663
 
-mub@uran-bidegain.com / www.uran-bidegain.com
+      mub@uran-bidegain.com / www.uran-bidegain.com
 
-Paris I, Panthéon-Sorbonne y un LL.M. en la Universidad de Pensilvania. Está licenciada para
-ejercer la profesión en Nueva York.
-`,
+      Paris I, Panthéon-Sorbonne y un LL.M. en la Universidad de Pensilvania. Está licenciada para
+      ejercer la profesión en Nueva York.
+      `,
     },
     {
       name: 'Reynaldo Herrera',
       from: 'Salvador',
       pathPhoto: 'assets/images/speakers/reynaldo.png',
       bio: `Socio fundador de HERRERA CHAVARRIA ABOGADOS, San Salvador, El Salvador. Licenciado en
-Ciencias Jurídicas por la Universidad José Matías Delgado de El Salvador, tiene un Post Grado
-Internacional en Derecho Empresarial por la Escuela Superior de Economía y Administración de
-Empresas (ESEADE) de Argentina, actualmente cursando Maestría en Derecho de los Negocios en
-ADEN University.
-Aceptado para integrar la lista de árbitros ante la Comisión Interamericana de Arbitraje Comercial
-(CIAC), la Comisión de Resolución de Conflictos de la Cámara de Industria de Guatemala (CRECIG) y
-el Centro de Mediación y Arbitraje de la Cámara de Comercio e Industria de El Salvador (CMA), en
-la China International Economic and Trade Arbitration Commission (CIETAC) y en el Centro de
-Arbitraje y Resolución de Disputas CARD – ANKAWA INTL.
-Aceptado para integrar la lista de adjudicadores ante el Centro de Arbitraje y Resolución de
-Disputas CARD – ANKAWA INTL.
-Presidente Honorario del Club Español del Arbitraje Capítulo Salvadoreño y Miembro de la
-Comisión de Dispute Boards del CEIA.
-Miembro de la Dispute Resolution Board Foundation (DRBF) desde 2020.
-Su práctica arbitral inicio en el año 2010 al asumir el cargo de director Centro de Mediación y
-Arbitraje de la Cámara de Comercio e Industria de El Salvador (CMA) hasta el año 2018, desde este
-último hasta la fecha ha actuado en más de 10 arbitrajes comerciales y de construcción como
-árbitro presidente.
-Su práctica como adjudicador inicia en el año 2020 como miembro único permanente (DAAB) de la
-comisión de resolución de conflictos en contrato de construcción modelo FIDIC para el diseño y la
-construcción del Hospital de Nejapa en San Salvador.
-`,
+      Ciencias Jurídicas por la Universidad José Matías Delgado de El Salvador, tiene un Post Grado
+      Internacional en Derecho Empresarial por la Escuela Superior de Economía y Administración de
+      Empresas (ESEADE) de Argentina, actualmente cursando Maestría en Derecho de los Negocios en
+      ADEN University.
+      Aceptado para integrar la lista de árbitros ante la Comisión Interamericana de Arbitraje Comercial
+      (CIAC), la Comisión de Resolución de Conflictos de la Cámara de Industria de Guatemala (CRECIG) y
+      el Centro de Mediación y Arbitraje de la Cámara de Comercio e Industria de El Salvador (CMA), en
+      la China International Economic and Trade Arbitration Commission (CIETAC) y en el Centro de
+      Arbitraje y Resolución de Disputas CARD – ANKAWA INTL.
+      Aceptado para integrar la lista de adjudicadores ante el Centro de Arbitraje y Resolución de
+      Disputas CARD – ANKAWA INTL.
+      Presidente Honorario del Club Español del Arbitraje Capítulo Salvadoreño y Miembro de la
+      Comisión de Dispute Boards del CEIA.
+      Miembro de la Dispute Resolution Board Foundation (DRBF) desde 2020.
+      Su práctica arbitral inicio en el año 2010 al asumir el cargo de director Centro de Mediación y
+      Arbitraje de la Cámara de Comercio e Industria de El Salvador (CMA) hasta el año 2018, desde este
+      último hasta la fecha ha actuado en más de 10 arbitrajes comerciales y de construcción como
+      árbitro presidente.
+      Su práctica como adjudicador inicia en el año 2020 como miembro único permanente (DAAB) de la
+      comisión de resolución de conflictos en contrato de construcción modelo FIDIC para el diseño y la
+      construcción del Hospital de Nejapa en San Salvador.
+      `,
     },
   ],
 });
