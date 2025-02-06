@@ -6,24 +6,6 @@ export const SpeakersConfig = Object.freeze({
   },
   speakers: [
     {
-      name: 'Christian Diaz',
-      from: 'Costa Rica',
-      pathPhoto: '',
-      bio: '',
-    },
-    {
-      name: 'Eliana Baraldi',
-      from: 'Brasil',
-      pathPhoto: 'assets/images/speakers/Eliana-Baraldi.png',
-      bio: `Socia fundadora de Eliana Baraldi Advogados en São Paulo, Brasil (2018)
-Maestría en Derecho Internacional por la Universidad de São Paulo-USP
-30 años de experiencia como abogada y árbitro en arbitraje nacional/internacional y litigios judiciales corporativos. Autora de publicaciones nacionales e internacionales relacionadas con el arbitraje
-Vicepresidenta de la CAMCA-Cámara Arbitral del Colegio de Abogados de São Paulo. Secretaria General de CIAR. Miembro del Pleno de CIAM-CIAR
-Miembro de la Comisión de Arbitraje de la CCI en Brasil. Miembro del CEIA – Club Español y Iberoamericano de Arbitraje
-Reconocimientos en Who’s Who Legal-Global-Arbitration, Who’s Who Legal-Thought Leaders, Chambers Latin America, Leaders League, Análise Advocacia 500 y Análise Advocacia Mulher
-Professora invitada de la Universidad de Salamanca, España; Auburn University, Alabama, USA; Faculdades IBMEC, São Paulo – Brasil; y PUC (COGEAE)  `,
-    },
-    {
       name: 'Wuandy Vargas',
       from: 'Perú',
       pathPhoto: 'assets/images/speakers/Wuandy-Vargas.png',
@@ -39,6 +21,18 @@ en Construcción JRD/DAB, una iniciativa que promueve la visualización de mujer
 métodos de resolución de conflictos en el sector construcción. También, forma parte de
 organizaciones internacionales como el Chartered Institute of Arbitrators (CIArb), la Dispute
 Resolution Board Foundation (DRBF) y el Club Español e Iberoamericano de Arbitraje (CEIA).`,
+    },
+    {
+      name: 'Eliana Baraldi',
+      from: 'Brasil',
+      pathPhoto: 'assets/images/speakers/Eliana-Baraldi.png',
+      bio: `Socia fundadora de Eliana Baraldi Advogados en São Paulo, Brasil (2018)
+Maestría en Derecho Internacional por la Universidad de São Paulo-USP
+30 años de experiencia como abogada y árbitro en arbitraje nacional/internacional y litigios judiciales corporativos. Autora de publicaciones nacionales e internacionales relacionadas con el arbitraje
+Vicepresidenta de la CAMCA-Cámara Arbitral del Colegio de Abogados de São Paulo. Secretaria General de CIAR. Miembro del Pleno de CIAM-CIAR
+Miembro de la Comisión de Arbitraje de la CCI en Brasil. Miembro del CEIA – Club Español y Iberoamericano de Arbitraje
+Reconocimientos en Who’s Who Legal-Global-Arbitration, Who’s Who Legal-Thought Leaders, Chambers Latin America, Leaders League, Análise Advocacia 500 y Análise Advocacia Mulher
+Professora invitada de la Universidad de Salamanca, España; Auburn University, Alabama, USA; Faculdades IBMEC, São Paulo – Brasil; y PUC (COGEAE)  `,
     },
     {
       name: 'BENITO ZELAYA',
@@ -225,9 +219,9 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
       bio: ``,
     },
     {
-      name: 'Seguimindo Navarro',
+      name: 'Seguimundo Navarro',
       from: 'España',
-      pathPhoto: '',
+      pathPhoto: 'assets/images/speakers/Seguimundo_Navarro.png',
       bio: `abogado español que vive en Melilla. Actúa de forma exclusiva como árbitro. Socio en inARB. Involucrado en procedimientos administrados por instituciones internacionales de primer nivel en asuntos sobre construcción, ingeniería, energía, telecomunicaciones, seguros, entretenimiento, producción de bienes y M&A.
 Diplomado en arbitraje por el Chartered Institute of Arbitrators y la Swiss Arbitration Academy, experto en Contratos con el Estado en Perú, Master por la Universidad Carlos III de Madrid, Experto en Retórica y Argumentación Jurídica por la Universidad Complutense de Madrid, y Licenciado en Derecho, con diploma en administración de empresas, por la Universidad Pontificia de Comillas.
 Secretario General del Club Español e Iberoamericano del Arbitraje entre 2017 y 2020, y sigue formando parte de su Junta Directiva.”`,
@@ -403,8 +397,15 @@ Hace parte de la lista de Árbitros Internacionales en  ICDR, Arbitro Internacio
     {
       name: 'Marcos Peña',
       from: 'Republica Dominicana',
-      pathPhoto: '',
-      bio: ``,
+      pathPhoto: 'assets/images/speakers/Marcos_Pena.png',
+      bio: `Marcos Peña es socio fundador de la firma de abogados Jiménez Peña en Santo Domingo, República Dominicana, donde lidera los departamentos de Solución de Controversias y Regulación Económica.  En su práctica profesional el licenciado Peña se concentra especialmente en resolución alternativa de conflictos y litigios, arbitraje internacional, gobierno, así como regulación económica, incluyendo telecomunicaciones y energía.
+
+Fue miembro del consejo de directores del Instituto de Protección al Consumidor (ProConsumidor), nombrado por la comunidad de empresas de servicios. Así mismo, fue miembro del Bufete Directivo del Centro de Resolución Alternativa de Controversias de la Cámara de Comercio y Producción de Santo Domingo. Además, fue miembro del consejo directivo del Instituto Dominicano de las Telecomunicaciones (INDOTEL) y del consejo directivo de la Bolsa de Valores de la República Dominicana. Participó como miembro de la Corte de Arbitraje de la CCI, representando República Dominicana.
+
+Actualmente, es presidente de la comisión de arbitraje y ADR del Comité Nacional de la CCI, además de miembro del Consejo de Directores de Excel Puesto de Bolsa en República Dominicana.
+
+Ha participado como árbitro, experto o abogado de parte, en arbitrajes institucionales administrados por la CCI, CIADI, LCIA y  ICDR, al igual que por centros de arbitraje de las cámaras de comercio de la República Dominicana. Estos casos incluyen disputas relacionadas con inversión, construcción, tecnología de la información, agencia y distribución, energía, telecomunicaciones, entre otros.
+`,
     },
     {
       name: 'Hector Anaya',
@@ -574,6 +575,16 @@ especializa en el análisis de costos y retrasos en proyectos, y ha gestionado
 reclamaciones en proyectos internacionales y en América Latina y EE. UU. Su
 experiencia abarca proyectos de infraestructura, incluyendo vial y energética, así como
 obras comerciales y residenciales de gran escala.
+`,
+    },
+    {
+      name: 'Milan Pejnovic',
+      from: 'Perú',
+      pathPhoto: 'assets/images/speakers/Milan_Pejnovic.png',
+      bio: `Abogado por la Pontificia Universidad Católica del Perú – PUCP. Master (LL.M.) en la Universidad de Harvard.
+Managing Partner en Bullard, Falla, Ezcurra +, con 13 años de experiencia en Arbitraje Internacional Comercial y de Inversiones, viendo casos de construcción, infraestructura, seguros, minería e hidrocarburos, entre otros, administrados por instituciones como la CCI, CIADI, CCL y AMCHAM-Perú.
+Árbitro en casos administrados por la CCL y AMCHAM-Peru, así como profesor de Derecho Internacional Privado en la Pontificia Universidad Católica del Perú – PUCP.
+
 `,
     },
     {

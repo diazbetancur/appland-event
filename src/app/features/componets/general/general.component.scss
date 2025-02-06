@@ -4,6 +4,12 @@
   font-weight: bold;
 }
 
+.text {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
 .titleBlue {
   font-size: 1.5rem;
   color: var(--color-blue);
