@@ -6,7 +6,7 @@ export const SponsorConfig = Object.freeze({
   },
   pathImages: [
     {
-      src: 'assets/images/sponsor/PLATINUM.png',
+      src: 'assets/images/sponsor/PLATINUMN.png',
       alt: '',
       type: 'PLATINUM',
     },
@@ -16,7 +16,7 @@ export const SponsorConfig = Object.freeze({
       type: 'PLATINUM',
     },
     {
-      src: 'assets/images/sponsor/ORO.png',
+      src: 'assets/images/sponsor/ORON.png',
       alt: '',
       type: 'ORO',
     },
@@ -36,7 +36,7 @@ export const SponsorConfig = Object.freeze({
       type: 'ORO',
     },
     {
-      src: 'assets/images/sponsor/PLATA.png',
+      src: 'assets/images/sponsor/PLATAN.png',
       alt: '',
       type: 'PLATA',
     },
@@ -86,7 +86,7 @@ export const SponsorConfig = Object.freeze({
       type: 'PLATA',
     },
     {
-      src: 'assets/images/sponsor/BRONCE.png',
+      src: 'assets/images/sponsor/BRONCEN.png',
       alt: '',
       type: 'BRONCE',
     },
@@ -116,7 +116,7 @@ export const SponsorConfig = Object.freeze({
       type: 'BRONCE',
     },
     {
-      src: 'assets/images/sponsor/APOYO.png',
+      src: 'assets/images/sponsor/APOYOI.png',
       alt: '',
       type: 'APOYO INSTITUCIONAL',
     },
@@ -158,11 +158,6 @@ export const SponsorConfig = Object.freeze({
     },
     {
       src: 'assets/images/sponsor/ceia.png',
-      alt: '',
-      type: 'institucional',
-    },
-    {
-      src: 'assets/images/sponsor/unah.png',
       alt: '',
       type: 'institucional',
     },

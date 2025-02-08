@@ -8,7 +8,7 @@ export const SpeakersConfig = Object.freeze({
     {
       name: 'Wuandy Vargas',
       from: 'Perú',
-      pathPhoto: 'assets/images/speakers/Wuandy-Vargas.png',
+      pathPhoto: 'assets/images/speakers/WuandyVargas.png',
       bio: `Wuandy Vargas Guevara es abogada peruana, árbitro nacional e internacional y adjudicadora,
 con amplia experiencia en resolución de disputas en los sectores de construcción, gestión de
 proyectos, contratación pública, contratos NEC y contratos FIDIC. Cuenta con una maestría en
@@ -25,7 +25,7 @@ Resolution Board Foundation (DRBF) y el Club Español e Iberoamericano de Arbitr
     {
       name: 'Eliana Baraldi',
       from: 'Brasil',
-      pathPhoto: 'assets/images/speakers/Eliana-Baraldi.png',
+      pathPhoto: 'assets/images/speakers/ElianaBaraldi.png',
       bio: `Socia fundadora de Eliana Baraldi Advogados en São Paulo, Brasil (2018)
 Maestría en Derecho Internacional por la Universidad de São Paulo-USP
 30 años de experiencia como abogada y árbitro en arbitraje nacional/internacional y litigios judiciales corporativos. Autora de publicaciones nacionales e internacionales relacionadas con el arbitraje
@@ -37,7 +37,7 @@ Professora invitada de la Universidad de Salamanca, España; Auburn University, 
     {
       name: 'BENITO ZELAYA',
       from: 'Honduras',
-      pathPhoto: 'assets/images/speakers/Benito_Zelaya.png',
+      pathPhoto: 'assets/images/speakers/BenitoZelaya.png',
       bio: `Socio Director de la firma LEXINCORP HONDURAS, sus principales areas de
 practica son Derecho Corporativo, Litigios y Arbitraje, Benito ha participado en
 diversos arbitrajes de disputas complejas de alto valor relacionadas con proyectos
@@ -71,7 +71,7 @@ variones y reclamos.`,
     {
       name: 'Adriana Vargas',
       from: 'Costa Rica',
-      pathPhoto: 'assets/images/speakers/Adriana_Vargas.png',
+      pathPhoto: 'assets/images/speakers/AdrianaVargas.png',
       bio: `Adriana Vargas es la Directora de Litigio y Arbitraje en Lexincorp Costa Rica. Posee una sólida trayectoria en arbitrajes comerciales y de construcción, así como en litigio. Tras obtener su Maestría en Derecho (LL.M.) en Columbia Law School, se incorporó a la oficina de Nueva York de una de las firmas legales más prestigiosas de los Estados Unidos. Durante este tiempo, manejó casos ante el NYC Commission on Human Rights y el NY State Division of Human Rights, y participó activamente en audiencias judiciales y administrativas, incluyendo procedimientos ante la Corte Federal.`,
     },
     {
@@ -83,13 +83,13 @@ variones y reclamos.`,
     {
       name: 'Fernando Marcondes',
       from: 'Brasil',
-      pathPhoto: 'assets/images/speakers/Fernandi-Marcondes.png',
+      pathPhoto: 'assets/images/speakers/FernandiMarcondes.png',
       bio: `Fernando Marcondes es abogado desde 1988, árbitro desde 2001 y miembro de Dispute Boards desde 2009. Actúa exclusivamente en el área de Construcción e Infraestructura. Es el fundador del Instituto Brasileño de Derecho de la Construcción, donde hoy ejerce la función de consejero vitalicio. Fue el representante del Brasil ante la DRBF por 7 años hasta 2024 y es presidente de honor del capítulo brasileño del Club Español e Iberoamericano del Arbitraje.`,
     },
     {
       name: 'Erick Britton',
       from: 'Panamá',
-      pathPhoto: 'assets/images/speakers/Erick_Briton.png',
+      pathPhoto: 'assets/images/speakers/ErickBriton.png',
       bio: `Eric Britton
 Partner
 PANAMA
@@ -169,7 +169,7 @@ Español e Inglés`,
     {
       name: 'Christa Mueller',
       from: 'México',
-      pathPhoto: 'assets/images/speakers/Christa-Mueller.png',
+      pathPhoto: 'assets/images/speakers/ChristaMueller.png',
       bio: `Christa cuenta con más de dos décadas de experiencia en litigio comercial y administrativo y arbitraje comercial.
 En 2016 se independizo y desde 2018 actúa exclusivamente como árbitro primordialmente en los sectores de energía, oil & gas e infraestructura.
 Christa ha sido honrada con el reconocimiento de Chambers & Partners dentro de la lista de “Árbitros más Solicitados” Banda 1 en México en 2024, destacando su habilidad y pericia en este campo.
@@ -185,7 +185,7 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
     {
       name: 'Jaqueline López',
       from: 'España',
-      pathPhoto: 'assets/images/speakers/Jaqueline-lopez.png',
+      pathPhoto: 'assets/images/speakers/JaquelineLopez.png',
       bio: `Jacqueline López Wismer es abogada alemana y española, árbitro y cofundadora del boutique-law firm Kniprath Lopez Attorneys en Berlín y Barcelona con el enfoque a resolución de litigios internacionales; hizo un máster en Derecho International de los Negocios en Esade, Barcelona, y tiene el título Fellow of the Chartered Institute of Arbitrators (FCIArb). Es presidenta del capítulo Alemania y Austria del Club Español e Iberoamericano del Arbitraje (CEIA), Madrid. Ha sido nombrada Delegada de ICC España en la ICC Commission on Arbitration and ADR para el mandado 2024-2027.`,
     },
     {
@@ -197,7 +197,7 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
     {
       name: 'Antonio Bravo',
       from: 'España',
-      pathPhoto: 'assets/images/speakers/ANTONIO-BRAVO.png',
+      pathPhoto: 'assets/images/speakers/ANTONIOBRAVO.png',
       bio: ``,
     },
     {
@@ -209,7 +209,7 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
     {
       name: 'Cecila Flores',
       from: 'México',
-      pathPhoto: 'assets/images/speakers/Cecilia-Flores.png',
+      pathPhoto: 'assets/images/speakers/CeciliaFlores.png',
       bio: ``,
     },
     {
@@ -221,7 +221,7 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
     {
       name: 'Seguimundo Navarro',
       from: 'España',
-      pathPhoto: 'assets/images/speakers/Seguimundo_Navarro.png',
+      pathPhoto: 'assets/images/speakers/SeguimundoNavarro.png',
       bio: `abogado español que vive en Melilla. Actúa de forma exclusiva como árbitro. Socio en inARB. Involucrado en procedimientos administrados por instituciones internacionales de primer nivel en asuntos sobre construcción, ingeniería, energía, telecomunicaciones, seguros, entretenimiento, producción de bienes y M&A.
       Diplomado en arbitraje por el Chartered Institute of Arbitrators y la Swiss Arbitration Academy, experto en Contratos con el Estado en Perú, Master por la Universidad Carlos III de Madrid, Experto en Retórica y Argumentación Jurídica por la Universidad Complutense de Madrid, y Licenciado en Derecho, con diploma en administración de empresas, por la Universidad Pontificia de Comillas.
       Secretario General del Club Español e Iberoamericano del Arbitraje entre 2017 y 2020, y sigue formando parte de su Junta Directiva.”`,
@@ -235,13 +235,13 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
     {
       name: 'Franchesca Cifuentes',
       from: 'Colombia',
-      pathPhoto: 'assets/images/speakers/Francesca_Cifuentes.png',
+      pathPhoto: 'assets/images/speakers/FrancescaCifuentes.png',
       bio: `Es árbitro nacional e internacional con amplia experiencia en derecho comercial, administrativo y constitucional. Es abogada de la Universidad de los Andes con estudios avanzados en Paris II Panthéon-Assas y Paris III Sorbonne Nouvelle. Como profesora y conferencista, se especializa en arbitraje de inversión y comercial internacional, abordando temas innovadores como la inteligencia artificial en el arbitraje. Es autora del libro Arbitraje Nacional Colombiano y de varios artículos académicos sobre arbitraje y derecho internacional. `,
     },
     {
       name: 'David Orta',
       from: 'Miami',
-      pathPhoto: 'assets/images/speakers/David_Orta.png',
+      pathPhoto: 'assets/images/speakers/DavidOrta.png',
       bio: `David Orta es el Director de la Práctica de Arbitraje Internacional de América Latina y Estados
       Unidos de América. Las guías jurídicas Chambers Global y Chambers Latin América indican
       que sus clientes lo describen como &quot;un abogado tenaz con vasta experiencia que inspira
@@ -260,7 +260,7 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
     {
       name: 'Margie Jaime',
       from: 'Panamá',
-      pathPhoto: 'assets/images/speakers/margie_lys_jaime.png',
+      pathPhoto: 'assets/images/speakers/margielysjaime.png',
       bio: ``,
     },
     {
@@ -278,7 +278,7 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
     {
       name: 'Ana M. Ordoñez',
       from: 'Colombia',
-      pathPhoto: 'assets/images/speakers/Ana_Maria_Ordonez.png',
+      pathPhoto: 'assets/images/speakers/AnaMariaOrdonez.png',
       bio: `Árbitro y Counsel en Martínez, Quintero, Mendoza, Laguado &amp; De La Rosa. Ex
       directora de Defensa Jurídica Internacional en la Agencia Nacional de Defensa
       Jurídica del Estado de Colombia, donde estructuró y consolidó un modelo de defensa
@@ -296,7 +296,7 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
     {
       name: 'Carlos Concepción',
       from: 'EE.UU.',
-      pathPhoto: '',
+      pathPhoto: 'assets/images/speakers/CarlosConcepcion.png',
       bio: `Carlos is the Managing Partner of Concepcion Global PLLC, a law firm
       with offices in Miami Florida and Madrid Spain. Carlos is Board
       Certified in International Litigation and Arbitration and is a Fellow of
@@ -318,7 +318,7 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
     {
       name: 'Sean Anderson',
       from: 'EE.UU.',
-      pathPhoto: 'assets/images/speakers/Sean-Anderson.png',
+      pathPhoto: 'assets/images/speakers/SeanAnderson.png',
       bio: `Sean Anderson es el Jefe de América Latina en Mintz Group y lidera la oficina de
       Ciudad de México. Sean es experto en litigios y disputas de alto riesgo,
       investigaciones de rastreo de activos y diligencia debida en la región. Entre sus
@@ -333,7 +333,7 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
     },
     {
       name: 'Juan Philippi',
-      pathPhoto: 'assets/images/speakers/Juan_Pablo.png',
+      pathPhoto: 'assets/images/speakers/JuanPablo.png',
       from: 'Chile',
       bio: `Juan Pablo es socio de FK Economics y tiene más de 10 años liderando el desarrollo de FK Economics en Iberoamérica. Centra su práctica en la elaboración de estudios económicos y dictámenes periciales en materias de daños y financieros. Ha sido reconocido por varios años por prestigiosas publicaciones como Lexology y Leaders League.`,
     },
@@ -352,7 +352,7 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
     {
       name: 'Felipe Nazar',
       from: 'EE.UU.',
-      pathPhoto: 'assets/images/speakers/Felipe_nazar.png',
+      pathPhoto: 'assets/images/speakers/FelipeNazar.png',
       bio: ``,
     },
     {
@@ -364,13 +364,13 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
     {
       name: 'Alfredo Skineer',
       from: 'Guatemala',
-      pathPhoto: 'assets/images/speakers/ALFREDO-SKINNER.png',
+      pathPhoto: 'assets/images/speakers/ALFREDOSKINNER.png',
       bio: ``,
     },
     {
       name: 'Luis Maljik',
       from: 'Honduras',
-      pathPhoto: 'assets/images/speakers/Luis-Maljik.png',
+      pathPhoto: 'assets/images/speakers/LuisMaljik.png',
       bio: `Abogado. Master en Derecho Procesal Civil. Master en Propiedad Intelectual y Derecho de las Nuevas Tecnologías.
       Fue Juez de la República por 11 años y es autor de diversas publicaciones en el área de Derecho Procesal.
       Actualmente ejerce como Director del Centro de Conciliación y Arbitraje de la Cámara de Comercio e Industrias de Cortés y como Profesor de Derecho en la Universidad Tecnológica Centroamericana (UNITEC).`,
@@ -384,7 +384,7 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
     {
       name: 'Carolina Silva',
       from: 'Colombia',
-      pathPhoto: 'assets/images/speakers/Carolina-Silva.png',
+      pathPhoto: 'assets/images/speakers/CarolinaSilva.png',
       bio: `Carolina Silva, Arbitro Nacional e Internacional. Experta en derecho comercial y Construcción bajo la modalidad de Asociaciones Publico Privadas. Secretaria técnica de la Ley de Arbitraje Internacional Ley 1563 de 2012. Miembro de la Comisión de Arbitraje y ADR de la CCI Colombia y Fundadora del Pot-cast denominado “5 minutos para hablar de Arbitraje “.
 
       Hace parte de la lista de Árbitros Internacionales en  ICDR, Arbitro Internacional de la Cámara de Comercio de Lima - Perú, Arbitro internacional de la Cámara de Comercio de Tegucigalpa, Arbitro Internacional de la Cámara de Comercio de Cali y Cámara de Comercio de Cartagena. Arbitro Nacional Lista “A” Cámara de Comercio de Bogotá en la especialidad de Derecho Comercial y Construcción.   Miembro del Club Español e Iberoamericano de Arbitraje en la Comisión de Dispute Boards. Miembro de la Comisión de Arbitraje y ADR CCI Colombia. Profesor Docente en Arbitraje Nacional e Internacional.
@@ -395,7 +395,7 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
     {
       name: 'Marcos Peña',
       from: 'Republica Dominicana',
-      pathPhoto: 'assets/images/speakers/Marcos_Pena.png',
+      pathPhoto: 'assets/images/speakers/MarcosPena.png',
       bio: `Marcos Peña es socio fundador de la firma de abogados Jiménez Peña en Santo Domingo, República Dominicana, donde lidera los departamentos de Solución de Controversias y Regulación Económica.  En su práctica profesional el licenciado Peña se concentra especialmente en resolución alternativa de conflictos y litigios, arbitraje internacional, gobierno, así como regulación económica, incluyendo telecomunicaciones y energía.
 
       Fue miembro del consejo de directores del Instituto de Protección al Consumidor (ProConsumidor), nombrado por la comunidad de empresas de servicios. Así mismo, fue miembro del Bufete Directivo del Centro de Resolución Alternativa de Controversias de la Cámara de Comercio y Producción de Santo Domingo. Además, fue miembro del consejo directivo del Instituto Dominicano de las Telecomunicaciones (INDOTEL) y del consejo directivo de la Bolsa de Valores de la República Dominicana. Participó como miembro de la Corte de Arbitraje de la CCI, representando República Dominicana.
@@ -408,7 +408,7 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
     {
       name: 'Hector Anaya',
       from: 'México',
-      pathPhoto: 'assets/images/speakers/HECTOR_ANAYA.png',
+      pathPhoto: 'assets/images/speakers/HECTORANAYA.png',
       bio: `Héctor Anaya Mondragón es abogado especializado en litigio y arbitraje, con admisión en México y España. Es socio fundador de Gritwood Dispute Resolution, S.C., una firma con sede en la Ciudad de México especializada en arbitraje y litigio.
       Con más de 20 años de práctica profesional, Héctor se enfoca en arbitraje, litigio administrativo, litigios transfronterizos y protección de inversiones extranjeras. Ha representado a clientes de diversas industrias, como construcción, infraestructura, energía, transporte y seguros. Asimismo, Héctor se despeña como árbitro en arbitrajes nacionales e internacionales.
       Héctor obtuvo su título de abogado en la Universidad Panamericana en 2004 y una Maestría en Derecho y Negocios de Bucerius Law School en 2009. Además, es abogado por revalidación en España desde 2010 y posee un doctorado de la Universidad Johann Wolfgang Goethe desde 2014.
@@ -417,13 +417,13 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
     {
       name: 'María Pradilla',
       from: 'EE.UU.',
-      pathPhoto: 'assets/images/speakers/maria-padilla.png',
+      pathPhoto: 'assets/images/speakers/mariaPadilla.png',
       bio: `Maria Pradilla Picas enfoca su práctica en el arbitraje y litigio de disputas comerciales y de inversión complejas, con énfasis particular en América Latina. Ha representado a clientes en tratados de inversión y procedimientos de arbitraje comercial bajo las normas de la UNCITRAL (Comisión de las Naciones Unidas para el Derecho en materia de Comercio Exterior), el ICSID (Centro Internacional de Solución de Controversias Relativas a Inversiones) y la ICC (Cámara Internacional de Comercio).`,
     },
     {
       name: 'Maria Burgos',
       from: 'Colombia',
-      pathPhoto: 'assets/images/speakers/Maria-Angelica-Burgos.png',
+      pathPhoto: 'assets/images/speakers/MariaAngelicaBurgos.png',
       bio: ``,
     },
     {
@@ -459,19 +459,19 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
     {
       name: 'José Alonso',
       from: 'España',
-      pathPhoto: 'assets/images/speakers/Jose-maria.png',
+      pathPhoto: 'assets/images/speakers/JoseMaria.png',
       bio: `José María Alonso es Presidente de CIAM-CIAR y socio director de Alonso & Díez-Hochleitner Abogados. Ha sido Socio Director en J&A Garrigues y Baker McKenzie en Madrid, así como Decano del Ilustre Colegio de Abogados de Madrid. Su trayectoria incluye más de 40 años en el derecho, con especial enfoque en la resolución de disputas. Además, es Presidente de honor del CEIA, vocal de la Junta de gobierno de la Mutualidad de la Abogacía, y miembro de su Comisión Ejecutiva. Ha actuado como árbitro en más de 300 procedimientos arbitrales tanto en España como a nivel global`,
     },
     {
       name: 'Rafael Cox',
       from: 'Puerto Rico',
-      pathPhoto: 'assets/images/speakers/RAFAEL_COX.png',
+      pathPhoto: 'assets/images/speakers/RAFAELCOX.png',
       bio: ``,
     },
     {
       name: 'Gónzalo Rodríguez',
       from: 'EE.UU.',
-      pathPhoto: 'assets/images/speakers/Gonzalo_Rodriguez.png',
+      pathPhoto: 'assets/images/speakers/GonzaloRodriguez.png',
       bio: `Abogado formado en derecho continental y anglosajón basado en Nueva York, Senior Counsel de la
       firma Hogan Lovells. Cuenta con amplia experiencia en la representación de clientes en arbitrajes
       comerciales y de inversión, así como en grandes transacciones comerciales internacionales durante
@@ -489,7 +489,7 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
     {
       name: 'Fanny Rodriguez',
       from: 'Honduras',
-      pathPhoto: 'assets/images/speakers/Fanny_Rodriguez.png',
+      pathPhoto: 'assets/images/speakers/FannyRodriguez.png',
       bio: `Fanny está a cargo del Departamento de Litigios y Arbitraje de Arias en Honduras; asi
       mismo, dirige el Departamento Laboral, área de práctica en la que tiene una amplia trayectoria.
       Es coordinadora del Departamento Administrativo y Migratorio de la firma. Tiene vasta experiencia en contratación pública y procedimientos administrativos, incluyendo tramitación de impugnaciones en instancia administrativa.
@@ -499,7 +499,7 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
     {
       name: 'Sandro Espinoza',
       from: 'Perú',
-      pathPhoto: 'assets/images/speakers/sandro-espinoza.png',
+      pathPhoto: 'assets/images/speakers/sandroEspinoza.png',
       bio: `Abogado por la Pontificia Universidad Católica del Perú, con más de 15 años
       de experiencia en temas de arbitraje y construcción. Ejerce práctica exclusiva
       como árbitro. Ha participado en más de 30 arbitrajes relacionados a
@@ -513,7 +513,7 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
     {
       name: 'Alejandro Caceres',
       from: 'Perú',
-      pathPhoto: 'assets/images/speakers/Alejandro_Caceres.png',
+      pathPhoto: 'assets/images/speakers/AlejandroCaceres.png',
       bio: `Alejandro es un Abogado con orientación en derecho empresarial y con
       experiencia especialmente en asuntos de naturaleza mercantil, y sector
       regulado. Ha asesorado a empresas nacionales e internacionales en distintas
@@ -536,7 +536,7 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
     {
       name: 'ALBERTO FERNÁNDEZ',
       from: 'Costa Rica',
-      pathPhoto: 'assets/images/speakers/alberto_fernandez.png',
+      pathPhoto: 'assets/images/speakers/albertofernandez.png',
       bio: `ALBERTO FERNÁNDEZ LÓPEZ es Abogado graduado de la Universidad de Costa
       Rica y Máster en Administración de Negocios con énfasis en Negocios Internacionales
       de la National University de San Diego, California.
@@ -565,7 +565,7 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
     {
       name: 'Joseph Vergara',
       from: 'Miami',
-      pathPhoto: 'assets/images/speakers/Joseph_vergara.png',
+      pathPhoto: 'assets/images/speakers/Josephvergara.png',
       bio: `Joseph Vergara es un Managing Director en Ankura, basado en Miami, Florida,
       conocido por su participación como perito en arbitrajes internacionales ante diversos
       foros. Con más de 20 años de experiencia en la industria de la construcción, se
@@ -578,7 +578,7 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
     {
       name: 'Milan Pejnovic',
       from: 'Perú',
-      pathPhoto: 'assets/images/speakers/Milan_Pejnovic.png',
+      pathPhoto: 'assets/images/speakers/MilanPejnovic.png',
       bio: `Abogado por la Pontificia Universidad Católica del Perú – PUCP. Master (LL.M.) en la Universidad de Harvard.
       Managing Partner en Bullard, Falla, Ezcurra +, con 13 años de experiencia en Arbitraje Internacional Comercial y de Inversiones, viendo casos de construcción, infraestructura, seguros, minería e hidrocarburos, entre otros, administrados por instituciones como la CCI, CIADI, CCL y AMCHAM-Perú.
       Árbitro en casos administrados por la CCL y AMCHAM-Peru, así como profesor de Derecho Internacional Privado en la Pontificia Universidad Católica del Perú – PUCP.
@@ -587,7 +587,7 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
     {
       name: 'Arturo Castillo',
       from: 'Mexixco',
-      pathPhoto: 'assets/images/speakers/arturo_castillo.png',
+      pathPhoto: 'assets/images/speakers/arturocastillo.png',
       bio: `Arturo del Castillo es Managing Director de Kroll, con sede en México, donde lidera
       la práctica de Investigaciones Forenses. Con más de 20 años de experiencia
       asesorando a clientes de múltiples industrias en asuntos sensibles, Arturo tiene una
@@ -609,7 +609,7 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
     {
       name: 'Christian Díaz',
       from: 'Costa Rica',
-      pathPhoto: 'assets/images/speakers/Cristian_diaz.png',
+      pathPhoto: 'assets/images/speakers/Cristiandiaz.png',
       bio: `Christian Díaz Barcia. Es socio Fundador de CONEXA Partners en Costa Rica. Cuenta
       con un Post Grado en Arbitraje Comercial Internacional por Queen Mary London
       University, y es graduado del ICC Latin America Arbitration Academy. Cuenta con
@@ -623,7 +623,7 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
     {
       name: 'Kenneth Figueroa',
       from: 'Perú',
-      pathPhoto: 'assets/images/speakers/Figueroa_Kenneth.png',
+      pathPhoto: 'assets/images/speakers/FigueroaKenneth.png',
       bio: `Kenneth Juan Figueroa es socio de estudio internacional Foley Hoag y miembro de su Departamento de Litigios & Arbitrajes Internacionales, donde lidera la Práctica de Latino América.  Kenneth se centra en disputas internacionales, particularmente en arbitraje comercial e inversionista-Estado, y representa a clientes privados y estatales, así como a Estados, ante tribunales federales de los Estados Unidos y tribunales arbitrales internacionales, incluidos los establecidos bajo los auspicios del CIADI, la CCI, la CNUDMI y el CIRD, entre otros.
 
       Kenneth ha sido reconocido consecutivamente como uno de los "100 Mejores Abogados" de América Latina por Latinvex: Latin America Business News & Análisis y ha sido catalogado entre los 20 mejores en arbitraje internacional. Ha sido reconocido como “Individuo Líder” (Leading Individual) por Legal 500-LatAm y ha sido destacado en Chambers & Partners.
@@ -634,7 +634,7 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
     {
       name: 'Mairée Uran',
       from: 'Colombia',
-      pathPhoto: 'assets/images/speakers/mariee_uran.png',
+      pathPhoto: 'assets/images/speakers/marieeuran.png',
       bio: `Mairée Uran Bidegain es árbitro independiente y experta en derecho internacional
       público y resolución de disputas. De nacionalidad colombiana, uruguaya y francesa, a largo de su
       carrera Mairée se ha desempeñado en diversos roles en el ámbito de resolución de disputas,
@@ -673,7 +673,7 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
     {
       name: 'Reynaldo Herrera',
       from: 'Salvador',
-      pathPhoto: 'assets/images/speakers/reynaldo.png',
+      pathPhoto: 'assets/images/speakers/reynaldoH.png',
       bio: `Socio fundador de HERRERA CHAVARRIA ABOGADOS, San Salvador, El Salvador. Licenciado en
       Ciencias Jurídicas por la Universidad José Matías Delgado de El Salvador, tiene un Post Grado
       Internacional en Derecho Empresarial por la Escuela Superior de Economía y Administración de
