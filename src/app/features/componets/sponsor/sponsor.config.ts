@@ -172,7 +172,7 @@ export const SponsorConfig = Object.freeze({
       type: 'institucional',
     },
     {
-      src: 'assets/images/sponsor/cca.png',
+      src: 'assets/images/sponsor/CCA.png',
       alt: '',
       type: 'institucional',
     },
