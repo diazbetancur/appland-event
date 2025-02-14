@@ -1,4 +1,4 @@
-<div class="container">
+<!-- <div class="container">
   <div class="row">
     <div class="calendary">
       <div
@@ -36,5 +36,33 @@
     >
       {{ showingAll ? "VER MENOS DETALLES" : "VER MÁS DETALLES" }}
     </button>
+  </div>
+</div> -->
+<div class="timeline-container">
+  <div class="timeline-header">
+    <h3>{{ eventDaty.day }} {{ eventDaty.date }}</h3>
+    <h3>{{ eventDaty.place }}</h3>
+  </div>
+
+  <div class="timeline-wrapper">
+    <div class="timeline">
+      <div class="timeline-line"></div>
+      <div
+        *ngFor="let item of eventDaty.event; let i = index"
+        class="timeline-item"
+        [class.timeline-item-alt]="i % 2 === 0"
+      >
+        <div class="timeline-dot"></div>
+
+        <div class="timeline-content">
+          <div class="time-badge">
+            {{ item.time }}
+          </div>
+          <div class="description-card">
+            {{ item.description }}
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </div>

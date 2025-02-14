@@ -25,9 +25,15 @@
           [src]="photo"
           alt="Photo"
           class="carousel-image"
+          (click)="openModal(photo)"
         />
       </div>
     </div>
   </div>
   <div class="line"></div>
 </div>
+<app-picture
+  *ngIf="pathPhoto"
+  [pathPhoto]="pathPhoto"
+  (close)="closeModal()"
+></app-picture>

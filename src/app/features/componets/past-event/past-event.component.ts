@@ -13,6 +13,7 @@ export class PastEventComponent implements OnInit, OnDestroy {
   visibleGroups: string[][] = [];
   currentIndex: number = 0;
   intervalId: any;
+  public pathPhoto: string | null = null;
 
   ngOnInit() {
     this.photos = this.config.pathImages;
@@ -71,5 +72,12 @@ export class PastEventComponent implements OnInit, OnDestroy {
     if (this.intervalId) {
       clearInterval(this.intervalId);
     }
+  }
+
+  public openModal(pathImages: string) {
+    this.pathPhoto = pathImages;
+  }
+  closeModal() {
+    this.pathPhoto = null;
   }
 }
