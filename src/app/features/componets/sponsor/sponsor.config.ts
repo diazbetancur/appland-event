@@ -36,6 +36,11 @@ export const SponsorConfig = Object.freeze({
       type: 'ORO',
     },
     {
+      src: 'assets/images/sponsor/ACL.png',
+      alt: '',
+      type: 'ORO',
+    },
+    {
       src: 'assets/images/sponsor/PLATAN.png',
       alt: '',
       type: 'PLATA',
@@ -86,6 +91,26 @@ export const SponsorConfig = Object.freeze({
       type: 'PLATA',
     },
     {
+      src: 'assets/images/sponsor/becker.png',
+      alt: '',
+      type: 'PLATA',
+    },
+    {
+      src: 'assets/images/sponsor/bta.png',
+      alt: '',
+      type: 'PLATA',
+    },
+    {
+      src: 'assets/images/sponsor/bullard.png',
+      alt: '',
+      type: 'PLATA',
+    },
+    {
+      src: 'assets/images/sponsor/ciin.png',
+      alt: '',
+      type: 'PLATA',
+    },
+    {
       src: 'assets/images/sponsor/BRONCEN.png',
       alt: '',
       type: 'BRONCE',
@@ -111,7 +136,27 @@ export const SponsorConfig = Object.freeze({
       type: 'BRONCE',
     },
     {
+      src: 'assets/images/sponsor/barros.png',
+      alt: '',
+      type: 'BRONCE',
+    },
+    {
+      src: 'assets/images/sponsor/jdl.png',
+      alt: '',
+      type: 'BRONCE',
+    },
+    {
       src: 'assets/images/sponsor/hca.png',
+      alt: '',
+      type: 'BRONCE',
+    },
+    {
+      src: 'assets/images/sponsor/ankawa.png',
+      alt: '',
+      type: 'BRONCE',
+    },
+    {
+      src: 'assets/images/sponsor/gala.png',
       alt: '',
       type: 'BRONCE',
     },
@@ -119,6 +164,11 @@ export const SponsorConfig = Object.freeze({
       src: 'assets/images/sponsor/APOYOI.png',
       alt: '',
       type: 'APOYO INSTITUCIONAL',
+    },
+    {
+      src: 'assets/images/sponsor/cenac.png',
+      alt: '',
+      type: 'institucional',
     },
     {
       src: 'assets/images/sponsor/UNITEC.png',
@@ -158,6 +208,11 @@ export const SponsorConfig = Object.freeze({
     },
     {
       src: 'assets/images/sponsor/ceia.png',
+      alt: '',
+      type: 'institucional',
+    },
+    {
+      src: 'assets/images/sponsor/ccit.png',
       alt: '',
       type: 'institucional',
     },

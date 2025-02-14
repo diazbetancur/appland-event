@@ -11,73 +11,71 @@ export const ScheduleConfig = Object.freeze({
         'Corte Suprema de Justicia  y Universidad Tecnológica Centroamericana UNITEC (TENTATIVO)',
       event: [
         {
-          time: '7:30 A.M. - 9:00 A.M.',
+          time: '7:30 A.M.',
           description:
-            'Reunión de grupo, traslado de delegación del Hotel Intercontinental hacia la Corte Suprema de Justicia.',
+            'Reunión de miembros Grupo GCCA traslado de delegación del Hotel Intercontinental hacia la Corte Suprema de Justicia',
         },
         {
-          time: '9:00 A.M.- 12:00 M.',
+          time: '9:00 A.M.',
           description:
-            'Reunión con la Judicatura Hondureña en la Corte Suprema de Justicia ',
+            'Reunión con Judicatura Hondureña Corte Suprema de Justicia Miembros del Grupo (GCCA)',
         },
         {
-          time: '12:00 M. - 12:40 P.M.',
-          description: 'Traslado de delegación hacia UNITEC ',
+          time: '12:00 M.',
+          description: 'Traslado',
         },
         {
-          time: '12:40 P.M. - 2:00 P.M.',
-          description: 'Almuerzo',
+          time: '12:40 P.M.',
+          description: 'Almuerzo Libre',
         },
         {
-          time: '2:00 P.M. - 2:30 P.M.',
-          description: 'Entrega de credenciales y gift bag',
+          time: '2:00 P.M.',
+          description: 'Entrega de credenciales',
         },
         {
           time: '2:30 P.M. - 2:35 P.M.',
+          description: `<strong>INAUGURACIÓN CONGRESO INTERNACIONAL DE ARBITRAJE HONDURAS</strong><br>Palabras de bienvenida e instructivo`,
+        },
+        {
+          time: '2:35 P.M.',
+          description: 'Palabras del Presidente del CEIA Honduras.',
+        },
+        {
+          time: '2:40 P.M.',
+          description: 'Palabras de la Vicepresidenta del CEIA.',
+        },
+        {
+          time: '2:45 P.M.',
+          description: 'Firma de convenio oficina del CIAM/CIAR.',
+        },
+        {
+          time: '2:55 P.M.',
           description:
-            'Palabras de bienvenida e instructivo sobre el  CONGRESO INTERNACIONAL DE ARBITRAJE HONDURAS ',
+            'Palabras del Presidente del Colegio de Abogados y el Presidente del CIAM/CIAR.',
         },
         {
-          time: '2:35 P.M. – 2:40 P.M.',
+          time: '3:05 P.M.',
           description:
-            'Palabras presidente del Colegio de Abogados de Honduras',
+            '<strong>Panel I:</strong> El rol de las instituciones arbitrales, experiencias y estadísticas de la región.',
         },
         {
-          time: '2:40 P.M. – 2:45 P.M.',
-          description: 'Palabras del presidente CEIA ',
-        },
-        {
-          time: '2:45 P.M. – 2:50 P.M.',
+          time: '3:35 P.M.',
           description:
-            'Firma del Convenio Oficina del CIAM CIAR / Colegio de Abogados',
+            '<strong>Panel II:</strong> Elección de los árbitros, conflicto de interés y el deber de revelación',
         },
         {
-          time: '2:50 P.M. – 3:35 P.M.',
+          time: '4:30 P.M.',
+          description: 'Coffee break.',
+        },
+        {
+          time: '5:00 P.M.',
           description:
-            'Panel I El rol de las instituciones arbitrales, experiencia y estadísticas de la región',
+            '<strong>Panel III:</strong> EI A, B, C de la estrategia y teoría del caso.',
         },
         {
-          time: '3:35 P.M. – 4:20 P.M.',
+          time: '5:45 P.M.',
           description:
-            'Panel II Elección de los árbitros, conflicto de intereses y el deber de revelación',
-        },
-        {
-          time: '4:20 P.M. – 5:00P.M.',
-          description: 'Coffee break',
-        },
-        {
-          time: '5:00 P.M. – 5:45 P.M.',
-          description:
-            'Panel III:  El A, B, C, de la estrategia y teoría del caso',
-        },
-        {
-          time: '5:45 P.M. - 6:30 P.M.',
-          description:
-            'Panel IV:  La importancia del uso de peritajes o dictamen de expertos en los procesos arbitrales',
-        },
-        {
-          time: '6:30 P.M. - 9:00 P.M.',
-          description: 'Cóctel de bienvenida',
+            '<strong>Panel IV:</strong> La importancia del uso del peritaje del dictamen de expertos en los procesos arbitrales.',
         },
       ],
     },
@@ -87,68 +85,54 @@ export const ScheduleConfig = Object.freeze({
       place: 'Hotel Intercontinental',
       event: [
         {
-          time: '9:00 AM. - 9:45 A.M.',
+          time: '9:00 AM.',
           description:
-            'Panel V: Experiencia de los usos de los Dispute Board en Iberoamérica',
+            '<strong>Panel V:</strong> Experiencia de uso de los Dispute Boards en Iberoamérica.',
         },
         {
-          time: '9:45 A.M. - 10.30 A.M.',
+          time: '9:45 A.M.',
           description:
-            'Panel VI Arbitraje de construcción principales conflictos, experiencias en Iberoamérica',
+            '<strong>Panel VI:</strong> Arbitraje de construcción (principales conflictos y experiencias en Iberoamérica).',
         },
         {
-          time: '10:30 A.M. - 11:00 A.M.',
-          description: 'Charla magistral',
-        },
-        {
-          time: '11:00 A.M. - 11:30 A.M.',
-          description: 'Coffee break',
+          time: '10:30 A.M.',
+          description:
+            '<strong>Charla magistral:</strong> El análisis de la corrupción en el arbitraje internacional por María José Menéndez.',
         },
         {
           time: '11:30 A.M. - 12:15 P.M.',
           description:
-            'Panel VII: Transición energética y métodos alternos de solución de controversias',
+            '<strong>Panel VII:</strong> Transición energética y métodos alternos de solución de controversias.',
         },
         {
-          time: '12:15 P.M. - 1:00 P.M.',
+          time: '12:15 P.M.',
           description:
-            'Panel VIII:  M&A en el arbitraje internacional principales retos',
+            '<strong>Panel VIII:</strong> M&A en el arbitraje internacional (principales retos)',
         },
         {
-          time: '1:00 P.M. - 2:30 P.M.',
-          description: 'Almuerzo',
-        },
-        {
-          time: '2:30 P.M. - 3:00 P.M',
-          description: 'Charla magistral',
-        },
-        {
-          time: '3:00 P.M. - 3:45 P.M.',
+          time: '2:30 P.M.',
           description:
-            'Panel IX:  Retos y oportunidades en los arbitrajes de inversión en Iberoamérica',
+            '<strong>Charla magistral</strong><br> por José María Alonso.',
         },
         {
-          time: '3:45 P.M. - 4:30 P.M.',
+          time: '3:00 P.M.',
           description:
-            'Panel X:  Reformas al sistema de resolución de controversias, inversionista, Estado.',
+            '<strong>Panel IX:</strong> Retos y oportunidades en los arbitrajes de inversión en Iberoamérica.',
         },
         {
-          time: '4:30 P.M. - 4:45 P.M.',
-          description: 'Coffee Break',
-        },
-        {
-          time: '4:45 P.M. - 5:30 P.M.',
+          time: '3:45 P.M.',
           description:
-            'Panel XI:  Arbitraje y soberanía del estado ¿cuáles son sus límites?',
+            '<strong>Panel X:</strong> Las reformas al Sistema de Solución de Controversias (Inversionista/Estado).',
         },
         {
-          time: '5:30 P.M. - 6:15 P.M.',
+          time: '4:45 P.M.',
           description:
-            'Panel XII: Tendencias en la financiación de arbitrajes por terceros (Third-Party Funding)',
+            '<strong>Panel XI:</strong> Arbitraje y soberanía del Estado, ¿cuáles son sus límites?',
         },
         {
-          time: '7:00 P.M. - 10:00 P.M. ',
-          description: 'Cena de cierre ',
+          time: '5:30 P.M.',
+          description:
+            '<strong>Panel XII:</strong> Arbitraje de inversión, tendencias y desafíos en Latinoamérica.',
         },
       ],
     },
@@ -158,30 +142,19 @@ export const ScheduleConfig = Object.freeze({
       place: 'Universidad Nacional Autónoma de Honduras (UNAH)',
       event: [
         {
-          time: '9:00 A.M. 9:05 A.M.',
-          description: 'Palabras de bienvenida',
-        },
-        {
-          time: '9:05 A.M. - 9:30 A.M.',
-          description: 'Charla magistral ',
-        },
-        {
-          time: '9:30 A.M. - 10:15 A.M.',
+          time: '9:05 A.M.',
           description:
-            'Panel XIII: Arbitraje de inversión: tendencias y desafios en latinoamérica ICC YAAF / HYA',
+            '<strong>Panel del ICC y AAF:</strong> Las buenas prácticas para un arbitraje de inversión exitoso.',
         },
         {
-          time: '10:15 A.M. - 10:30 A.M.',
-          description: 'Coffee break',
-        },
-        {
-          time: '10:30 A.M. - 11:30 A.M.',
-          description: `“Ring Arbitral” con participación de estudiantes de (Universidad Anfitriona), miembros del grupo e invitados especiales`,
-        },
-        {
-          time: '11:30 A.M. - 12:15 M.',
+          time: '9:55 A.M.',
           description:
-            'Conclusiones y palabras de clausura del XI DEL GRUPO CENTROAMERICANO Y DEL CARIBE DE ARBITRAJE (GCCA)',
+            '<strong>Ring arbitral I:</strong> Participación de estudiantes de UNAH, UNITEC, miembros del grupo e invitados especiales.',
+        },
+        {
+          time: '10:40 A.M.',
+          description:
+            '<strong>Ring arbitral II:</strong> Participación de estudiantes de UNAH, UNITEC, miembros del grupo e invitados especiales',
         },
       ],
     },

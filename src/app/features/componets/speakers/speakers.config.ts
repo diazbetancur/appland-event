@@ -35,7 +35,25 @@ Reconocimientos en Who’s Who Legal-Global-Arbitration, Who’s Who Legal-Thoug
 Professora invitada de la Universidad de Salamanca, España; Auburn University, Alabama, USA; Faculdades IBMEC, São Paulo – Brasil; y PUC (COGEAE)  `,
     },
     {
-      name: 'BENITO ZELAYA',
+      name: 'Adriana Vargas',
+      from: 'Costa Rica',
+      pathPhoto: 'assets/images/speakers/AdrianaVargas.png',
+      bio: `Adriana Vargas es la Directora de Litigio y Arbitraje en Lexincorp Costa Rica. Posee una sólida trayectoria en arbitrajes comerciales y de construcción, así como en litigio. Tras obtener su Maestría en Derecho (LL.M.) en Columbia Law School, se incorporó a la oficina de Nueva York de una de las firmas legales más prestigiosas de los Estados Unidos. Durante este tiempo, manejó casos ante el NYC Commission on Human Rights y el NY State Division of Human Rights, y participó activamente en audiencias judiciales y administrativas, incluyendo procedimientos ante la Corte Federal.`,
+    },
+    {
+      name: 'Katherine Gonzalez',
+      from: 'Panamá',
+      pathPhoto: '',
+      bio: ``,
+    },
+    {
+      name: 'Fernando Marcondes',
+      from: 'Brasil',
+      pathPhoto: 'assets/images/speakers/FernandiMarcondes.png',
+      bio: `Fernando Marcondes es abogado desde 1988, árbitro desde 2001 y miembro de Dispute Boards desde 2009. Actúa exclusivamente en el área de Construcción e Infraestructura. Es el fundador del Instituto Brasileño de Derecho de la Construcción, donde hoy ejerce la función de consejero vitalicio. Fue el representante del Brasil ante la DRBF por 7 años hasta 2024 y es presidente de honor del capítulo brasileño del Club Español e Iberoamericano del Arbitraje.`,
+    },
+    {
+      name: 'Benito Zelaya',
       from: 'Honduras',
       pathPhoto: 'assets/images/speakers/BenitoZelaya.png',
       bio: `Socio Director de la firma LEXINCORP HONDURAS, sus principales areas de
@@ -67,24 +85,6 @@ DRBF, entre otros. Ha participado como Dispute Board en diversos proyectos en
 la región Centroamericana, así mismo ha asesorado a instituciones publicas y
 empresas privadas en la estructuración de contratos fidic y estructuración de
 variones y reclamos.`,
-    },
-    {
-      name: 'Adriana Vargas',
-      from: 'Costa Rica',
-      pathPhoto: 'assets/images/speakers/AdrianaVargas.png',
-      bio: `Adriana Vargas es la Directora de Litigio y Arbitraje en Lexincorp Costa Rica. Posee una sólida trayectoria en arbitrajes comerciales y de construcción, así como en litigio. Tras obtener su Maestría en Derecho (LL.M.) en Columbia Law School, se incorporó a la oficina de Nueva York de una de las firmas legales más prestigiosas de los Estados Unidos. Durante este tiempo, manejó casos ante el NYC Commission on Human Rights y el NY State Division of Human Rights, y participó activamente en audiencias judiciales y administrativas, incluyendo procedimientos ante la Corte Federal.`,
-    },
-    {
-      name: 'Katherine Gonzalez',
-      from: 'Panamá',
-      pathPhoto: '',
-      bio: ``,
-    },
-    {
-      name: 'Fernando Marcondes',
-      from: 'Brasil',
-      pathPhoto: 'assets/images/speakers/FernandiMarcondes.png',
-      bio: `Fernando Marcondes es abogado desde 1988, árbitro desde 2001 y miembro de Dispute Boards desde 2009. Actúa exclusivamente en el área de Construcción e Infraestructura. Es el fundador del Instituto Brasileño de Derecho de la Construcción, donde hoy ejerce la función de consejero vitalicio. Fue el representante del Brasil ante la DRBF por 7 años hasta 2024 y es presidente de honor del capítulo brasileño del Club Español e Iberoamericano del Arbitraje.`,
     },
     {
       name: 'Erick Britton',
@@ -542,7 +542,7 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
       `,
     },
     {
-      name: 'ALBERTO FERNÁNDEZ',
+      name: 'Alberto Fernández',
       from: 'Costa Rica',
       pathPhoto: 'assets/images/speakers/albertofernandez.png',
       bio: `ALBERTO FERNÁNDEZ LÓPEZ es Abogado graduado de la Universidad de Costa

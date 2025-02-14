@@ -58,9 +58,7 @@
           <div class="time-badge">
             {{ item.time }}
           </div>
-          <div class="description-card">
-            {{ item.description }}
-          </div>
+          <div class="description-card" [innerHTML]="item.description"></div>
         </div>
       </div>
     </div>
