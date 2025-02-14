@@ -338,6 +338,14 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
       bio: `Juan Pablo es socio de FK Economics y tiene más de 10 años liderando el desarrollo de FK Economics en Iberoamérica. Centra su práctica en la elaboración de estudios económicos y dictámenes periciales en materias de daños y financieros. Ha sido reconocido por varios años por prestigiosas publicaciones como Lexology y Leaders League.`,
     },
     {
+      name: 'Juan Merizalde',
+      pathPhoto: 'assets/images/speakers/JuanMerizalde.png',
+      from: 'Colombia',
+      bio: `Juan Felipe Merizalde es abogado formado y entrenado en derecho civil y common law con más de 18 años de experiencia en arbitraje internacional. Su práctica se centra en arbitraje internacional, tanto en materia comercial como de inversiones. Ha actuado como abogado y árbitro en más de 100 arbitrajes representando a Estados, entidades estatales y partes privadas bajo las principales reglas e instituciones arbitrales. Juan Felipe es miembro de la Corte Internacional de Arbitraje de la Cámara de Comercio Internacional, Co-director del ESG Arbitration Subcommittee de la International Bar Association (IBA) y Presidente de la Comisión Disciplinaria de la División Mayor del Fútbol Colombiano (DIMAYOR). Cuenta con una doble titulación de las Universidades del Rosario, en Bogotá, y Panthéon Assas, en París, y cursó maestrías en las Universidad de Nueva York y Panthéon-Assas.
+
+      Está admitido a la práctica del derecho en Colombia y Nueva York, obtuvo la aprobación de Special Legal Consultant de la Barra de Washington D.C. y aprobó el Examen de la Barra de París.`,
+    },
+    {
       name: 'Carlos Ortega',
       from: 'Colombia',
       pathPhoto: '',
@@ -450,12 +458,12 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
       pathPhoto: '',
       bio: ``,
     },
-    {
-      name: 'Horacio Grigera',
-      from: 'EE.UU.',
-      pathPhoto: '',
-      bio: `Huáscar es Máster en Derecho por la Universidad de Yale y abogado por la Pontificia Universidad Católica del Perú. Es Socio del área de Solución de Controversias desde 2001, en el despacho Bullard Falla Ezcurra +. Tiene experiencia en las áreas de Litigio Arbitral Local e Internacional en sectores como Oil & Gas, Energía, Infraestructura, Construcción, Telecomunicaciones, convenios de accionistas y disputas contractuales. Asimismo, patrocina inversionistas en controversias internacionales de Arbitraje de Inversiones y ha sido reconocido como Band 1 por 16 años consecutivos en la categoría “Dispute Resolution: Arbitration” de Chambers & Partners. Dicta el curso de Arbitraje Comercial y de Inversiones en la Pontificia Universidad Católica del Perú, y el curso de Análisis Económico del Derecho en la Universidad ESEN en el Salvador.`,
-    },
+    // {
+    //   name: 'Horacio Grigera',
+    //   from: 'EE.UU.',
+    //   pathPhoto: '',
+    //   bio: `Huáscar es Máster en Derecho por la Universidad de Yale y abogado por la Pontificia Universidad Católica del Perú. Es Socio del área de Solución de Controversias desde 2001, en el despacho Bullard Falla Ezcurra +. Tiene experiencia en las áreas de Litigio Arbitral Local e Internacional en sectores como Oil & Gas, Energía, Infraestructura, Construcción, Telecomunicaciones, convenios de accionistas y disputas contractuales. Asimismo, patrocina inversionistas en controversias internacionales de Arbitraje de Inversiones y ha sido reconocido como Band 1 por 16 años consecutivos en la categoría “Dispute Resolution: Arbitration” de Chambers & Partners. Dicta el curso de Arbitraje Comercial y de Inversiones en la Pontificia Universidad Católica del Perú, y el curso de Análisis Económico del Derecho en la Universidad ESEN en el Salvador.`,
+    // },
     {
       name: 'José Alonso',
       from: 'España',
@@ -585,8 +593,25 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
       `,
     },
     {
+      name: 'David Garcia',
+      from: 'Mexico',
+      pathPhoto: 'assets/images/speakers/DavidGarcia.png',
+      bio: `Socio de la firma Garcia Hellebuyck Abogados. Doctor en Derecho Privado por la Universidad Dr. José Matías Delgado en convenio con la Universidad Autónoma de Barcelona. David es experto en Derecho Mercantil, Derecho Procesal y Arbitraje Comercial. Fue Presidente del Capítulo Salvadoreño del Club Español e Iberoamericano de Arbitraje y actualmente es miembro activo del “Chartered Institute of Arbitrators” (CIArb) de Londres, Reino Unido, así como miembro del “Institute of World Business Law” de la Cámara de Comercio Internacional (CCI) y actual delegado de la siguiente generación de laAsociación Latinoamericana de Arbitraje (ALARB). Es árbitro autorizado en diferentes Centros de Arbitraje de México y Centroamérica.
+      `,
+    },
+    {
+      name: 'Eldy Roché',
+      from: 'Honduras',
+      pathPhoto: 'assets/images/speakers/EldyRoche.png',
+      bio: `Eldy Roché es Asociada Senior en el grupo de Arbitraje Internacional de King & Spalding.  Eldy está basada en Miami y Denver.  Ella estudió abogacía tanto bajo el derecho civil como derecho anglosajón:  primero obtuvo el título de Abogada de la Universidad Católica de Honduras (2005) y luego el título de Juris Doctor de la Universidad de Gonzaga en Spokane Washington (2009). Eldy también obtuvo una Maestría en Derecho Comparado de la Universidad de Miami (2007).
+
+      La experiencia de Eldy incluye la representación de clientes en arbitrajes de inversión, comerciales, y en litigios de responsabilidad extracontractual.  Ella se concentra en disputas relativas a los sectores de energía, minería, infraestructura, medioambientales y en asuntos de derecho civil y derecho internacional.  Ha participado en arbitrajes que involucran leyes de distintas jurisdicciones incluyendo: Ecuador, Colombia, Venezuela, Argentina, Bolivia, Perú, México, Costa Rica, Países Bajos, Tailandia, y la India.  Desde el 2022, Eldy es Profesora Adjunta en el programa de Maestría en Arbitraje de Inversión de la Universidad de Miami.
+
+      `,
+    },
+    {
       name: 'Arturo Castillo',
-      from: 'Mexixco',
+      from: 'Mexico',
       pathPhoto: 'assets/images/speakers/arturocastillo.png',
       bio: `Arturo del Castillo es Managing Director de Kroll, con sede en México, donde lidera
       la práctica de Investigaciones Forenses. Con más de 20 años de experiencia
@@ -618,6 +643,13 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
       Ha sido Consultor Externo del BID en Costa Rica, “Country Representative” en Costa
       Rica y Director de la Region 4 de la “Dispute Resolution Board Foundation”. Es
       Presidente de la Asociación Latinoamericana de Derecho de Construcción ALDEC.
+      `,
+    },
+    {
+      name: 'Humberto Sáenz',
+      from: 'Salvador',
+      pathPhoto: 'assets/images/speakers/HumbertoSaenz.png',
+      bio: `Abogado salvadoreño. Socio de la firma Novis Estudio Legal. Licenciado en Ciencias Jurídicas de la Universidad Dr. José Matías Delgado en El Salvador. Doctor en Derecho Privado de la Universidad Autónoma de Barcelona. Cuenta con una Maestría en Administración de Empresas y Finanzas. Ha participado como Abogado de Parte en más de 70 arbitrajes nacionales e internacionales, en asuntos relacionados con telecomunicaciones, construcción, contratos de distribución, franquicias, banca, seguros y energía. Como árbitro, ha intervenido en más de 30 arbitrales, locales e internacionales, conducidos bajo las reglas de los más importantes centros de arbitraje a nivel internacional y  regional, así como en arbitrajes adhoc. Cuenta además con experiencia en arbitrajes de inversión, habiendo intervenido como abogado de parte y como miembro de comités de anulación CIADI, en asuntos relacionados con minería, banca y energía. Es miembro de la Corte de Arbitraje de la CCI y del Grupo Latinoamericano de Arbitraje de CCI y ha sido reconocido desde 2015 a la fecha, en Whos´Who Legal, Global Arbitration Review y Chambers Global, entre otros.
       `,
     },
     {
