@@ -21,6 +21,10 @@ export const ScheduleConfig = Object.freeze({
             'Reunión con Judicatura Hondureña Corte Suprema de Justicia Miembros del Grupo (GCCA)',
         },
         {
+          time: '11:00 A.M.',
+          description: 'Coffee break',
+        },
+        {
           time: '12:00 M.',
           description: 'Traslado',
         },
@@ -100,7 +104,11 @@ export const ScheduleConfig = Object.freeze({
             '<strong>Charla magistral:</strong> El análisis de la corrupción en el arbitraje internacional por María José Menéndez.',
         },
         {
-          time: '11:30 A.M. - 12:15 P.M.',
+          time: '11:00 A.M.',
+          description: 'Coffee break',
+        },
+        {
+          time: '11:30 A.M.',
           description:
             '<strong>Panel VII:</strong> Transición energética y métodos alternos de solución de controversias.',
         },
@@ -108,6 +116,10 @@ export const ScheduleConfig = Object.freeze({
           time: '12:15 P.M.',
           description:
             '<strong>Panel VIII:</strong> M&A en el arbitraje internacional (principales retos)',
+        },
+        {
+          time: '12:40 P.M.',
+          description: 'Almuerzo',
         },
         {
           time: '2:30 P.M.',
@@ -123,6 +135,10 @@ export const ScheduleConfig = Object.freeze({
           time: '3:45 P.M.',
           description:
             '<strong>Panel X:</strong> Las reformas al Sistema de Solución de Controversias (Inversionista/Estado).',
+        },
+        {
+          time: '4:30 P.M.',
+          description: 'Coffee break',
         },
         {
           time: '4:45 P.M.',

@@ -17,6 +17,7 @@ import { EventdayComponent } from './features/componets/eventday/eventday.compon
 import { CardSpeakerComponent } from './features/componets/card-speaker/card-speaker.component';
 import { SpeakerBioComponent } from './features/componets/speaker-bio/speaker-bio.component';
 import { PictureComponent } from './features/componets/past-event/picture/picture.component';
+import { BuyComponent } from './features/componets/info/buy/buy.component';
 
 @NgModule({
   declarations: [
@@ -35,6 +36,7 @@ import { PictureComponent } from './features/componets/past-event/picture/pictur
     CardSpeakerComponent,
     SpeakerBioComponent,
     PictureComponent,
+    BuyComponent,
   ],
   imports: [BrowserModule, AppRoutingModule],
   providers: [],

@@ -233,7 +233,7 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
       bio: ``,
     },
     {
-      name: 'Franchesca Cifuentes',
+      name: 'Francesca Cifuentes',
       from: 'Colombia',
       pathPhoto: 'assets/images/speakers/FrancescaCifuentes.png',
       bio: `Es árbitro nacional e internacional con amplia experiencia en derecho comercial, administrativo y constitucional. Es abogada de la Universidad de los Andes con estudios avanzados en Paris II Panthéon-Assas y Paris III Sorbonne Nouvelle. Como profesora y conferencista, se especializa en arbitraje de inversión y comercial internacional, abordando temas innovadores como la inteligencia artificial en el arbitraje. Es autora del libro Arbitraje Nacional Colombiano y de varios artículos académicos sobre arbitraje y derecho internacional. `,
@@ -357,12 +357,12 @@ Es profesora en el posgrado de Arbitraje Comercial Internacional impartido por l
       pathPhoto: '',
       bio: ``,
     },
-    {
-      name: 'Felipe Nazar',
-      from: 'EE.UU.',
-      pathPhoto: 'assets/images/speakers/FelipeNazar.png',
-      bio: ``,
-    },
+    // {
+    //   name: 'Felipe Nazar',
+    //   from: 'EE.UU.',
+    //   pathPhoto: 'assets/images/speakers/FelipeNazar.png',
+    //   bio: ``,
+    // },
     {
       name: 'Juan Montañola',
       from: 'Honduras',

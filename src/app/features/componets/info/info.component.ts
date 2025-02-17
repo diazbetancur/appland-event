@@ -8,4 +8,13 @@ import { InfoConfig } from './info.config';
 })
 export class InfoComponent {
   public config = InfoConfig;
+  public showModal = false;
+
+  closeModal() {
+    this.showModal = false;
+  }
+
+  openModal() {
+    this.showModal = true;
+  }
 }
