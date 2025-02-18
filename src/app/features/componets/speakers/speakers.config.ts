@@ -98,7 +98,7 @@ export const SpeakersConfig = Object.freeze({
     {
       name: 'Javier Iscar',
       from: 'España',
-      pathPhoto: '',
+      pathPhoto: 'assets/images/speakers/JavierIscar.png',
       bio: `Presidente del Centro Iberoamericano de Arbitraje (CIAR) y Socio Director de Íscar Arbitraje. Desde 2019, actúa solo como árbitro en más de 30 arbitrajes bajo diversos reglamentos internacionales. Tiene experiencia en arbitrajes en áreas como construcción, seguros, ingeniería y energía. Miembro de varias listas de árbitros internacionales, es Jurista Emérito del Colegio de Juristas de Colombia y colegiado honorario en Costa Rica. También fue diputado en el Colegio de Abogados de Madrid y tiene una destacada trayectoria en arbitraje internacional.`,
     },
     {
@@ -315,7 +315,7 @@ export const SpeakersConfig = Object.freeze({
     {
       name: 'María Menéndez',
       from: 'España',
-      pathPhoto: '',
+      pathPhoto: 'assets/images/speakers/MariaMenendez.png',
       bio: `Inició su práctica independiente como árbitro el 1 de noviembre de 2023, tras 35 años de experiencia como abogada. Inició su trayectoria profesional en Uría Menéndez y ha sido socia de las firmas internacionales Ashurst y Clifford Chance. Es Fellow of the Chartered Institute of Arbitrators, vicepresidenta del Club Español e Iberoamericano del Arbitraje, vocal del Pleno del Centro Internacional de Arbitraje de Madrid (CIAM-CIAR) y miembro de la junta directiva de la International Law Association para España. `,
     },
     {
@@ -352,7 +352,7 @@ export const SpeakersConfig = Object.freeze({
     {
       name: 'Miguel Clare',
       from: 'Panamá',
-      pathPhoto: 'assets/images/speakers/.png',
+      pathPhoto: 'assets/images/speakers/MiguelClare.png',
       bio: `Socio de González Revilla y Asociados, abogado con doctorado en Ciencias Empresariales y maestrías en arbitraje, derecho mercantil y negociación. Árbitro, adjudicador, mediador y conciliador en centros internacionales como CIADI y CPA. Miembro de la Corte Permanente de Arbitraje de La Haya por Panamá. Reconocido por FIDIC en 2019 como Consultant of the Year. Autor de diez libros y diversos artículos sobre arbitraje y resolución de disputas. Experto en construcción, infraestructura, energía, APPs, zonas francas y contratación pública, con amplia trayectoria en litigios y mediación en el ámbito internacional.
       `,
     },
@@ -459,7 +459,7 @@ export const SpeakersConfig = Object.freeze({
     {
       name: 'Augusto Barros',
       from: 'Brasil',
-      pathPhoto: 'assets/images/speakers/',
+      pathPhoto: 'assets/images/speakers/AugustoBarros.png',
       bio: `Socio de Barros de Figueiredo Abogados, especializado en Derecho de Infraestructura y Construcción, con vasta experiencia en resolución de conflictos y actuación en Dispute Boards en Brasil y en Latinoamérica. Doctor en Derecho por la UFF, máster por la Sorbonne. Es Fellow del Chartered Institute of Arbitrators (FCIArb), Vicepresidente del Consejo Academico de Canal Arbitraje y Presidente Electo de la Dispute Resolution Board Foundation en la Región 4.
       `,
     },
