@@ -473,7 +473,7 @@ export const SpeakersConfig = Object.freeze({
     {
       name: 'Claribel Medina',
       from: 'Honduras',
-      pathPhoto: 'assets/images/speakers/.png',
+      pathPhoto: 'assets/images/speakers/Claribel.png',
       bio: `Abogada y Notario con 30 años de experiencia, socia de CENTRAL LAW. Árbitro en el Centro de Conciliación y Arbitraje de Tegucigalpa y el CIAC, con amplia trayectoria en arbitraje y litigios. Especialista en Derecho Administrativo, Mercantil, Propiedad Intelectual y Contratos, con diplomados en Arbitraje y Fideicomisos. Reconocida por Chambers and Partners y Legal 500, es miembro del Club Español e Iberoamericano de Arbitraje, el Colegio de Abogados de Honduras y cámaras binacionales de comercio.
       `,
     },
