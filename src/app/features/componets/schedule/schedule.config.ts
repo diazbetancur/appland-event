@@ -7,8 +7,7 @@ export const ScheduleConfig = Object.freeze({
     {
       day: '1ER DÍA',
       date: '24 de marzo',
-      place:
-        'Corte Suprema de Justicia  y Universidad Tecnológica Centroamericana UNITEC (TENTATIVO)',
+      place: 'Hotel Intercontinental',
       event: [
         {
           time: '7:30 A.M.',
@@ -155,7 +154,7 @@ export const ScheduleConfig = Object.freeze({
     {
       day: '3ER DÍA',
       date: '26 de marzo',
-      place: 'Universidad Nacional Autónoma de Honduras (UNAH)',
+      place: 'Hotel Intercontinental',
       event: [
         {
           time: '9:05 A.M.',
