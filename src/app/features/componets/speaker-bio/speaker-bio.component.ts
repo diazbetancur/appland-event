@@ -61,6 +61,9 @@ export class SpeakerBioComponent {
       case 'Salvador':
         flag = 'sv';
         break;
+      case 'Suiza':
+        flag = 'ch';
+        break;
       default:
         flag = 'hn';
         break;
