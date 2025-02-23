@@ -54,7 +54,7 @@ export const ScheduleConfig = Object.freeze({
         {
           time: '2:55 P.M.',
           description:
-            'Palabras del Presidente del Colegio de Abogados y el Presidente del CIAM/CIAR.',
+            'Palabras del Presidente del Colegio de Abogados y el Presidente del CIAM/CIAR',
         },
         {
           time: '3:05 P.M.',
@@ -157,9 +157,18 @@ export const ScheduleConfig = Object.freeze({
       place: 'Hotel Intercontinental',
       event: [
         {
+          time: '9:00 A.M.',
+          description: 'Palabras del representante de ICC YAAF.',
+        },
+        {
           time: '9:05 A.M.',
           description:
             '<strong>Panel del ICC y AAF:</strong> Las buenas prácticas para un arbitraje de inversión exitoso.',
+        },
+        {
+          time: '9:50 A.M.',
+          description:
+            'Palabras del representante de Honduran Young Arbitrators (HYA).',
         },
         {
           time: '9:55 A.M.',

@@ -96,13 +96,13 @@ export const SpeakersConfig = Object.freeze({
       bio: `Abogada alemana y española, árbitro y cofundadora del boutique-law firm Kniprath Lopez Attorneys en Berlín y Barcelona con el enfoque a resolución de litigios internacionales; hizo un máster en Derecho International de los Negocios en Esade, Barcelona, y tiene el título Fellow of the Chartered Institute of Arbitrators (FCIArb). Es presidenta del capítulo Alemania y Austria del Club Español e Iberoamericano del Arbitraje (CEIA), Madrid. Ha sido nombrada Delegada de ICC España en la ICC Commission on Arbitration and ADR para el mandado 2024-2027.`,
     },
     {
-      name: 'Javier Iscar',
+      name: 'Javier Íscar',
       from: 'España',
       pathPhoto: 'assets/images/speakers/JavierIscar.png',
       bio: `Presidente del Centro Iberoamericano de Arbitraje (CIAR) y Socio Director de Íscar Arbitraje. Desde 2019, actúa solo como árbitro en más de 30 arbitrajes bajo diversos reglamentos internacionales. Tiene experiencia en arbitrajes en áreas como construcción, seguros, ingeniería y energía. Miembro de varias listas de árbitros internacionales, es Jurista Emérito del Colegio de Juristas de Colombia y colegiado honorario en Costa Rica. También fue diputado en el Colegio de Abogados de Madrid y tiene una destacada trayectoria en arbitraje internacional.`,
     },
     {
-      name: 'Javier Perez',
+      name: 'Javier Pérez',
       from: 'Panamá',
       pathPhoto: 'assets/images/speakers/JavierPerez.png',
       bio: `Se unió a Galindo, Arias & López en 2019 como Asociado del grupo de práctica de Litigios y Arbitraje.
@@ -157,12 +157,12 @@ export const SpeakersConfig = Object.freeze({
       pathPhoto: 'assets/images/speakers/DavidOrta.png',
       bio: `David es Director de la Práctica de Arbitraje Internacional de América Latina y EE.UU., con más de 25 años de experiencia en arbitrajes inversionista-Estado y comerciales internacionales. Reconocido por Chambers Global y Latin America por su tenacidad y visión estratégica, ha representado clientes en litigios multinacionales en sectores como energía, petróleo y gas, infraestructura, telecomunicaciones y minería. Su práctica abarca América, Europa, Asia, África y Australia, destacándose por su dedicación y enfoque en obtener los mejores resultados.`,
     },
-    {
-      name: 'Margie Jaime',
-      from: 'Panamá',
-      pathPhoto: 'assets/images/speakers/margielysjaime.png',
-      bio: ``,
-    },
+    // {
+    //   name: 'Margie Jaime',
+    //   from: 'Panamá',
+    //   pathPhoto: 'assets/images/speakers/margielysjaime.png',
+    //   bio: ``,
+    // },
     {
       name: 'Rafael Gil',
       from: 'España',
@@ -176,7 +176,7 @@ export const SpeakersConfig = Object.freeze({
       bio: `Abogada con más de 30 años de experiencia en Relaciones Internacionales, Comercio Internacional, Derecho Internacional y Solución de Controversias. Actualmente, se desempeña como directora de Prevención y Solución de Controversias en el Viceministerio de Comercio Exterior del Ministerio de Industria, Comercio y Mipymes de la República Dominicana, liderando la defensa del Estado dominicano. Igualmente, es negociadora en representación de la República Dominicana, de acuerdos comerciales y de inversión.`,
     },
     {
-      name: 'Ana M. Ordoñez',
+      name: 'Ana M. Ordóñez',
       from: 'Colombia',
       pathPhoto: 'assets/images/speakers/AnaMariaOrdonez.png',
       bio: `Árbitro y Counsel en Martínez Quintero Mendoza Laguado & De La Rosa. Ex directora de Defensa Jurídica Internacional en la Agencia Nacional de Defensa Jurídica del Estado de Colombia, donde estructuró y consolidó un modelo de defensa efectivo en 22 arbitrajes de inversión.
@@ -205,12 +205,6 @@ export const SpeakersConfig = Object.freeze({
       pathPhoto: 'assets/images/speakers/JuanPablo.png',
       from: 'Chile',
       bio: `Socio de FK Economics y tiene más de 10 años liderando el desarrollo de FK Economics en Iberoamérica. Centra su práctica en la elaboración de estudios económicos y dictámenes periciales en materias de daños y financieros. Ha sido reconocido por varios años por prestigiosas publicaciones como Lexology y Leaders League.`,
-    },
-    {
-      name: 'Natalia Polanco',
-      from: 'Republica Dominicana',
-      pathPhoto: 'assets/images/speakers/NataliaPolanco.png',
-      bio: `Abogada con más de 30 años de experiencia en Relaciones Internacionales, Comercio Internacional, Derecho Internacional y Solución de Controversias. Actualmente, se desempeña como directora de Prevención y Solución de Controversias en el Viceministerio de Comercio Exterior del Ministerio de Industria, Comercio y Mipymes de la República Dominicana, liderando la defensa del Estado dominicano. Igualmente, es negociadora en representación de la República Dominicana, de acuerdos comerciales y de inversión.`,
     },
     {
       name: 'Odín Guillén',
@@ -282,7 +276,7 @@ export const SpeakersConfig = Object.freeze({
       `,
     },
     {
-      name: 'Hector Anaya',
+      name: 'Héctor Anaya',
       from: 'México',
       pathPhoto: 'assets/images/speakers/HECTORANAYA.png',
       bio: `Abogado especializado en litigio y arbitraje, con admisión en México y España. Es socio fundador de Gritwood Dispute Resolution, S.C., en Ciudad de México. Con más de 20 años de experiencia, su práctica se centra en arbitraje, litigio administrativo, transfronterizo y protección de inversiones extranjeras. Ha representado a clientes en sectores como construcción, infraestructura, energía y seguros. También actúa como árbitro en arbitrajes nacionales e internacionales. Tiene una Maestría en Derecho y Negocios de Bucerius Law School y un doctorado de la Universidad Johann Wolfgang Goethe.
@@ -378,7 +372,7 @@ export const SpeakersConfig = Object.freeze({
       `,
     },
     {
-      name: 'Alejandro Caceres',
+      name: 'Alejandro Cáceres',
       from: 'Honduras',
       pathPhoto: 'assets/images/speakers/AlejandroCaceres.png',
       bio: `Especializado en Derecho empresarial, con experiencia en asuntos mercantiles y sectores regulados. Ha asesorado a empresas nacionales e internacionales en métodos alternos de solución de controversias (conciliación y arbitraje), fusiones y adquisiciones, procesos de debida diligencia y financiamiento de proyectos con bancos nacionales e internacionales. También tiene experiencia en procesos administrativos en áreas como migración, calificación de proyectos turísticos, licenciamiento ambiental, exoneraciones del Impuesto sobre la Renta, derecho de propiedad, entre otros.
@@ -422,7 +416,7 @@ export const SpeakersConfig = Object.freeze({
       `,
     },
     {
-      name: 'David Garcia',
+      name: 'David García',
       from: 'Salvador',
       pathPhoto: 'assets/images/speakers/DavidGarcia.png',
       bio: `Socio de la firma García Hellebuyck Abogados. Doctor en Derecho Privado por la Universidad Dr. José Matías Delgado en convenio con la Universidad Autónoma de Barcelona. David es experto en Derecho Mercantil, Derecho Procesal y Arbitraje Comercial. Fue Presidente del Capítulo Salvadoreño del Club Español e Iberoamericano de Arbitraje y actualmente es miembro activo del Chartered Institute of Arbitrators (CIArb) de Londres, Reino Unido, así como miembro del Institute of World Business Law de la Cámara de Comercio Internacional (CCI) y actual delegado de la siguiente generación de la Asociación Latinoamericana de Arbitraje (ALARB). Es árbitro autorizado en diferentes Centros de Arbitraje de México y Centroamérica.

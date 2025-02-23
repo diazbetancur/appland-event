@@ -96,11 +96,6 @@ export const SponsorConfig = Object.freeze({
       type: 'PLATA',
     },
     {
-      src: 'assets/images/sponsor/bta.png',
-      alt: '',
-      type: 'PLATA',
-    },
-    {
       src: 'assets/images/sponsor/bullard.png',
       alt: '',
       type: 'PLATA',
@@ -112,6 +107,11 @@ export const SponsorConfig = Object.freeze({
     },
     {
       src: 'assets/images/sponsor/BRONCEN.png',
+      alt: '',
+      type: 'BRONCE',
+    },
+    {
+      src: 'assets/images/sponsor/bta.png',
       alt: '',
       type: 'BRONCE',
     },
@@ -152,6 +152,11 @@ export const SponsorConfig = Object.freeze({
     },
     {
       src: 'assets/images/sponsor/ankawa.png',
+      alt: '',
+      type: 'BRONCE',
+    },
+    {
+      src: 'assets/images/sponsor/ActioJuris.png',
       alt: '',
       type: 'BRONCE',
     },
@@ -218,6 +223,11 @@ export const SponsorConfig = Object.freeze({
     },
     {
       src: 'assets/images/sponsor/icc.png',
+      alt: '',
+      type: 'institucional',
+    },
+    {
+      src: 'assets/images/sponsor/CanalArbitraje.png',
       alt: '',
       type: 'institucional',
     },
