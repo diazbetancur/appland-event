@@ -122,7 +122,7 @@ export const SpeakersConfig = Object.freeze({
       bio: ``,
     },
     {
-      name: 'Cecila Flores',
+      name: 'Cecilia Flores',
       from: 'México',
       pathPhoto: 'assets/images/speakers/CeciliaFlores.png',
       bio: `Posgrado en Derecho Comercial Internacional por la Universidad Panamericana, Maestra en Derecho Internacional por el Instituto Tecnológico y de Estudios Superiores de Monterrey. Concentra su práctica profesional en resolución de controversias bajo distintos reglamentos de procedimientos, en casos nacionales e internacionales, así como procedimientos de amparo y litigio civil y mercantil ante tribunales locales y federales. `,

@@ -3,17 +3,17 @@ export const BuyConfig = Object.freeze({
     {
       imgPath: 'assets/images/prof.png',
       linkBuy:
-        'https://checkout.baccredomatic.com/MGE0NTBlMjdiYTY0YjE1ZDg0MC42MDUxNzM5MzE0NjY3',
+        'https://checkout.baccredomatic.com/ODk4OTYwMzI4NDk4NTU5OTQ0NTdiLmMxNzQwNDExNzIx',
     },
     {
       imgPath: 'assets/images/profDiscount.png',
       linkBuy:
-        'https://checkout.baccredomatic.com/YTY4NS5kM2M5ZDcxNTcxNmI1MTIzZDkxNzM5MzE0NDkz',
+        'https://checkout.baccredomatic.com/N2Y1YjdhMzM5NmM5NTY3OGU0YTkuZTMxNzQwNDExODg2',
     },
     {
       imgPath: 'assets/images/student.png',
       linkBuy:
-        'https://checkout.baccredomatic.com/NDU2YjM0OTEyMDk2MmE2NzFiNy4wNWQxNzM5MzE0ODcw',
+        'https://checkout.baccredomatic.com/ODM0NzkxZTE2MTljYzE2Nzk5NWI3LjgxNzQwNDExODAx',
     },
   ],
 });
