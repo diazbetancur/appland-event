@@ -163,7 +163,7 @@ export const ScheduleConfig = Object.freeze({
         {
           time: '9:05 A.M.',
           description:
-            '<strong>Panel del ICC y AAF:</strong> Las buenas prácticas para un arbitraje de inversión exitoso.',
+            '<strong>Panel del ICC YAAF:</strong> Las buenas prácticas para un arbitraje de inversión exitoso.',
         },
         {
           time: '9:50 A.M.',
