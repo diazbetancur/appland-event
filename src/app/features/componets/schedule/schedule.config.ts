@@ -6,7 +6,7 @@ export const ScheduleConfig = Object.freeze({
   events: [
     {
       day: '1ER DÍA',
-      date: '24 de marzo',
+      date: '24 DE MARZO',
       place: 'Hotel Intercontinental',
       event: [
         {
@@ -49,7 +49,7 @@ export const ScheduleConfig = Object.freeze({
         },
         {
           time: '2:45 P.M.',
-          description: 'Firma de convenio oficina del CIAM/CIAR.',
+          description: 'Firma de convenio del CIAM/CIAR.',
         },
         {
           time: '2:55 P.M.',
@@ -84,7 +84,7 @@ export const ScheduleConfig = Object.freeze({
     },
     {
       day: '2DO DÍA',
-      date: '25 de marzo',
+      date: '25 DE MARZO',
       place: 'Hotel Intercontinental',
       event: [
         {
@@ -123,7 +123,7 @@ export const ScheduleConfig = Object.freeze({
         {
           time: '2:30 P.M.',
           description:
-            '<strong>Charla magistral</strong><br> por José María Alonso.',
+            '<strong>Charla magistral:</strong><br> La agilidad y el due process en arbitraje por José María Alonso.',
         },
         {
           time: '3:00 P.M.',
@@ -153,7 +153,7 @@ export const ScheduleConfig = Object.freeze({
     },
     {
       day: '3ER DÍA',
-      date: '26 de marzo',
+      date: '26 DE MARZO',
       place: 'Hotel Intercontinental',
       event: [
         {
