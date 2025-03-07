@@ -20,10 +20,6 @@ export const ScheduleConfig = Object.freeze({
             'Reunión con Judicatura Hondureña Corte Suprema de Justicia Miembros del Grupo (GCCA)',
         },
         {
-          time: '11:00 A.M.',
-          description: 'Coffee break',
-        },
-        {
           time: '12:00 M.',
           description: 'Traslado',
         },
@@ -32,51 +28,51 @@ export const ScheduleConfig = Object.freeze({
           description: 'Almuerzo Libre',
         },
         {
-          time: '2:00 P.M.',
+          time: '1:00 P.M.',
           description: 'Entrega de credenciales',
         },
         {
-          time: '2:30 P.M. - 2:35 P.M.',
+          time: '1:30 P.M.',
           description: `<strong>INAUGURACIÓN CONGRESO INTERNACIONAL DE ARBITRAJE HONDURAS</strong><br>Palabras de bienvenida e instructivo`,
         },
         {
-          time: '2:35 P.M.',
+          time: '1:35 P.M.',
           description: 'Palabras del Presidente del CEIA Honduras.',
         },
         {
-          time: '2:40 P.M.',
+          time: '1:40 P.M.',
           description: 'Palabras de la Vicepresidenta del CEIA.',
         },
         {
-          time: '2:45 P.M.',
+          time: '1:45 P.M.',
           description: 'Firma de convenio del CIAM/CIAR.',
         },
         {
-          time: '2:55 P.M.',
+          time: '1:55 P.M.',
           description:
             'Palabras del Presidente del Colegio de Abogados y el Presidente del CIAM/CIAR',
         },
         {
-          time: '3:05 P.M.',
+          time: '2:00 P.M.',
           description:
             '<strong>Panel I:</strong> El rol de las instituciones arbitrales, experiencias y estadísticas de la región.',
         },
         {
-          time: '3:35 P.M.',
+          time: '3:00 P.M.',
           description:
             '<strong>Panel II:</strong> Elección de los árbitros, conflicto de interés y el deber de revelación',
         },
         {
-          time: '4:30 P.M.',
+          time: '4:00 P.M.',
           description: 'Coffee break.',
         },
         {
-          time: '5:00 P.M.',
+          time: '4:30 P.M.',
           description:
             '<strong>Panel III:</strong> EI A, B, C de la estrategia y teoría del caso.',
         },
         {
-          time: '5:45 P.M.',
+          time: '5:30 P.M.',
           description:
             '<strong>Panel IV:</strong> La importancia del uso del peritaje del dictamen de expertos en los procesos arbitrales.',
         },
@@ -88,50 +84,50 @@ export const ScheduleConfig = Object.freeze({
       place: 'Hotel Intercontinental',
       event: [
         {
-          time: '9:00 AM.',
+          time: '8:00 AM.',
           description:
             '<strong>Panel V:</strong> Experiencia de uso de los Dispute Boards en Iberoamérica.',
         },
         {
-          time: '9:45 A.M.',
+          time: '9:00 A.M.',
           description:
             '<strong>Panel VI:</strong> Arbitraje de construcción (principales conflictos y experiencias en Iberoamérica).',
         },
         {
-          time: '10:30 A.M.',
+          time: '10:00 A.M.',
           description:
             '<strong>Charla magistral:</strong> El análisis de la corrupción en el arbitraje internacional por María José Menéndez.',
         },
         {
-          time: '11:00 A.M.',
+          time: '10:30 A.M.',
           description: 'Coffee break',
         },
         {
-          time: '11:30 A.M.',
+          time: '11:00 A.M.',
           description:
             '<strong>Panel VII:</strong> Transición energética y métodos alternos de solución de controversias.',
         },
         {
-          time: '12:15 P.M.',
+          time: '12:00 P.M.',
           description:
             '<strong>Panel VIII:</strong> M&A en el arbitraje internacional (principales retos)',
         },
         {
-          time: '12:40 P.M.',
+          time: '1:00 P.M.',
           description: 'Almuerzo',
         },
         {
-          time: '2:30 P.M.',
+          time: '2:00 P.M.',
           description:
             '<strong>Charla magistral:</strong><br> La agilidad y el due process en arbitraje por José María Alonso.',
         },
         {
-          time: '3:00 P.M.',
+          time: '2:30 P.M.',
           description:
             '<strong>Panel IX:</strong> Retos y oportunidades en los arbitrajes de inversión en Iberoamérica.',
         },
         {
-          time: '3:45 P.M.',
+          time: '3:30 P.M.',
           description:
             '<strong>Panel X:</strong> Las reformas al Sistema de Solución de Controversias (Inversionista/Estado).',
         },
@@ -140,12 +136,12 @@ export const ScheduleConfig = Object.freeze({
           description: 'Coffee break',
         },
         {
-          time: '4:45 P.M.',
+          time: '5:00 P.M.',
           description:
             '<strong>Panel XI:</strong> Arbitraje y soberanía del Estado, ¿cuáles son sus límites?',
         },
         {
-          time: '5:30 P.M.',
+          time: '6:00 P.M.',
           description:
             '<strong>Panel XII:</strong> Arbitraje de inversión, tendencias y desafíos en Latinoamérica.',
         },
@@ -179,6 +175,11 @@ export const ScheduleConfig = Object.freeze({
           time: '10:40 A.M.',
           description:
             '<strong>Ring arbitral II:</strong> Participación de estudiantes de UNAH, UNITEC, miembros del grupo e invitados especiales',
+        },
+        {
+          time: '11:30 A.M.',
+          description:
+            'Conclusiones y palabras de Clausura del XI ENCUENTRO DEL GRUPO CENTROAMERICANAO Y DEL CARIBE DE ARBITRAJE (GCCA)',
         },
       ],
     },

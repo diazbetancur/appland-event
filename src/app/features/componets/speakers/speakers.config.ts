@@ -77,12 +77,12 @@ export const SpeakersConfig = Object.freeze({
       pathPhoto: '',
       bio: ``,
     },
-    {
-      name: 'Mónica Jiménez',
-      from: 'Colombia',
-      pathPhoto: '',
-      bio: ``,
-    },
+    // {
+    //   name: 'Mónica Jiménez',
+    //   from: 'Colombia',
+    //   pathPhoto: '',
+    //   bio: ``,
+    // },
     {
       name: 'Christa Mueller',
       from: 'México',
@@ -188,12 +188,12 @@ export const SpeakersConfig = Object.freeze({
       pathPhoto: '',
       bio: ``,
     },
-    {
-      name: 'Carlos Concepción',
-      from: 'EE.UU.',
-      pathPhoto: 'assets/images/speakers/CarlosConcepcion.png',
-      bio: `Socio Director de Concepción Global PLLC, con más de 35 años de experiencia en disputas comerciales internacionales y entre inversionistas y estados, especialmente en jurisdicciones de derecho común y civil. Está certificado en Litigios Internacionales y Arbitraje, y es miembro del Chartered Institute of Arbitrators y el College of Commercial Arbitrators. Actúa como abogado y árbitro en asuntos de servicios financieros, construcción y cadena de suministro, y se especializa en procedimientos institucionales y tratados de inversión administrados por ICSID.`,
-    },
+    // {
+    //   name: 'Carlos Concepción',
+    //   from: 'EE.UU.',
+    //   pathPhoto: 'assets/images/speakers/CarlosConcepcion.png',
+    //   bio: `Socio Director de Concepción Global PLLC, con más de 35 años de experiencia en disputas comerciales internacionales y entre inversionistas y estados, especialmente en jurisdicciones de derecho común y civil. Está certificado en Litigios Internacionales y Arbitraje, y es miembro del Chartered Institute of Arbitrators y el College of Commercial Arbitrators. Actúa como abogado y árbitro en asuntos de servicios financieros, construcción y cadena de suministro, y se especializa en procedimientos institucionales y tratados de inversión administrados por ICSID.`,
+    // },
     {
       name: 'Sean Anderson',
       from: 'EE.UU.',
@@ -408,13 +408,13 @@ export const SpeakersConfig = Object.freeze({
       bio: `Su práctica se centra en Derecho Procesal Civil, Laboral, de Construcción e Infraestructura, Internacional Público, Civil y Mercantil, así como en la resolución de controversias mediante arbitraje. Ofrece asesoría y representación en disputas en sectores como construcción, seguros y finanzas. Representa a instituciones estatales y empresas privadas en arbitrajes y acciones judiciales. También ha participado en licitaciones, renovación de licencias y trámites ante diversas entidades estatales. Tiene experiencia en recuperación de impuestos, asesoría tributaria municipal y elaboración de planes de arbitrios en Honduras. Además, forma parte de las listas de Árbitro y Secretario de Tribunal Arbitral en Tegucigalpa y habla español, inglés y francés.
       `,
     },
-    {
-      name: 'Nahila Cortes',
-      from: 'EE.UU.',
-      pathPhoto: 'assets/images/speakers/NahilaCortes.png',
-      bio: `Profesional legal con más de 12 años de experiencia, especializada en arbitraje internacional, minería y recursos naturales. Actualmente es consejera en BakerHostetler en Washington, D.C. Anteriormente, trabajó en Allende & Brea en Buenos Aires, asesorando a empresas multinacionales en estrategia corporativa, cumplimiento normativo e inversión extranjera. Doble titulada en Nueva York, Washington, D.C. y Buenos Aires, Nahila tiene un LL.M. en arbitraje internacional y derecho comercial, además de una maestría en derecho corporativo. Fluida en inglés y español, ofrece orientación estratégica en diversas jurisdicciones tanto en sistemas de derecho civil como común.
-      `,
-    },
+    // {
+    //   name: 'Nahila Cortes',
+    //   from: 'EE.UU.',
+    //   pathPhoto: 'assets/images/speakers/NahilaCortes.png',
+    //   bio: `Profesional legal con más de 12 años de experiencia, especializada en arbitraje internacional, minería y recursos naturales. Actualmente es consejera en BakerHostetler en Washington, D.C. Anteriormente, trabajó en Allende & Brea en Buenos Aires, asesorando a empresas multinacionales en estrategia corporativa, cumplimiento normativo e inversión extranjera. Doble titulada en Nueva York, Washington, D.C. y Buenos Aires, Nahila tiene un LL.M. en arbitraje internacional y derecho comercial, además de una maestría en derecho corporativo. Fluida en inglés y español, ofrece orientación estratégica en diversas jurisdicciones tanto en sistemas de derecho civil como común.
+    //   `,
+    // },
     {
       name: 'David García',
       from: 'Salvador',
@@ -506,13 +506,13 @@ export const SpeakersConfig = Object.freeze({
       bio: `Socio fundador de HERRERA CHAVARRIA ABOGADOS, San Salvador, El Salvador. Licenciado en Ciencias Jurídicas por la Universidad José Matías Delgado de El Salvador, tiene un Postgrado Internacional en Derecho Empresarial por la Escuela Superior de Economía y Administración de Empresas (ESEADE) de Argentina, actualmente cursando Maestría en Derecho de los Negocios en ADEN University.
       `,
     },
-    {
-      name: 'Roberto Flores',
-      from: 'Honduras',
-      pathPhoto: 'assets/images/speakers/RoberoFlores.png',
-      bio: `Excanciller, Abogado y Notario, Master en Mediación y Gestión de Conflicto. Agente de Honduras ante la Corte Internacional de Justicia en la Disputa Marítima y Territorial entre Nicaragua y Honduras en el Mar Caribe. Diplomático de carrera (1977-2021). Jefe de Misión en varios países de Europa y Estados Unidos. Docente universitario (2022-2024). Coautor de libros y artículos en temas jurídicos y de relaciones internacionales. Actualmente es Arbitro institucional de las Cámara de Comercio e Industria de Tegucigalpa y de Cortés.
-      `,
-    },
+    // {
+    //   name: 'Roberto Flores',
+    //   from: 'Honduras',
+    //   pathPhoto: 'assets/images/speakers/RoberoFlores.png',
+    //   bio: `Excanciller, Abogado y Notario, Master en Mediación y Gestión de Conflicto. Agente de Honduras ante la Corte Internacional de Justicia en la Disputa Marítima y Territorial entre Nicaragua y Honduras en el Mar Caribe. Diplomático de carrera (1977-2021). Jefe de Misión en varios países de Europa y Estados Unidos. Docente universitario (2022-2024). Coautor de libros y artículos en temas jurídicos y de relaciones internacionales. Actualmente es Arbitro institucional de las Cámara de Comercio e Industria de Tegucigalpa y de Cortés.
+    //   `,
+    // },
     {
       name: 'Roberto Williams',
       from: 'Honduras',

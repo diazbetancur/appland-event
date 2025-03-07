@@ -106,6 +106,16 @@ export const SponsorConfig = Object.freeze({
       type: 'PLATA',
     },
     {
+      src: 'assets/images/sponsor/DIAZ.jpeg',
+      alt: '',
+      type: 'PLATA',
+    },
+    {
+      src: 'assets/images/sponsor/CL.png',
+      alt: '',
+      type: 'PLATA',
+    },
+    {
       src: 'assets/images/sponsor/BRONCEN.png',
       alt: '',
       type: 'BRONCE',
@@ -162,6 +172,11 @@ export const SponsorConfig = Object.freeze({
     },
     {
       src: 'assets/images/sponsor/gala.png',
+      alt: '',
+      type: 'BRONCE',
+    },
+    {
+      src: 'assets/images/sponsor/GNCI.png',
       alt: '',
       type: 'BRONCE',
     },
