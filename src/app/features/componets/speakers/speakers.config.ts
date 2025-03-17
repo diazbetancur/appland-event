@@ -109,12 +109,12 @@ export const SpeakersConfig = Object.freeze({
       Como parte del equipo legal, ha participado en diversos procesos dentro de las jurisdicciones civil, contencioso-administrativa y laboral, así como en procedimientos arbitrales, representando a empresas nacionales e internacionales.
       Actualmente, es miembro del Colegio Nacional de Abogados, Young International Council for Commercial Arbitration (Young ICCA), CIAC Jóvenes y Panama Young Arbitrators (PANYARB).`,
     },
-    {
-      name: 'Antonio Bravo',
-      from: 'España',
-      pathPhoto: 'assets/images/speakers/ANTONIOBRAVO.png',
-      bio: `Socio responsable de Arbitraje Internacional en Eversheds Sutherland y fundador de la Alianza Latinoamericana ESLAA. Con más de 25 años de experiencia, ha intervenido en arbitrajes complejos en sectores como energía, infraestructuras y construcción ante las principales cortes nacionales e internacionales. Experto en reconocimiento de laudos y medidas cautelares, asesora en arbitrajes en Latinoamérica y es reconocido en paneles de varios estados. Su práctica ha sido destacada en directorios legales, y es ponente y autor en publicaciones especializadas.`,
-    },
+    // {
+    //   name: 'Antonio Bravo',
+    //   from: 'España',
+    //   pathPhoto: 'assets/images/speakers/ANTONIOBRAVO.png',
+    //   bio: `Socio responsable de Arbitraje Internacional en Eversheds Sutherland y fundador de la Alianza Latinoamericana ESLAA. Con más de 25 años de experiencia, ha intervenido en arbitrajes complejos en sectores como energía, infraestructuras y construcción ante las principales cortes nacionales e internacionales. Experto en reconocimiento de laudos y medidas cautelares, asesora en arbitrajes en Latinoamérica y es reconocido en paneles de varios estados. Su práctica ha sido destacada en directorios legales, y es ponente y autor en publicaciones especializadas.`,
+    // },
     {
       name: 'Kristlel Batista',
       from: 'España',
@@ -169,12 +169,12 @@ export const SpeakersConfig = Object.freeze({
       pathPhoto: 'assets/images/speakers/RafaelGil.png',
       bio: `Profesor de Derecho y socio director de GNCI Law. Abogado (Madrid y certificado en NY) y árbitro, experto en negociación y resolución de disputas. Ha sido Of Counsel en Eversheds Sutherland, subdirector de Arbitraje del Gobierno de España, general counsel de Cepsa y director jurídico de Iberdrola Américas. Diplomático en la UE y negociador de tratados internacionales. Licenciado por la UCM y LL.M. en Columbia. Ha participado en más de 40 arbitrajes de inversión y 85 comerciales.`,
     },
-    {
-      name: 'Natalia Polanco',
-      from: 'Republica Dominicana',
-      pathPhoto: 'assets/images/speakers/NataliaPolanco.png',
-      bio: `Abogada con más de 30 años de experiencia en Relaciones Internacionales, Comercio Internacional, Derecho Internacional y Solución de Controversias. Actualmente, se desempeña como directora de Prevención y Solución de Controversias en el Viceministerio de Comercio Exterior del Ministerio de Industria, Comercio y Mipymes de la República Dominicana, liderando la defensa del Estado dominicano. Igualmente, es negociadora en representación de la República Dominicana, de acuerdos comerciales y de inversión.`,
-    },
+    // {
+    //   name: 'Natalia Polanco',
+    //   from: 'Republica Dominicana',
+    //   pathPhoto: 'assets/images/speakers/NataliaPolanco.png',
+    //   bio: `Abogada con más de 30 años de experiencia en Relaciones Internacionales, Comercio Internacional, Derecho Internacional y Solución de Controversias. Actualmente, se desempeña como directora de Prevención y Solución de Controversias en el Viceministerio de Comercio Exterior del Ministerio de Industria, Comercio y Mipymes de la República Dominicana, liderando la defensa del Estado dominicano. Igualmente, es negociadora en representación de la República Dominicana, de acuerdos comerciales y de inversión.`,
+    // },
     {
       name: 'Ana M. Ordóñez',
       from: 'Colombia',
@@ -282,12 +282,12 @@ export const SpeakersConfig = Object.freeze({
       bio: `Abogado especializado en litigio y arbitraje, con admisión en México y España. Es socio fundador de Gritwood Dispute Resolution, S.C., en Ciudad de México. Con más de 20 años de experiencia, su práctica se centra en arbitraje, litigio administrativo, transfronterizo y protección de inversiones extranjeras. Ha representado a clientes en sectores como construcción, infraestructura, energía y seguros. También actúa como árbitro en arbitrajes nacionales e internacionales. Tiene una Maestría en Derecho y Negocios de Bucerius Law School y un doctorado de la Universidad Johann Wolfgang Goethe.
       `,
     },
-    {
-      name: 'María Pradilla',
-      from: 'EE.UU.',
-      pathPhoto: 'assets/images/speakers/mariaPadilla.png',
-      bio: `Enfoca su práctica en el arbitraje y litigio de disputas comerciales y de inversión complejas, con énfasis particular en América Latina. Ha representado a clientes en tratados de inversión y procedimientos de arbitraje comercial bajo las normas de la Comisión de las Naciones Unidas para el Derecho en materia de Comercio Exterior, (UNCITRAL), el Centro Internacional de Solución de Controversias Relativas a Inversiones (CSID) y la Cámara Internacional de Comercio (ICC).`,
-    },
+    // {
+    //   name: 'María Pradilla',
+    //   from: 'EE.UU.',
+    //   pathPhoto: 'assets/images/speakers/mariaPadilla.png',
+    //   bio: `Enfoca su práctica en el arbitraje y litigio de disputas comerciales y de inversión complejas, con énfasis particular en América Latina. Ha representado a clientes en tratados de inversión y procedimientos de arbitraje comercial bajo las normas de la Comisión de las Naciones Unidas para el Derecho en materia de Comercio Exterior, (UNCITRAL), el Centro Internacional de Solución de Controversias Relativas a Inversiones (CSID) y la Cámara Internacional de Comercio (ICC).`,
+    // },
     {
       name: 'Maria Burgos',
       from: 'Colombia',
@@ -350,13 +350,13 @@ export const SpeakersConfig = Object.freeze({
       bio: `Socio de González Revilla y Asociados, abogado con doctorado en Ciencias Empresariales y maestrías en arbitraje, derecho mercantil y negociación. Árbitro, adjudicador, mediador y conciliador en centros internacionales como CIADI y CPA. Miembro de la Corte Permanente de Arbitraje de La Haya por Panamá. Reconocido por FIDIC en 2019 como Consultant of the Year. Autor de diez libros y diversos artículos sobre arbitraje y resolución de disputas. Experto en construcción, infraestructura, energía, APPs, zonas francas y contratación pública, con amplia trayectoria en litigios y mediación en el ámbito internacional.
       `,
     },
-    {
-      name: 'Felix Reyes',
-      from: 'Honduras',
-      pathPhoto: 'assets/images/speakers/FelixReyes.png',
-      bio: `Licenciado en Ciencias Jurídicas y Sociales con especialización en Derecho Mercantil por la Universidad Nacional Autónoma de Honduras. Abogado y especialista en Derecho Extrajudicial y Notarial por la Universidad Pablo de Olvide, Sevilla. Ha participado en cursos y seminarios internacionales de arbitraje y mediación. Desde 2014, es Director del Centro de Conciliación y Arbitraje de la Cámara de Comercio e Industrias de Atlántida. Propietario del Bufete Reyes, especializado en Derecho Civil, Mercantil, Procesal y MASC. Ha sido voluntario en diversas comisiones y representaciones en la Cámara de Comercio e Industrias de Atlántida..
-      `,
-    },
+    // {
+    //   name: 'Felix Reyes',
+    //   from: 'Honduras',
+    //   pathPhoto: 'assets/images/speakers/FelixReyes.png',
+    //   bio: `Licenciado en Ciencias Jurídicas y Sociales con especialización en Derecho Mercantil por la Universidad Nacional Autónoma de Honduras. Abogado y especialista en Derecho Extrajudicial y Notarial por la Universidad Pablo de Olvide, Sevilla. Ha participado en cursos y seminarios internacionales de arbitraje y mediación. Desde 2014, es Director del Centro de Conciliación y Arbitraje de la Cámara de Comercio e Industrias de Atlántida. Propietario del Bufete Reyes, especializado en Derecho Civil, Mercantil, Procesal y MASC. Ha sido voluntario en diversas comisiones y representaciones en la Cámara de Comercio e Industrias de Atlántida..
+    //   `,
+    // },
     {
       name: 'Sandro Espinoza',
       from: 'Perú',
@@ -518,6 +518,65 @@ export const SpeakersConfig = Object.freeze({
       from: 'Honduras',
       pathPhoto: 'assets/images/speakers/RobertoWilliams.png',
       bio: `Director Socio en Honduras de ECIJA, abogado con Maestría en Derecho Empresarial y en Derecho Procesal Civil. Su experiencia incluye litigios judiciales y arbitrales en contratos de distribución, inversiones, propiedad industrial, y reclamaciones de seguros. Asesora a instituciones estatales en contratos de construcción y alianzas público-privadas, y a consorcios en Dispute Boards. Es miembro de la Lista Oficial de Árbitros de la CIAC y árbitro en varios centros de conciliación y arbitraje en Honduras.
+      `,
+    },
+    {
+      name: 'Alejandro Linares',
+      from: 'Mexico',
+      pathPhoto: 'assets/images/speakers/AlejandroLinares.png',
+      bio: `Socio director del área de Dispute Resolution: Litigación y Arbitraje en ECIJA México. Con más de 25
+      años de trayectoria, asesora a empresas nacionales e internacionales en litigios complejos y arbitrajes en
+      las áreas civil, mercantil y administrativa.
+      Alejandro se especializa en la ejecución de sentencias extranjeras y laudos arbitrales y en la obtención de
+      medidas cautelares en tribunales, previas a los procedimientos arbitrales.
+      Miembro de ANADE de la que ha sido vicecoordinador del comité de medios alternativos de solución de
+      controverisas.
+      `,
+    },
+    {
+      name: 'Diego Castagnino',
+      from: 'España',
+      pathPhoto: 'assets/images/speakers/DiegoC.png',
+      bio: `Doctor en Derecho (Cum Laude) por la UCAB. Abogado en Venezuela y España. Posee maestrías
+      y especializaciones en derecho y educación universitaria. Árbitro y mediador en CEDCA, Cámara
+      de Comercio de Caracas y LIDECO (Uruguay). Profesor en diversas universidades. Miembro
+      fundador y Secretario General de SOVEDEM. Conferencista y autor en derecho mercantil,
+      arbitraje y compliance. Miembro de reconocidas asociaciones de arbitraje y resolución de
+      conflictos en Iberoamérica.
+      `,
+    },
+    {
+      name: 'Juan Gomez',
+      from: 'Colombia',
+      pathPhoto: 'assets/images/speakers/JuanPabloG.png',
+      bio: `Juan Pablo Gómez es abogado colombiano y magíster en Derecho Privado. Trabaja como consultor
+      experto independiente en arbitraje internacional y tiene experiencia en más de 40 casos
+      comerciales y de inversión. Participa en la defensa de varios Estados latinoamericanos y asesora al
+      Gobierno de Colombia en la renegociación de tratados de inversión. Es profesor de la Universidad
+      de los Andes en Colombia.
+      `,
+    },
+    {
+      name: 'Adriana Pucci',
+      from: 'Argentina',
+      pathPhoto: 'assets/images/speakers/AdrianaPucci.png',
+      bio: `Abogada natural de la República Argentina y radicada en el Brasil.
+      Adriana es Doctora en Derecho Económico y Financiero por la Facultad de Derecho de la
+      Universidad de São Paulo, Brasil; Magister en Integración de América Latina [PROLAM] por la
+      Facultad de Derecho de la Universidad de São Paulo, Brasil; Escribana por la Universidad
+      Nacional del Litoral, Argentina.
+      Abogada en São Paulo. Actúa principalmente como Árbitra en arbitrajes domésticos e
+      internacionales.
+      Ha participado de arbitrajes envolviendo una serie de industrias y temas, entre otros: Ingeniería
+      e Infraestructura [arbitrajes con participación del Estado, empresas públicas y sociedades de
+      economía mixta]; Contratos de EPC [Engineering Procurement &amp; Construction]; Construcción de
+      represas hidroeléctricas; Construcción de parques eólicos; Desarrollo Inmobiliario; Contratos de
+      comercialización de energía eléctrica; Contratos de construcción en general; Contratos de M&amp;A
+      - Mergers &amp; Acquisition; Disputas Societarias; Contratos de Agencia y Distribución Comercial;
+      Contratos de compra y venta internacional de mercaderías; Contratos de administración de
+      puertos; Contratos de administración de complejos hoteleros.
+      Ha actuado como abogada defendiendo intereses de clientes en arbitrajes domésticas e
+      internacionales y también como expert witness ante el CAS [Court of Arbitration for Sport].
       `,
     },
   ],
